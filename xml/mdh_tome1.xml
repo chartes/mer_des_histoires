@@ -46,11 +46,11 @@
       <div>
         <head resp="#FD">Prologue</head>
         <pb facs="#facs_1" n="1"/>
-        <cb facs="#facs_1_TextRegion_1553614078131_64" next="#Repair_new4"/>
+        <cb facs="#facs_1_TextRegion_1553614078131_64"/>
         <div>
           <head resp="#FD">Premier chapitre</head>
           <lb facs="#facs_1_r1l54" n="N002"/>Pour esmouuoir 
-          <cb xml:id="Repair_new4"/>
+          <cb/>
           <lb facs="#facs_1_r1l57" n="N003"/>les courages
           <lb facs="#facs_1_r1l61" n="N004"/>des
           <lb facs="#facs_1_r1l63" n="N005"/>humains
@@ -63,10 +63,10 @@
           <lb facs="#facs_1_r1l72" n="N012"/>sagement
           <lb facs="#facs_1_r1l73" n="N013"/>/ est
           <lb facs="#facs_1_r1l76" n="N014"/>escript ou
-          <lb facs="#facs_1_r1l86" n="N015"/>xiiii <w next="#Repair_new7" resp="LGeRM">chapitre</w>
-          <cb facs="#facs_1_TextRegion_1553614092501_76" next="#Repair_new8"/>
-          <cb xml:id="Repair_new8"/>
-          <p xml:id="Repair_new8">de ecclesiastique/que lomme est bien eureux qui </p>
+          <lb facs="#facs_1_r1l86" n="N015"/>xiiii <w resp="LGeRM">chapitre</w>
+          <cb facs="#facs_1_TextRegion_1553614092501_76"/>
+          <cb/>
+          <p>de ecclesiastique/que lomme est bien eureux qui </p>
           <cb facs="#facs_1_TextRegion_1553614116207_108"/>
           <lb facs="#facs_1_r1l88" n="N001"/>fait sa demourance/et se arreste en lestude de
           <lb facs="#facs_1_r1l91" n="N002"/>sapience.Car sur tous les autres dons et
@@ -241,11 +241,11 @@
           <lb facs="#facs_3_r1l42" n="N042"/>et royaulmes qui par plusieurs endrois
           <lb facs="#facs_3_r1l43" n="N043"/>semblent plus estre diuines que humaines
           <lb facs="#facs_3_r1l44" n="N044"/>.Par opposite les aduersites et males
-          <lb facs="#facs_3_r1l45" n="N045"/>auentures qui oudit royaulme <w next="#Repair_new9" resp="LGeRM">par</w>
-          <cb facs="#facs_3_r2" next="#Repair_new10"/>
+          <lb facs="#facs_3_r1l45" n="N045"/>auentures qui oudit royaulme <w resp="LGeRM">par</w>
+          <cb facs="#facs_3_r2"/>
           <lb facs="#facs_3_r2l1" n="N001"/>les
-          <cb xml:id="Repair_new10"/>
-          <p xml:id="Repair_new10">
+          <cb/>
+          <p>
             <lb/>deffaultes daucuns desditz roys et
             <lb facs="#facs_3_r2l2" n="N002"/>princes ont fait gref detriment. Toutes
             <lb facs="#facs_3_r2l3" n="N003"/>les quelles choses/ ou la plus part
@@ -1370,12 +1370,12 @@
         <lb facs="#facs_12_r1l78" n="N078"/>Le cc.xlvede lisle de cypre.f. iiiioe xix.
         <lb facs="#facs_12_r1l79" n="N079"/>Le cc.xlvjede crete feuillet iiijoexix
         <lb facs="#facs_12_r1l80" n="N080"/>Le cc.xlvij edes ciclades feu.iiiioe xix
-        <lb facs="#facs_12_r1l81" n="N081"/>Le ce.xlviijede lisle corsica feuillet <w next="#Repair_new11" resp="LGeRM">Ce </w>
-        <w xml:id="Repair_new11">
-          <cb facs="#facs_12_r2" next="#Repair_new12"/>
+        <lb facs="#facs_12_r1l81" n="N081"/>Le ce.xlviijede lisle corsica feuillet <w resp="LGeRM">Ce </w>
+        <w>
+          <cb facs="#facs_12_r2"/>
           <lb facs="#facs_12_r2l1" n="N001"/>Le</w>
-        <cb xml:id="Repair_new12"/>
-        <p xml:id="Repair_new12"> cc.xlixede lisle carpathos feu
+        <cb/>
+        <p> cc.xlixede lisle carpathos feu
           <lb facs="#facs_12_r2l2" n="N002"/>C.
           <lb facs="#facs_12_r2l3" n="N003"/>Le cc.lede lisle cytherea feuillet C
           <lb facs="#facs_12_r2l5" n="N005"/>Le cc.ljede lisle delos feuillet
@@ -1453,13 +1453,13 @@
           <lb facs="#facs_12_r2l71" n="N071"/>Le cc.iiiiod viiie du fleuue
           <lb facs="#facs_12_r2l72" n="N072"/>C.et iui
           <lb facs="#facs_12_r2l73" n="N073"/>feuillet
-          <lb facs="#facs_12_r2l74" n="N074"/>Le cc.iiiiorixe du fleuue orontes.f.c.<w next="#Repair_new13" resp="LGeRM">aiue </w>
+          <lb facs="#facs_12_r2l74" n="N074"/>Le cc.iiiiorixe du fleuue orontes.f.c.<w resp="LGeRM">aiue </w>
         </p>
         <pb facs="#facs_13" n="13"/>
-        <cb facs="#facs_13_r1" next="#Repair_new14"/>
+        <cb facs="#facs_13_r1"/>
         <lb facs="#facs_13_r1l1" n="N001"/>Le
-        <cb xml:id="Repair_new14"/>
-        <p xml:id="Repair_new14"> cc.iiiitexedu fleuue appelle le po.
+        <cb/>
+        <p> cc.iiiitexedu fleuue appelle le po.
           <lb facs="#facs_13_r1l2" n="N002"/>c.et iiij
           <lb facs="#facs_13_r1l3" n="N003"/>feullet
           <lb facs="#facs_13_r1l4" n="N004"/>Le cc.iiiiooxjedu rin et du rosue.f.c. et v
@@ -1635,8 +1635,8 @@
         <lb facs="#facs_14_r1l54" n="N054"/>de crime.et de louenge.Et comment
         <lb facs="#facs_14_r1l55" n="N055"/>on se doibt confesser feuillet vios
         <lb facs="#facs_14_r1l56" n="N056"/>xviij. Item de la vendition de Joseph
-        <lb facs="#facs_14_r1l57" n="N057"/>Aussi des femmes de iudas. De ses <w next="#Repair_new15" resp="LGeRM">en</w>
-        <cb facs="#facs_14_r2" next="#Repair_new16"/>
+        <lb facs="#facs_14_r1l57" n="N057"/>Aussi des femmes de iudas. De ses <w resp="LGeRM">en</w>
+        <cb facs="#facs_14_r2"/>
         <lb facs="#facs_14_r2l1" n="N001"/>fans de sa descente en egypte.Et de
         <lb facs="#facs_14_r2l2" n="N002"/>son testament feuillet
         <lb facs="#facs_14_r2l3" n="N003"/>viooxix
@@ -1925,9 +1925,9 @@
         <lb facs="#facs_16_r1l63" n="N063"/>feuillet
         <lb facs="#facs_16_r1l64" n="N064"/>viiiooet ix
         <lb facs="#facs_16_r1l65" n="N065"/>Le ciiiede Josue. Des explorateurs et
-        <lb facs="#facs_16_r1l66" n="N066"/>espies enuoyees a hiericho. De la <w next="#Repair_new17" resp="LGeRM">di</w>
-        <w xml:id="Repair_new17">
-          <cb facs="#facs_16_r2" next="#Repair_new18"/>
+        <lb facs="#facs_16_r1l66" n="N066"/>espies enuoyees a hiericho. De la <w resp="LGeRM">di</w>
+        <w>
+          <cb facs="#facs_16_r2"/>
           <lb facs="#facs_16_r2l1" n="N001"/>stirbution des terres a chascune lignee
           <lb facs="#facs_16_r2l2" n="N002"/>De caleph /feuillet
           <lb facs="#facs_16_r2l3" n="N003"/>viiiodet x
@@ -2153,9 +2153,9 @@
         <lb facs="#facs_18_r1l48" n="N048"/>cerimonies en leglise feuillet cc.et ij.
         <lb facs="#facs_18_r1l49" n="N049"/>⁋ En ceste iiieaage sont quatre chayen
         <lb facs="#facs_18_r1l50" n="N050"/>nes. La premiere qui est dabraham
-        <w next="#Repair_new19" resp="LGeRM">est </w>
-        <w xml:id="Repair_new19">
-          <cb facs="#facs_18_r2" next="#Repair_new20"/>
+        <w resp="LGeRM">est </w>
+        <w>
+          <cb facs="#facs_18_r2"/>
           <lb facs="#facs_18_r2l1" n="N001"/>au feuillet
           <lb facs="#facs_18_r2l2" n="N002"/>.c.xiie
           <lb facs="#facs_18_r2l3" n="N003"/>La seconde qui est de Jacob au feuillet
@@ -2211,10 +2211,10 @@
           <lb facs="#facs_18_r2l47" n="N047"/>thar souuerain prestre.f
           <lb facs="#facs_18_r2l48" n="N048"/>De ledification du temple.et des festes dicelluy
           <lb facs="#facs_18_r2l49" n="N049"/>.des trois maisons royales et
-          <lb facs="#facs_18_r2l50" n="N050"/>murs de la cite. De lab inuenteur de <w next="#Repair_new21" resp="LGeRM">la</w>
+          <lb facs="#facs_18_r2l50" n="N050"/>murs de la cite. De lab inuenteur de <w resp="LGeRM">la</w>
         </p>
         <pb facs="#facs_19" n="19"/>
-        <cb facs="#facs_19_r1" next="#Repair_new22"/>
+        <cb facs="#facs_19_r1"/>
         <lb facs="#facs_19_r1l1" n="N001"/>stralabe .f.ce.xvii. de la royne de sabba
         <lb facs="#facs_19_r1l2" n="N002"/>et des lettres quelle escript a Salomon
         <lb facs="#facs_19_r1l3" n="N003"/>.Et des trois temp les quil fist
@@ -2404,8 +2404,8 @@
         <lb facs="#facs_20_r1l55" n="N055"/>de seruitude. feuillet
         <lb facs="#facs_20_r1l56" n="N056"/>.cc.l.
         <lb facs="#facs_20_r1l57" n="N057"/>⁋ Le xlijedu residu des iuifz qui alerent
-        <lb facs="#facs_20_r1l58" n="N058"/>en egypte et de Jeremie qui leur <w next="#Repair_new23" resp="LGeRM">remon</w>
-        <cb facs="#facs_20_r2" next="#Repair_new24"/>
+        <lb facs="#facs_20_r1l58" n="N058"/>en egypte et de Jeremie qui leur <w resp="LGeRM">remon</w>
+        <cb facs="#facs_20_r2"/>
         <lb facs="#facs_20_r2l1" n="N001"/>stroit leurs vices. feuillet
         <lb facs="#facs_20_r2l2" n="N002"/>.cc.lii.
         <lb facs="#facs_20_r2l3" n="N003"/>⁋ Le xliijedes prestres/cestassauoir de
@@ -2447,8 +2447,8 @@
       <div>
         <head resp="#FD">Premier aage</head>
         <pb facs="#facs_21" n="21"/>
-        <cb xml:id="Repair_new26"/>
-        <p xml:id="Repair_new26"> prma/
+        <cb/>
+        <p> prma/
           <lb facs="#facs_21_r2l30" n="N002"/>pio crlan/
           <lb facs="#facs_21_r2l33" n="N003"/>uit deuz
           <lb facs="#facs_21_r2l37" n="N004"/>guim ets
@@ -2461,15 +2461,15 @@
           <lb facs="#facs_21_r2l47" n="N011"/> lourdre
           <lb facs="#facs_21_r2l48" n="N012"/>et ad
           <lb facs="#facs_21_r2l49" n="N013"/>ueuir de
-          <lb facs="#facs_21_r2l51" n="N014"/>iour en <w next="#Repair_new27" resp="LGeRM">
+          <lb facs="#facs_21_r2l51" n="N014"/>iour en <w resp="LGeRM">
             <lb facs="#facs_21_r2l59" n="N015"/>iour </w></p>
-        <w xml:id="Repair_new27">
-          <cb facs="#facs_21_r4" next="#Repair_new28"/>
+        <w>
+          <cb facs="#facs_21_r4"/>
           <lb facs="#facs_21_r4l1" n="N001"/>
           <lb facs="#facs_21_r2l64" n="N002"/>Et pour auoir clerement congnoillance partonde
-          <w next="#Repair_new25" resp="LGeRM">de </w></w>
-        <cb xml:id="Repair_new28"/>
-        <p xml:id="Repair_new28"> </p>
+          <w resp="LGeRM">de </w></w>
+        <cb/>
+        <p> </p>
         <cb facs="#facs_21_TextRegion_1553680239897_232"/>
         <lb facs="#facs_21_r2l69" n="N001"/>la saincte escripture:dit sainct augustin sur
         <lb facs="#facs_21_r2l73" n="N002"/>le premier chapitre de genese/que en icelle
@@ -2489,10 +2489,10 @@
         <lb facs="#facs_21_r2l101" n="N016"/>tant seulement listoire selond la lettre
         <lb facs="#facs_21_r2l103" n="N017"/>sans glose /ne quelque exposition. ⁋ Lesquelx
         <lb facs="#facs_21_r2l105" n="N018"/>quatre sens dessusditz comme dit francois
-        <lb facs="#facs_21_line_1553680240015_235" n="N019"/>de marones sont appropriez aux quatre <w next="#Repair_new29" resp="LGeRM">do
+        <lb facs="#facs_21_line_1553680240015_235" n="N019"/>de marones sont appropriez aux quatre <w resp="LGeRM">do
         </w>
-        <w xml:id="Repair_new29">
-          <cb facs="#facs_21_TextRegion_1553680234381_222" next="#Repair_new30"/>
+        <w>
+          <cb facs="#facs_21_TextRegion_1553680234381_222"/>
           <lb facs="#facs_21_r2l67" n="N001"/>cteurs de leglise. Car sainct augustin fust
           <lb facs="#facs_21_r2l71" n="N002"/>anagogique. Interpretant la ditte saincte
           <lb facs="#facs_21_r2l74" n="N003"/>escripture selond les choses haultes et diuines
@@ -2674,9 +2674,9 @@
         <lb facs="#facs_23_r1l50" n="N047"/>en ce temps la estoit trop plus pure et
         <lb facs="#facs_23_r1l51" n="N048"/>clere et facile a esclairer que maintenant
         <lb facs="#facs_23_r1l52" n="N049"/>⁋ Et ainsy que le souleil par son alee
-        <lb facs="#facs_23_r1l53" n="N050"/>et venue fait le iour et la nuyt:aussy <w next="#Repair_new31" resp="LGeRM">fai</w>
-        <w xml:id="Repair_new31">
-          <cb facs="#facs_23_TextRegion_1553680426604_339" next="#Repair_new32"/>
+        <lb facs="#facs_23_r1l53" n="N050"/>et venue fait le iour et la nuyt:aussy <w resp="LGeRM">fai</w>
+        <w>
+          <cb facs="#facs_23_TextRegion_1553680426604_339"/>
           <lb facs="#facs_23_r2l2" n="N001"/>soit icelle nuee selon son alee et venue
           <lb facs="#facs_23_r2l3" n="N002"/>autour des elemens assemblez. ⁋Il ya
           <lb facs="#facs_23_r2l4" n="N003"/>encor aultre difficulte/cestassauoir comment
@@ -2732,10 +2732,10 @@
         <pb facs="#facs_24" n="24"/>
         <cb facs="#facs_24_TextRegion_1553680470862_372"/>
         <lb facs="#facs_24_r1l2" n="N001"/>
-        <w xml:id="Repair_new33"><cb facs="#facs_24_TextRegion_1553680465959_368" next="#Repair_new34"/>
+        <w><cb facs="#facs_24_TextRegion_1553680465959_368"/>
           <lb facs="#facs_24_r1l3" n="N001"/>par</w>
-        <cb xml:id="Repair_new34"/>
-        <p xml:id="Repair_new34"> diuers temps. Selon la quelle diuersification
+        <cb/>
+        <p> diuers temps. Selon la quelle diuersification
           <lb facs="#facs_24_r1l5" n="N002"/>se fait la diuersite des
           <lb facs="#facs_24_r1l7" n="N003"/>iours/des moys/et des ans.car nous
           <lb facs="#facs_24_r1l9" n="N004"/>voyons que le souleil se lieue plus matin
@@ -2836,8 +2836,8 @@
         <lb facs="#facs_24_r1l95" n="N047"/>estoyt la nuyt/ par quoy comme
         <lb facs="#facs_24_r1l97" n="N048"/>dit est/dieu appella la lumiere:le iour:
         <lb facs="#facs_24_r1l99" n="N049"/>et les tenebres/la nuyt.Et est certain
-        <lb facs="#facs_24_r1l101" n="N050"/>que on premier iour ny eust point <w next="#Repair_new33" resp="LGeRM">de </w>
-        <w xml:id="Repair_new33"> </w>
+        <lb facs="#facs_24_r1l101" n="N050"/>que on premier iour ny eust point <w resp="LGeRM">de </w>
+        <w> </w>
         <pb facs="#facs_25" n="25"/>
         <cb facs="#facs_25_r4"/>
         <lb facs="#facs_25_r4l1" n="N001"/>aurore ou de point du iour. mais commenca
@@ -3423,7 +3423,7 @@
         <lb facs="#facs_30_r2l96" n="N022"/>.pour la grandeur de leur corps 
         <cb facs="#facs_30_r5"/>
         <lb facs="#facs_30_r5l1" n="N001"/>
-        <w xml:id="Repair_new35"> </w>
+        <w> </w>
         <cb facs="#facs_31_TextRegion_1553680944503_672"/>
         <lb facs="#facs_31_r2l3" n="N001"/>Car le souleil est dit / huyt foys plusgrant
         <lb facs="#facs_31_r2l4" n="N002"/>que nest toute la terre/ Et aussi
@@ -4410,8 +4410,8 @@
         <lb facs="#facs_41_r1l47" n="N047"/>est ymage de dieu.et la femme ymaige
         <lb facs="#facs_41_r1l48" n="N048"/>de lomme.Et en luitiesme chapitre
         <lb facs="#facs_41_r1l49" n="N049"/>de lepistre aux romains dit sainct pol
-        <lb facs="#facs_41_r1l50" n="N050"/>que les predestinez seulement/cest <w next="#Repair_new39" resp="LGeRM">adi</w>
-        <cb facs="#facs_41_TextRegion_1553681717097_972" next="#Repair_new40"/>
+        <lb facs="#facs_41_r1l50" n="N050"/>que les predestinez seulement/cest <w resp="LGeRM">adi</w>
+        <cb facs="#facs_41_TextRegion_1553681717097_972"/>
         <lb facs="#facs_41_r2l2" n="N001"/>re/ ceulx que dieu a ordonnez debuoir
         <lb facs="#facs_41_r2l3" n="N002"/>estre sauluez:aront lymaige de dieu. et
         <lb facs="#facs_41_r2l4" n="N003"/>non pas les presceux . cest adire ceux que
@@ -4836,9 +4836,9 @@
         <lb facs="#facs_45_r1l47" n="N047"/>.mais ioincte auec le corps. Car lame
         <lb facs="#facs_45_r1l48" n="N048"/>ne suffist pas a faire vne propre espece
         <lb facs="#facs_45_r1l49" n="N049"/>differente des aultres. Et ne sont pas
-        <lb facs="#facs_45_r1l50" n="N050"/>lame raisonnable et les anges dune <w next="#Repair_new41" resp="LGeRM">mes</w>
-        <w xml:id="Repair_new41">
-          <cb facs="#facs_45_TextRegion_1553698384276_92" next="#Repair_new42"/>
+        <lb facs="#facs_45_r1l50" n="N050"/>lame raisonnable et les anges dune <w resp="LGeRM">mes</w>
+        <w>
+          <cb facs="#facs_45_TextRegion_1553698384276_92"/>
           <lb facs="#facs_45_r2l2" n="N001"/>me espece.Ainsy que dit denys ou viie
           <lb facs="#facs_45_r2l3" n="N002"/>chapi.des noms diuins:ce que toutesfoys
           <lb facs="#facs_45_r2l4" n="N003"/>a dit origene come dit est.par ainsy na pas
@@ -5444,9 +5444,9 @@
         <lb facs="#facs_51_r1l47" n="N047"/>.la sengendrent tonnerres/choruscations
         <lb facs="#facs_51_r1l48" n="N048"/>/gresles /pluyes/et choses semblables
         <lb facs="#facs_51_r1l49" n="N049"/>.Es aultres deux parties sont
-        <lb facs="#facs_51_r1l50" n="N050"/>chaleur et lumiere. ⁋ Par les choses <w next="#Repair_new43" resp="LGeRM">des</w>
-        <w xml:id="Repair_new43">
-          <cb facs="#facs_51_TextRegion_1553698720804_284" next="#Repair_new44"/>
+        <lb facs="#facs_51_r1l50" n="N050"/>chaleur et lumiere. ⁋ Par les choses <w resp="LGeRM">des</w>
+        <w>
+          <cb facs="#facs_51_TextRegion_1553698720804_284"/>
           <lb facs="#facs_51_r2l2" n="N001"/>susdittes appert que il ya xvii.speres/et
           <lb facs="#facs_51_r2l3" n="N002"/>orbes/circundans/et enuir onnans leaue
           <lb facs="#facs_51_r2l4" n="N003"/>et la terre qui se peuent appeller
@@ -5471,8 +5471,8 @@
           <lb facs="#facs_51_r2l23" n="N022"/>CCC.soixante et xv miliaires.
         </w>
         <pb facs="#facs_52" n="52"/>
-        <cb xml:id="Repair_new46"/>
-        <p xml:id="Repair_new46"> </p>
+        <cb/>
+        <p> </p>
         <pb facs="#facs_53" n="53"/>
         <cb facs="#facs_53_TextRegion_1553698825391_348"/>
         <lb facs="#facs_53_r1l1" n="N001"/>S ensuyt le ixe chapitre qui est de
@@ -5735,12 +5735,12 @@
         <lb facs="#facs_55_r1l47" n="N047"/>vie.du quel est escript ou xxxie
         <lb facs="#facs_55_r1l48" n="N048"/>de ezechiel.il nya boys quil puisse estre
         <lb facs="#facs_55_r1l49" n="N049"/>compare a ycelluy.Car selon le quart
-        <lb facs="#facs_55_r1l50" n="N050"/>des cantiques par luy nous auons <w next="#Repair_new47" resp="LGeRM">pa </w>
-        <w xml:id="Repair_new47">
-          <cb facs="#facs_55_TextRegion_1553699046864_404" next="#Repair_new48"/>
+        <lb facs="#facs_55_r1l50" n="N050"/>des cantiques par luy nous auons <w resp="LGeRM">pa </w>
+        <w>
+          <cb facs="#facs_55_TextRegion_1553699046864_404"/>
           radis</w>
-        <cb xml:id="Repair_new48"/>
-        <p xml:id="Repair_new48">.⁋ On peult demander se en ycelluy
+        <cb/>
+        <p>.⁋ On peult demander se en ycelluy
           <lb facs="#facs_55_r2l3" n="N002"/>paradis fut lame de Ihesucrist entre
           <lb facs="#facs_55_r2l4" n="N003"/>sa mort/et sa resurrection: veu queil
           <lb facs="#facs_55_r2l5" n="N004"/>auoit dit en la croix au bon larron:Auiourduy
@@ -5945,9 +5945,9 @@
         <lb facs="#facs_57_r1l47" n="N047"/>les plus gras de son tropeau/selon Josephe
         <lb facs="#facs_57_r1l48" n="N048"/>ou liure premier et ou second chapitre
         <lb facs="#facs_57_r1l49" n="N049"/>. ⁋ La cause pourquoy cayn tua
-        <lb facs="#facs_57_r1l50" n="N050"/>abel fust pource que par signe il <w next="#Repair_new49" resp="LGeRM">con</w>
-        <w xml:id="Repair_new49">
-          <cb facs="#facs_57_TextRegion_1553699197864_447" next="#Repair_new50"/>
+        <lb facs="#facs_57_r1l50" n="N050"/>abel fust pource que par signe il <w resp="LGeRM">con</w>
+        <w>
+          <cb facs="#facs_57_TextRegion_1553699197864_447"/>
           <lb facs="#facs_57_r2l2" n="N001"/>gneut que le sacrifice de abel playsoit
           <lb facs="#facs_57_r2l3" n="N002"/>a dieu . Et selon sainct Augustin/ ou
           <lb facs="#facs_57_r2l4" n="N003"/>premier liure des merueilles du monde
@@ -6051,9 +6051,9 @@
         <lb facs="#facs_58_r1l89" n="N047"/>iiie et xxve de denese. Et aussy ysaac/
         <lb facs="#facs_58_r1l91" n="N048"/>Rebecca/ Jacob/et lya/selon genese ou
         <lb facs="#facs_58_r1l93" n="N049"/>xlixe. Les sarrazins honnorent plus icelluy
-        <lb facs="#facs_58_r1l95" n="N050"/>lieu/qu'il ne font le sepulcre de <w next="#Repair_new51" resp="LGeRM">ma</w>
-        <w xml:id="Repair_new51">
-          <cb facs="#facs_58_TextRegion_1553699337805_495" next="#Repair_new52"/>
+        <lb facs="#facs_58_r1l95" n="N050"/>lieu/qu'il ne font le sepulcre de <w resp="LGeRM">ma</w>
+        <w>
+          <cb facs="#facs_58_TextRegion_1553699337805_495"/>
           <lb facs="#facs_58_r1l2" n="N001"/>chommet qui est en vne cite nommee
           <lb facs="#facs_58_r1l4" n="N002"/>mecha en la grande arabie.duquel machommet
           <lb facs="#facs_58_r1l6" n="N003"/>les sarrazins adorent le sepulcre
@@ -6621,9 +6621,9 @@
         <lb facs="#facs_64_r2l94" n="N047"/>nous a este donne pour bien viure et
         <lb facs="#facs_64_r2l96" n="N048"/>faire penitence de nos maulx.⁋Pource
         <lb facs="#facs_64_r2l98" n="N049"/>Job ou xxiiije chapitre se plaignoist
-        <lb facs="#facs_64_r2l100" n="N050"/>du temps/que dieu luy auoit donne <w next="#Repair_new53" resp="LGeRM">a </w>
-        <w xml:id="Repair_new53">
-          <cb facs="#facs_64_TextRegion_1553700046165_764" next="#Repair_new54"/>
+        <lb facs="#facs_64_r2l100" n="N050"/>du temps/que dieu luy auoit donne <w resp="LGeRM">a </w>
+        <w>
+          <cb facs="#facs_64_TextRegion_1553700046165_764"/>
           <lb facs="#facs_64_r2l3" n="N001"/>fairepenitence.lequel il appliquoyt a
           <lb facs="#facs_64_r2l5" n="N002"/>mal. ⁋ De telles manieres de gens
           <lb facs="#facs_64_r2l7" n="N003"/>parle lapostre en lepitre aux romains
@@ -6962,8 +6962,8 @@
         <lb facs="#facs_67_r2l31" n="N030"/>de sainct marc/ et sainct mathieu
         <lb facs="#facs_67_r2l32" n="N031"/>ou il est commade baptizer ou non du
         <lb facs="#facs_67_r2l33" n="N032"/>pere et du filz et du sainct esperit. 
-        <cb xml:id="Repair_new56"/>
-        <p xml:id="Repair_new56"> </p>
+        <cb/>
+        <p> </p>
         <pb facs="#facs_68" n="68"/>
         <cb facs="#facs_68_TextRegion_1553700349604_859"/>
         <lb facs="#facs_68_r1l3" n="N001"/>⁋ Le.xviie chapitre de yrad
@@ -7068,8 +7068,8 @@
         <lb facs="#facs_68_r1l97" n="N049"/>xlix. de genese Et affin que nous lensuiuons
         <lb facs="#facs_68_r1l99" n="N050"/>plus courageusement. 
         <pb facs="#facs_69" n="69"/>
-        <cb xml:id="Repair_new58"/>
-        <p xml:id="Repair_new58"> </p>
+        <cb/>
+        <p> </p>
         <cb facs="#facs_69_r3"/>
         <lb facs="#facs_69_r3l1" n="N001"/>Tiercement il est monte:affin que nous
         <lb facs="#facs_69_r3l2" n="N002"/>soyons tires apres luy plus efficace ment
@@ -7631,9 +7631,9 @@
         <lb facs="#facs_75_r1l47" n="N047"/>en sa coionction auec le corps / apres sa
         <lb facs="#facs_75_r1l48" n="N048"/>creation est detenue du corps auec lequel
         <lb facs="#facs_75_r1l49" n="N049"/>elle concoyt vne merueilleuse amour
-        <lb facs="#facs_75_r1l50" n="N050"/>Aussy lame separee du corps est <w next="#Repair_new63" resp="LGeRM">con</w>
-        <w xml:id="Repair_new63">
-          <cb facs="#facs_75_TextRegion_1553702136818_1000" next="#Repair_new64"/>
+        <lb facs="#facs_75_r1l50" n="N050"/>Aussy lame separee du corps est <w resp="LGeRM">con</w>
+        <w>
+          <cb facs="#facs_75_TextRegion_1553702136818_1000"/>
           <lb facs="#facs_75_r2l2" n="N001"/>ioincte auecques le feu. et detenue de
           <lb facs="#facs_75_r2l3" n="N002"/>ycelluy.laquelle chose luy fait grant
           <lb facs="#facs_75_r2l4" n="N003"/>horreur /douleur/et abhomination. Tiercement
@@ -8249,12 +8249,12 @@
         <lb facs="#facs_81_r2l45" n="N045"/>les hebrieux .et selon les lxx expositeurs
         <lb facs="#facs_81_r2l46" n="N046"/>ix cens et lxx qui sont auant la natiuite
         <lb facs="#facs_81_r2l47" n="N047"/>de Ihesucrist iiij. Mil.ii.cens xxix ans
-        <lb facs="#facs_81_r2l48" n="N048"/>Et est inteprte roborant et fortifiant ou <w next="#Repair_new65" resp="LGeRM">fer</w>
-        <w xml:id="Repair_new65">
-          <cb facs="#facs_81_TextRegion_1553791216837_36" next="#Repair_new66"/>
+        <lb facs="#facs_81_r2l48" n="N048"/>Et est inteprte roborant et fortifiant ou <w resp="LGeRM">fer</w>
+        <w>
+          <cb facs="#facs_81_TextRegion_1553791216837_36"/>
           <lb facs="#facs_81_r3l2" n="N001"/>me</w>
-        <cb xml:id="Repair_new66"/>
-        <p xml:id="Repair_new66">.Car par grace en luy roboree /il engendra
+        <cb/>
+        <p>.Car par grace en luy roboree /il engendra
           <lb facs="#facs_81_r3l3" n="N002"/>enoch en son an.C.lxiie. ⁋ </p>
         <p>
           <lb/>Selon
@@ -8855,9 +8855,9 @@
         <lb facs="#facs_88_r1l47" n="N047"/>vault vij des nostres ou viii selon sainct
         <lb facs="#facs_88_r1l48" n="N048"/>augustin ou xve liure de la cite de dieu
         <lb facs="#facs_88_r1l49" n="N049"/>ou chapitre dernier. ⁋ La cause effectiue
-        <lb facs="#facs_88_r1l50" n="N050"/>principale du deluge fut dieu le <w next="#Repair_new67" resp="LGeRM">souue</w>
-        <w xml:id="Repair_new67">
-          <cb facs="#facs_88_TextRegion_1553791684286_322" next="#Repair_new68"/>
+        <lb facs="#facs_88_r1l50" n="N050"/>principale du deluge fut dieu le <w resp="LGeRM">souue</w>
+        <w>
+          <cb facs="#facs_88_TextRegion_1553791684286_322"/>
           <lb facs="#facs_88_r2l3" n="N001"/>rain createur voulant punir les pechiez
           <lb facs="#facs_88_r2l4" n="N002"/>des hommes. ⁋ La cause instrumentale
           <lb facs="#facs_88_r2l5" n="N003"/>fust le ciel qui deuant le deluge tyra et esleua
@@ -9065,9 +9065,9 @@
         <lb facs="#facs_90_r1l47" n="N047"/>iceulx geyans estre produiz et engendres
         <lb facs="#facs_90_r1l48" n="N048"/>pour distraire les aultres de sa comgnoissance
         <lb facs="#facs_90_r1l49" n="N049"/>.Et affin que eussions matiere
-        <lb facs="#facs_90_r1l50" n="N050"/>de batailler contre les vices.<w next="#Repair_new69" resp="LGeRM">Pour </w>
-        <w xml:id="Repair_new69">
-          <cb facs="#facs_90_TextRegion_1553791769080_370" next="#Repair_new70"/>
+        <lb facs="#facs_90_r1l50" n="N050"/>de batailler contre les vices.<w resp="LGeRM">Pour </w>
+        <w>
+          <cb facs="#facs_90_TextRegion_1553791769080_370"/>
           <lb facs="#facs_90_r2l3" n="N001"/>ce est dit ou vede genese/que iceulx geyans
           <lb facs="#facs_90_r2l4" n="N002"/>estoient les puissans hommes du siecle
           <lb facs="#facs_90_r2l5" n="N003"/>:qui auoient bruit en mal.et si estoient
@@ -9120,10 +9120,10 @@
           <lb facs="#facs_90_r2l49" n="N047"/>ou second moys / cestadire en octobre
           <lb facs="#facs_90_r2l50" n="N048"/>: et xviie iour dicelluy.Car selon les
           <lb facs="#facs_90_r2l51" n="N049"/>hebrieux le monde fut fait en septembre
-          <lb facs="#facs_90_r2l52" n="N050"/>qui est le premier moys:ou quel les <w next="#Repair_new71" resp="LGeRM">ar</w>
+          <lb facs="#facs_90_r2l52" n="N050"/>qui est le premier moys:ou quel les <w resp="LGeRM">ar</w>
         </p>
         <pb facs="#facs_91" n="91"/>
-        <cb facs="#facs_91_TextRegion_1553794506014_410" next="#Repair_new72"/>
+        <cb facs="#facs_91_TextRegion_1553794506014_410"/>
         <cb facs="#facs_91_TextRegion_1553794501782_388"/>
         <lb facs="#facs_91_r1l3" n="N001"/>bres estoient plains de fruit. car comme
         <lb facs="#facs_91_r1l5" n="N002"/>dessus est dit en telle maniere et perfection
@@ -9365,9 +9365,9 @@
         <cb facs="#facs_93_TextRegion_1553794617554_485"/>
         <w resp="LGeRM">est</w> interprete /chault: Selon
         <lb facs="#facs_93_r2l142" n="N004"/>ysydore ou lieu dessusdit . Pource que
-        <lb facs="#facs_93_line_1553794583770_450" n="N005"/>sa posterite habita en vng pays <w next="#Repair_new75" resp="LGeRM">tres</w>
-        <w xml:id="Repair_new75">
-          <cb facs="#facs_93_TextRegion_1553794608246_473" next="#Repair_new76"/>
+        <lb facs="#facs_93_line_1553794583770_450" n="N005"/>sa posterite habita en vng pays <w resp="LGeRM">tres</w>
+        <w>
+          <cb facs="#facs_93_TextRegion_1553794608246_473"/>
           <lb facs="#facs_93_r2l3" n="N001"/>chault cestassauoir le pays de egipte
           <lb facs="#facs_93_r2l5" n="N002"/>Pour laquelle cause ledit pays degypte
           <lb facs="#facs_93_r2l7" n="N003"/>est encore de present/ en la langue
@@ -9469,9 +9469,9 @@
         <lb facs="#facs_94_r1l47" n="N047"/>enfans dudit chanaan sont venus a nostre
         <lb facs="#facs_94_r1l48" n="N048"/>congnoissance.Lun d'iceulx fut appelle
         <lb facs="#facs_94_r1l49" n="N049"/>sydon et est le premier ne / qui donna
-        <lb facs="#facs_94_r1l50" n="N050"/>non a la cite de sydon en fenice.<w next="#Repair_new77" resp="LGeRM">laquel</w>
-        <w xml:id="Repair_new77">
-          <cb facs="#facs_94_TextRegion_1553794649873_503" next="#Repair_new78"/>
+        <lb facs="#facs_94_r1l50" n="N050"/>non a la cite de sydon en fenice.<w resp="LGeRM">laquel</w>
+        <w>
+          <cb facs="#facs_94_TextRegion_1553794649873_503"/>
           <lb facs="#facs_94_r2l2" n="N001"/>le est la fin de la terre de pmission vers
           <lb facs="#facs_94_r2l3" n="N002"/>septentrion soubz la montaigne antiliba-/
           <lb facs="#facs_94_r2l4" n="N003"/>ne.Huquel lieu la chananee pria dieu
@@ -9735,8 +9735,8 @@
         <lb facs="#facs_96_r2l50" n="N049"/>xlie. de genese ou est escript que pharaon
         <lb facs="#facs_96_r2l51" n="N050"/>auoit veu en songe vij espiz et vij beufz. 
         <pb facs="#facs_97" n="97"/>
-        <w xml:id="Repair_new79">
-          <cb facs="#facs_97_TextRegion_1553794928767_578" next="#Repair_new80"/>
+        <w>
+          <cb facs="#facs_97_TextRegion_1553794928767_578"/>
           <lb facs="#facs_97_r1l2" n="N001"/>Et toutesfois a la verite:il ne vit que
           <lb facs="#facs_97_r1l3" n="N002"/>la semblance diceulx . Pareillement
           <lb facs="#facs_97_r1l5" n="N003"/>ycy la similitude de samuel:est appellee
@@ -9831,7 +9831,7 @@
           <lb facs="#facs_97_r1l92" n="N044"/>chapitre du xiiiie liure des ethimologies
           <lb facs="#facs_97_r1l93" n="N045"/>: Les trois parties dessusdittes de
           <lb facs="#facs_97_r1l94" n="N046"/>la terre ne sont pas eguales.car asie tient
-          <lb facs="#facs_97_r1l95" n="N047"/>autant que les deux aultres. Et se <w next="#Repair_new79" resp="LGeRM">estend </w>
+          <lb facs="#facs_97_r1l95" n="N047"/>autant que les deux aultres. Et se <w resp="LGeRM">estend </w>
         </p>
         <pb facs="#facs_98" n="98"/>
         <cb facs="#facs_98_r1"/>
@@ -9884,9 +9884,9 @@
         <lb facs="#facs_98_r1l47" n="N047"/>de genese. cestassauoir Helysa / Thar
         <lb facs="#facs_98_r1l48" n="N048"/>sis/Cethim Et dodamin. De helysa
         <lb facs="#facs_98_r1l49" n="N049"/>vint helysus qui apres fut nomme he-/
-        <lb facs="#facs_98_r1l50" n="N050"/>olidos. De tharsis vindrent les <w next="#Repair_new81" resp="LGeRM">cilici</w>
-        <w xml:id="Repair_new81">
-          <cb facs="#facs_98_TextRegion_1553794957648_590" next="#Repair_new82"/>
+        <lb facs="#facs_98_r1l50" n="N050"/>olidos. De tharsis vindrent les <w resp="LGeRM">cilici</w>
+        <w>
+          <cb facs="#facs_98_TextRegion_1553794957648_590"/>
           <lb facs="#facs_98_r2l2" n="N001"/>ens en la terre de cilicie/ou est la cite de
           <lb facs="#facs_98_r2l3" n="N002"/>tharse.En la quelle le prophete ionas
           <lb facs="#facs_98_r2l4" n="N003"/>voulust aler comme apert en ses chapitres
@@ -10132,8 +10132,8 @@
         <lb facs="#facs_100_r2l49" n="N048"/>ceulx quil aime.Et mesmement
         <lb facs="#facs_100_r2l50" n="N049"/>a flagelle son propre filz ihesucrist iusques
         <lb facs="#facs_100_r2l51" n="N050"/>a mort amere et cruelle. ⁋Ainsi
-        <lb facs="#facs_100_r2l52" n="N051"/>doncques lesditz hebrieux pour <w next="#Repair_new83" resp="LGeRM">leur </w>
-        <w xml:id="Repair_new83">
+        <lb facs="#facs_100_r2l52" n="N051"/>doncques lesditz hebrieux pour <w resp="LGeRM">leur </w>
+        <w>
           <pb facs="#facs_101" n="101"/>peche furent mis hors de la terre de promission
           <lb facs="#facs_101_r4l5" n="N002"/>:et ont este long temps come banis
           <lb facs="#facs_101_r4l7" n="N003"/>et fuitifz en egypte cestassauoir iusques
@@ -10162,8 +10162,8 @@
         <lb facs="#facs_101_line_1553795082277_681" n="N001"/>⁋ Luitiesme chapitre de la seconde aage
         <lb facs="#facs_101_r4l92" n="N002"/>R hasech filz de hese fut
         <lb facs="#facs_101_line_1553795082278_683" n="N003"/>ne selon le xje de Eenese en 
-        <cb xml:id="Repair_new84"/>
-        <p xml:id="Repair_new84"> </p>
+        <cb/>
+        <p> </p>
         <cb facs="#facs_101_TextRegion_1553795087425_686"/>
         <lb facs="#facs_101_r4l2" n="N001"/>l'an xxxiiije de son pere. l'an de la seconde
         <lb facs="#facs_101_r4l4" n="N002"/>aage. C.et. i. qui est lan du monde
@@ -10461,9 +10461,9 @@
         <lb facs="#facs_104_r1l46" n="N046"/>et transposition de lieu/comme
         <lb facs="#facs_104_r1l47" n="N047"/>les yeux es espaules.ou front ou en la
         <lb facs="#facs_104_r1l48" n="N048"/>poytrine.et les oreilles es ioes/ ou comme
-        <lb facs="#facs_104_r1l49" n="N049"/>dit aristote de vng homme qui <w next="#Repair_new85" resp="LGeRM">a </w>
-        <w xml:id="Repair_new85">
-          <cb facs="#facs_104_TextRegion_1553795371949_834" next="#Repair_new86"/>
+        <lb facs="#facs_104_r1l49" n="N049"/>dit aristote de vng homme qui <w resp="LGeRM">a </w>
+        <w>
+          <cb facs="#facs_104_TextRegion_1553795371949_834"/>
           <lb facs="#facs_104_r2l2" n="N001"/>uoit en la partie dextre /la rate.et en la/
           <lb facs="#facs_104_r2l3" n="N002"/>senestre/le gesier. Les aultres sont deformes
           <lb facs="#facs_104_r2l4" n="N003"/>par faulte de distinction et de
@@ -10645,9 +10645,9 @@
         <lb facs="#facs_106_r3l24" n="N009"/>phalech on commenca
         <lb facs="#facs_106_r3l25" n="N010"/> edifier
         <lb facs="#facs_106_r3l26" n="N011"/>des temples
-        <lb facs="#facs_106_r3l28" n="N012"/>gneurs et <w next="#Repair_new89" resp="LGeRM">prin</w>
-        <w xml:id="Repair_new89">
-          <cb facs="#facs_106_TextRegion_1553795535014_887" next="#Repair_new90"/>
+        <lb facs="#facs_106_r3l28" n="N012"/>gneurs et <w resp="LGeRM">prin</w>
+        <w>
+          <cb facs="#facs_106_TextRegion_1553795535014_887"/>
           <lb facs="#facs_106_r3l29" n="N001"/>ces commencerent soy faire adorer comme
           <lb facs="#facs_106_r3l31" n="N002"/>dieux.Et ainsi pour scauoir la naisance
           <lb facs="#facs_106_r3l34" n="N003"/>des dieux/fault noter que par la
@@ -10918,8 +10918,8 @@
         <lb facs="#facs_108_r2l49" n="N048"/>Car tousiours faisons nous conscience
         <lb facs="#facs_108_r2l50" n="N049"/>de ce que nous scauons estre malfait
         <lb facs="#facs_108_r2l51" n="N050"/>/selon le dizeseptiesme de sapience
-        <lb facs="#facs_108_r2l52" n="N051"/>Et pource on lit de iacob ou xxxje de <w next="#Repair_new91" resp="LGeRM">ge</w>
-        <w xml:id="Repair_new91">
+        <lb facs="#facs_108_r2l52" n="N051"/>Et pource on lit de iacob ou xxxje de <w resp="LGeRM">ge</w>
+        <w>
           <pb facs="#facs_109" n="109"/>
         </w>
         <cb facs="#facs_109_TextRegion_1553795722474_1002"/>
@@ -10974,9 +10974,9 @@
         <lb facs="#facs_109_r1l96" n="N048"/>gentilz et payens/vsent souuent de
         <lb facs="#facs_109_r1l98" n="N049"/>leurs propres parolles.car il est bon de
         <lb facs="#facs_109_r1l100" n="N050"/>prandre ce quon y trouue de bien et laisser/ 
-        <cb facs="#facs_109_TextRegion_1553795728699_1006" next="#Repair_new92"/>
-        <cb xml:id="Repair_new92"/>
-        <p xml:id="Repair_new92"> le mauluais et supersticieux. Saint
+        <cb facs="#facs_109_TextRegion_1553795728699_1006"/>
+        <cb/>
+        <p> le mauluais et supersticieux. Saint
           <lb facs="#facs_109_r1l5" n="N002"/>pol vse des propositions de therence en
           <lb facs="#facs_109_r1l7" n="N003"/>la premiere epitre aux corinthiens ou
           <lb facs="#facs_109_r1l9" n="N004"/>xve chapitre:disant: Corrumpunt bono-
@@ -11214,13 +11214,13 @@
         <lb facs="#facs_111_line_1553795837007_1111" n="N047"/>de fer /ou les hommes ont fayt grandes
         <lb facs="#facs_111_r1l98" n="N048"/>batailles pour terriennes possessions
         <lb facs="#facs_111_line_1553795837008_1113" n="N049"/>Lesquelles manieres de parler sont hom
-        <lb facs="#facs_111_line_1553795837008_1115" n="N050"/>nestement coulorees des poetes:<w next="#Repair_new93" resp="LGeRM">esquel</w>
-        <w xml:id="Repair_new93">
+        <lb facs="#facs_111_line_1553795837008_1115" n="N050"/>nestement coulorees des poetes:<w resp="LGeRM">esquel</w>
+        <w>
           <pb facs="#facs_112" n="112"/>
-          <cb facs="#facs_112_r1" next="#Repair_new94"/>
+          <cb facs="#facs_112_r1"/>
           <lb facs="#facs_112_r1l1" n="N001"/>les</w>
-        <cb xml:id="Repair_new94"/>
-        <p xml:id="Repair_new94"> neantmoins ya aulcune chose de
+        <cb/>
+        <p> neantmoins ya aulcune chose de
           <lb facs="#facs_112_r1l2" n="N002"/>verite. Et pource dit ysidore ou viiie liure
           <lb facs="#facs_112_r1l3" n="N003"/>de ses ethimologies que loffice du
           <lb facs="#facs_112_r1l4" n="N004"/>poete est descripre quelque verite soubr-
@@ -11375,12 +11375,12 @@
         <lb facs="#facs_113_r4l95" n="N031"/>cestadire mortelle.ou don de ars et sciences
         <lb facs="#facs_113_r4l97" n="N032"/>diuerses.Et son ymaige est appellee
         <lb facs="#facs_113_r4l99" n="N033"/> palladium. Le nombre de sept luy
-        <lb facs="#facs_113_r4l101" n="N034"/>est consacre .et aussy loliue. Et en <w next="#Repair_new95" resp="LGeRM">sa</w>
-        <w xml:id="Repair_new95">
-          <cb facs="#facs_113_TextRegion_1553795923883_1171" next="#Repair_new96"/>
+        <lb facs="#facs_113_r4l101" n="N034"/>est consacre .et aussy loliue. Et en <w resp="LGeRM">sa</w>
+        <w>
+          <cb facs="#facs_113_TextRegion_1553795923883_1171"/>
           <lb facs="#facs_113_r4l3" n="N001"/>crifices</w>
-        <cb xml:id="Repair_new96"/>
-        <p xml:id="Repair_new96"> on luy offroit vne vache.
+        <cb/>
+        <p> on luy offroit vne vache.
           <lb facs="#facs_113_r4l5" n="N002"/>⁋ Sainct augustin ou iie liure de la cite
           <lb facs="#facs_113_r4l6" n="N003"/>de dieu ou iiiiechapitre lappelle vierge
           <lb facs="#facs_113_r4l7" n="N004"/>celeste.car entre les signes celestes
@@ -12083,9 +12083,9 @@
         <lb facs="#facs_120_r1l47" n="N047"/>parties ilz estoyent vrais:et en partie
         <lb facs="#facs_120_r1l48" n="N048"/>faulx.cestassauoir doubteux et varia bles
         <lb facs="#facs_120_r1l49" n="N049"/>disans verite a lauenture.ayans necessite
-        <lb facs="#facs_120_r1l50" n="N050"/>de exquise interpretation. ⁋ Ou <w next="#Repair_new97" resp="LGeRM">iij </w>
-        <cb xml:id="Repair_new98"/>
-        <p xml:id="Repair_new98"> </p>
+        <lb facs="#facs_120_r1l50" n="N050"/>de exquise interpretation. ⁋ Ou <w resp="LGeRM">iij </w>
+        <cb/>
+        <p> </p>
         <cb facs="#facs_120_TextRegion_1553796316317_1481"/>
         <lb facs="#facs_120_r2l2" n="N001"/>de la cite en xje chapitre est escript comment
         <lb facs="#facs_120_r2l3" n="N002"/>lymage dapollo pleura. A ce propos est
@@ -12791,12 +12791,12 @@
         <lb facs="#facs_127_r1l92" n="N045"/>tost se tourne a la nature de la planete
         <lb facs="#facs_127_r1l94" n="N046"/>a la quelle elle est conioincte. Car elle
         <lb facs="#facs_127_r1l95" n="N047"/>est bonne auecques les bonnes:maul
-        <lb facs="#facs_127_r1l96" n="N048"/>uaise auecques les mauluaises:<w next="#Repair_new99" resp="LGeRM">moy</w>
-        <w xml:id="Repair_new99">
-          <cb facs="#facs_127_TextRegion_1553796758057_1799" next="#Repair_new100"/>
+        <lb facs="#facs_127_r1l96" n="N048"/>uaise auecques les mauluaises:<w resp="LGeRM">moy</w>
+        <w>
+          <cb facs="#facs_127_TextRegion_1553796758057_1799"/>
           <lb facs="#facs_127_r1l2" n="N001"/>enne</w>
-        <cb xml:id="Repair_new100"/>
-        <p xml:id="Repair_new100"> auecques les moyennes.Et pource
+        <cb/>
+        <p> auecques les moyennes.Et pource
           <lb facs="#facs_127_r1l4" n="N002"/>que aulcunesfois elle mesle ses qualitez
           <lb facs="#facs_127_r1l6" n="N003"/>auecques celles de venus on fainct
           <lb facs="#facs_127_r1l8" n="N004"/>que elle a este par fornication comioincte
@@ -13450,10 +13450,10 @@
         <lb facs="#facs_133_r1l101" n="N050"/>non distingues a la creation du 
         <cb facs="#facs_133_TextRegion_1553797027872_2001"/>
         <pb facs="#facs_134" n="134"/>
-        <w xml:id="Repair_new103"><cb facs="#facs_134_TextRegion_1553797080154_2050" next="#Repair_new104"/>
+        <w><cb facs="#facs_134_TextRegion_1553797080154_2050"/>
           <lb facs="#facs_134_r6l1" n="N001"/>monde</w>
-        <cb xml:id="Repair_new104"/>
-        <p xml:id="Repair_new104"> et non ayans certaine face/forme/
+        <cb/>
+        <p> et non ayans certaine face/forme/
           <lb facs="#facs_134_r6l2" n="N002"/>et figure /ainsy quilz eurent apres la distinction
           <lb facs="#facs_134_r6l3" n="N003"/>diceulx .
           <lb facs="#facs_134_r6l4" n="N004"/>⁋ Chapitre xxixe du dieu terminus. </p>
@@ -13516,12 +13516,12 @@
         <lb facs="#facs_134_r7l18" n="N009"/>en la langue
         <lb facs="#facs_134_r7l19" n="N010"/>d'egypte signifie
         <lb facs="#facs_134_r7l20" n="N011"/>terre. Aussy
-        <lb facs="#facs_134_r7l22" n="N012"/>elle fust <w next="#Repair_new105" resp="LGeRM">de</w>
-        <w xml:id="Repair_new105">
-          <cb facs="#facs_134_TextRegion_1553797135444_2104" next="#Repair_new106"/>
+        <lb facs="#facs_134_r7l22" n="N012"/>elle fust <w resp="LGeRM">de</w>
+        <w>
+          <cb facs="#facs_134_TextRegion_1553797135444_2104"/>
           <lb facs="#facs_134_r7l23" n="N001"/>esse</w>
-        <cb xml:id="Repair_new106"/>
-        <p xml:id="Repair_new106"> des egypciens /fille de ynachus
+        <cb/>
+        <p> des egypciens /fille de ynachus
           <w resp="LGeRM">roy </w></p>
         <p><w resp="LGeRM">des</w> arginiens /lequel ynachus commenca
           <lb facs="#facs_134_r7l25" n="N003"/>a regner ou temps de la natiuite de iacob
@@ -13832,12 +13832,12 @@
         <lb facs="#facs_137_r1l16" n="N001"/>Castor
         <lb facs="#facs_137_r1l18" n="N002"/>et pollux
         <lb facs="#facs_137_r1l20" n="N003"/>.selon vng
-        <lb facs="#facs_137_r1l26" n="N004"/>docteur <w next="#Repair_new107" resp="LGeRM">nom</w>
-        <w xml:id="Repair_new107">
-          <cb facs="#facs_137_TextRegion_1553797354938_2277" next="#Repair_new108"/>
+        <lb facs="#facs_137_r1l26" n="N004"/>docteur <w resp="LGeRM">nom</w>
+        <w>
+          <cb facs="#facs_137_TextRegion_1553797354938_2277"/>
           <lb facs="#facs_137_r1l27" n="N001"/>me</w>
-        <cb xml:id="Repair_new108"/>
-        <p xml:id="Repair_new108"> Remy sont dieux victoriaulx. Sainct
+        <cb/>
+        <p> Remy sont dieux victoriaulx. Sainct
           <lb facs="#facs_137_r1l29" n="N002"/>augustin faisant mention diceulx ou liure
           <lb facs="#facs_137_r1l31" n="N003"/>viijede la cite de dieu chapi.ve. les appelle
           <lb facs="#facs_137_r1l34" n="N004"/>freres tyndarides.car ilz furent
@@ -14329,7 +14329,7 @@
         <lb facs="#facs_142_r10l53" n="N006"/>stoyt point encore a terme naturel
         <lb facs="#facs_142_r10l54" n="N007"/>ventre de sa mere atache et cousu a la
         <lb facs="#facs_142_line_1554116643625_209" n="N008"/>
-        <w xml:id="Repair_new109">
+        <w>
           <pb facs="#facs_143" n="143"/>
         </w>
         <cb facs="#facs_143_TextRegion_1554116724543_237"/>
@@ -14385,9 +14385,9 @@
         <lb facs="#facs_143_r2l98" n="N048"/>estoit en plus grande posperite quant
         <lb facs="#facs_143_r2l100" n="N049"/>elle auoitmains de dieus/que quant elle
         <lb facs="#facs_143_r2l102" n="N050"/>en auoit quasi infiniz.Et ou iiiie liure/ 
-        <cb facs="#facs_143_TextRegion_1554116730751_244" next="#Repair_new110"/>
-        <cb xml:id="Repair_new110"/>
-        <p xml:id="Repair_new110"> ou viiechapi.dit quilz estoient si infatuez
+        <cb facs="#facs_143_TextRegion_1554116730751_244"/>
+        <cb/>
+        <p> ou viiechapi.dit quilz estoient si infatuez
           <lb facs="#facs_143_r2l5" n="N002"/>et si affolez de telle multitude
           <lb facs="#facs_143_r2l7" n="N003"/>de dieux quilz mettoient une deesse des
           <lb facs="#facs_143_r2l9" n="N004"/>chambres priuees / et sappelloyt cloaca
@@ -14764,12 +14764,12 @@
         <lb facs="#facs_147_r7l46" n="N009"/>entre felicite
         <lb facs="#facs_147_r7l48" n="N010"/>et fortune.
         <lb facs="#facs_147_r7l49" n="N011"/>lesquelles les
-        <lb facs="#facs_147_r7l51" n="N012"/>romains <w next="#Repair_new111" resp="LGeRM">te </w>
-        <w xml:id="Repair_new111">
-          <cb facs="#facs_147_TextRegion_1554117214786_498" next="#Repair_new112"/>
+        <lb facs="#facs_147_r7l51" n="N012"/>romains <w resp="LGeRM">te </w>
+        <w>
+          <cb facs="#facs_147_TextRegion_1554117214786_498"/>
           <lb facs="#facs_147_r7l54" n="N001"/>noient</w>
-        <cb xml:id="Repair_new112"/>
-        <p xml:id="Repair_new112"> comme deux differentes deesses/
+        <cb/>
+        <p> comme deux differentes deesses/
           <lb facs="#facs_147_r7l55" n="N002"/>et leur faisoient sacrifices congrus et
           <lb facs="#facs_147_r7l58" n="N003"/>conuenables a leur qualite. ⁋ Ladicte
           <lb facs="#facs_147_r7l61" n="N004"/>deesse felicite nest iamais cause que de
@@ -14880,7 +14880,7 @@
         <lb facs="#facs_148_r5l63" n="N006"/>que ou lieu ouquel auoit este faicte 
         <cb facs="#facs_148_TextRegion_1554117386223_594"/>
         <lb facs="#facs_148_r5l1" n="N001"/>
-        <w xml:id="Repair_new113"><cb facs="#facs_148_r2" next="#Repair_new114"/>
+        <w><cb facs="#facs_148_r2"/>
           <lb facs="#facs_148_r2l1" n="N001"/>
         </w>
         <cb facs="#facs_148_TextRegion_1554117359393_571"/>
@@ -14962,12 +14962,12 @@
         <lb facs="#facs_149_r14l75" n="N008"/>/de honte
         <lb facs="#facs_149_r14l77" n="N009"/>de Joieusete/
         <lb facs="#facs_149_r14l82" n="N010"/>et de discretion
-        <lb facs="#facs_149_r14l86" n="N011"/>selon le <w next="#Repair_new115" resp="LGeRM">doc</w>
-        <w xml:id="Repair_new115">
-          <cb facs="#facs_149_TextRegion_1554117450811_664" next="#Repair_new116"/>
+        <lb facs="#facs_149_r14l86" n="N011"/>selon le <w resp="LGeRM">doc</w>
+        <w>
+          <cb facs="#facs_149_TextRegion_1554117450811_664"/>
           <lb facs="#facs_149_r14l88" n="N001"/>teur</w>
-        <cb xml:id="Repair_new116"/>
-        <p xml:id="Repair_new116"> Remy/Et prent son nom de ce nom
+        <cb/>
+        <p> Remy/Et prent son nom de ce nom
           <lb facs="#facs_149_r14l90" n="N002"/>grecedyan /qui en francoys signifie cler.
           <lb facs="#facs_149_r14l92" n="N003"/>ou de ce nom dieu /pource que les iours
           <lb facs="#facs_149_r14l94" n="N004"/>se nomment par les noms des dieux / comme
@@ -15340,8 +15340,8 @@
         <lb facs="#facs_152_r2l54" n="N027"/>de minerue / aultrement dicte
         <lb facs="#facs_152_r2l55" n="N028"/>bellone deesse de bataille /car sans armes
         <pb facs="#facs_153" n="153"/>      
-        <cb xml:id="Repair_new118"/>
-        <p xml:id="Repair_new118">
+        <cb/>
+        <p>
           <lb/>venans de vulcain on ne fait riens
           <lb facs="#facs_153_r1l4" n="N002"/>en bataille.
           <lb facs="#facs_153_r1l6" n="N003"/>⁋ Les deables dis et appelles demones
@@ -15442,9 +15442,9 @@
         <lb facs="#facs_153_r1l95" n="N047"/>tant plus quon prie mains pourle trespasse
         <lb facs="#facs_153_r1l97" n="N048"/>La tierce partie est lame qui sen va a
         <lb facs="#facs_153_r1l99" n="N049"/>vne estoille a elle semblable/dont elle aprins
-        <lb facs="#facs_153_r1l101" n="N050"/>sa nayssance.et la elle laisse et <w next="#Repair_new117" resp="LGeRM">re</w>
-        <w xml:id="Repair_new117">
-          <cb facs="#facs_153_TextRegion_1554117872171_910" next="#Repair_new118"/>
+        <lb facs="#facs_153_r1l101" n="N050"/>sa nayssance.et la elle laisse et <w resp="LGeRM">re</w>
+        <w>
+          <cb facs="#facs_153_TextRegion_1554117872171_910"/>
           <lb facs="#facs_153_r1l2" n="N001"/>
         </w>
         <pb facs="#facs_154" n="154"/>
@@ -15510,9 +15510,9 @@
         <lb facs="#facs_154_r2l20" n="N010"/>getes/quivault
         <lb facs="#facs_154_r2l21" n="N011"/>autant comme
         <lb facs="#facs_154_r2l22" n="N012"/>non indigens
-        <lb facs="#facs_154_line_1554118034783_936" n="N013"/>ou comme <w next="#Repair_new119" resp="LGeRM">vi</w>
-        <w xml:id="Repair_new119">
-          <cb facs="#facs_154_TextRegion_1554118034629_932" next="#Repair_new120"/>
+        <lb facs="#facs_154_line_1554118034783_936" n="N013"/>ou comme <w resp="LGeRM">vi</w>
+        <w>
+          <cb facs="#facs_154_TextRegion_1554118034629_932"/>
           <lb facs="#facs_154_r2l25" n="N001"/>uans et conuersans auec les dieux.
           <lb facs="#facs_154_r2l26" n="N002"/>⁋ Ilora est deesse des fleurs autrement
           <lb facs="#facs_154_r2l27" n="N003"/>dicte napea/de laquelle parle le ijede la
@@ -15703,9 +15703,9 @@
           <lb facs="#facs_156_r1l48" n="N048"/>est</w> dieu de la terre et denfer /et
         <lb facs="#facs_156_r1l49" n="N049"/>
         <lb facs="#facs_156_r1l50" n="N050"/>est aultrement appelle dis cestadire
-        <w next="#Repair_new121" resp="LGeRM">ri</w>
-        <w xml:id="Repair_new121">
-          <cb facs="#facs_156_TextRegion_1554118394421_978" next="#Repair_new122"/>
+        <w resp="LGeRM">ri</w>
+        <w>
+          <cb facs="#facs_156_TextRegion_1554118394421_978"/>
           <lb facs="#facs_156_r2l2" n="N001"/>che. Car tel est il entant quil recoit tout
           <lb facs="#facs_156_r2l3" n="N002"/>en enfer.de luy est parle ou iie et iiiie liure
           <lb facs="#facs_156_r2l4" n="N003"/>de la cite. Selon aulcuns il est appelle
@@ -15843,12 +15843,12 @@
         <lb facs="#facs_158_r2l17" n="N007"/>et de Phalecl
         <lb facs="#facs_158_line_1554118641757_1047" n="N008"/>monstre comment
         <lb facs="#facs_158_r2l20" n="N009"/>apres ledification
-        <lb facs="#facs_158_r2l23" n="N010"/>ou fole <w next="#Repair_new123" resp="LGeRM">en</w>
-        <w xml:id="Repair_new123">
-          <cb facs="#facs_158_TextRegion_1554118637794_1040" next="#Repair_new124"/>
+        <lb facs="#facs_158_r2l23" n="N010"/>ou fole <w resp="LGeRM">en</w>
+        <w>
+          <cb facs="#facs_158_TextRegion_1554118637794_1040"/>
           <lb facs="#facs_158_r2l24" n="N001"/>treprise</w>
-        <cb xml:id="Repair_new124"/>
-        <p xml:id="Repair_new124"> de la tour de babilone/et la confusion
+        <cb/>
+        <p> de la tour de babilone/et la confusion
           <lb facs="#facs_158_r2l25" n="N002"/>des langaiges:Les hommes pour
           <lb facs="#facs_158_r2l26" n="N003"/>la diuersite diceux se diuiserent en diuerses
           <lb facs="#facs_158_r2l27" n="N004"/>regions et contrees des trois parties
@@ -15884,9 +15884,9 @@
           <lb facs="#facs_158_r2l57" n="N034"/>recourir ad ce qui sensuyt.ou quel lieu
           <lb facs="#facs_158_r2l58" n="N035"/>on trouuera les dis notables et declarations
           <lb facs="#facs_158_r2l59" n="N036"/>des regions/tyrez de Pline /herodote
-          <lb facs="#facs_158_r2l60" n="N037"/>/ ysydore et des gloses de la <w next="#Repair_new125" resp="LGeRM">sain</w></p>
-        <w xml:id="Repair_new125">
-          <cb facs="#facs_158_TextRegion_1554118663733_1060" next="#Repair_new126"/>
+          <lb facs="#facs_158_r2l60" n="N037"/>/ ysydore et des gloses de la <w resp="LGeRM">sain</w></p>
+        <w>
+          <cb facs="#facs_158_TextRegion_1554118663733_1060"/>
           <lb facs="#facs_158_r3l2" n="N001"/>cte escripture.Et est a noter que se nous
           <lb facs="#facs_158_r3l3" n="N002"/>ne trouuons ce que nous demandons
           <lb facs="#facs_158_r3l4" n="N003"/>a une diction: Il fault auoir recours a
@@ -15949,12 +15949,12 @@
         <lb facs="#facs_161_r3l16" n="N008"/>tint le royaulme
         <lb facs="#facs_161_r3l17" n="N009"/>d'orient selon
         <lb facs="#facs_161_r3l20" n="N010"/>ysidore ou
-        <lb facs="#facs_161_line_1554118896841_1187" n="N011"/>liure xve.<w next="#Repair_new127" resp="LGeRM">El</w>
-        <w xml:id="Repair_new127">
-          <cb facs="#facs_161_TextRegion_1554118892741_1180" next="#Repair_new128"/>
+        <lb facs="#facs_161_line_1554118896841_1187" n="N011"/>liure xve.<w resp="LGeRM">El</w>
+        <w>
+          <cb facs="#facs_161_TextRegion_1554118892741_1180"/>
           <lb facs="#facs_161_r3l23" n="N001"/>le</w>
-        <cb xml:id="Repair_new128"/>
-        <p xml:id="Repair_new128"> a deuers orient/souleil leuant. deuers
+        <cb/>
+        <p> a deuers orient/souleil leuant. deuers
           <lb facs="#facs_161_r3l24" n="N002"/>mydy:la grant mer occeane.cestadire
           <w resp="LGeRM">la </w></p>
         <p><w resp="LGeRM">mer</w> qui tousiours va et vient. deuer
@@ -15986,12 +15986,12 @@
           <lb facs="#facs_161_r3l51" n="N029"/>romains selon ysidore.Ceste region en aucuns
           <lb facs="#facs_161_r3l52" n="N030"/>lieux est tresbien temperee Et en
           <lb facs="#facs_161_r3l53" n="N031"/>autres tresmal/pour laquelle cause est
-          <lb facs="#facs_161_r3l54" n="N032"/>habundante en plusieurs bestes <w next="#Repair_new129" resp="LGeRM">comme </w></p>
-        <w xml:id="Repair_new129">
-          <cb facs="#facs_161_r4" next="#Repair_new130"/>
+          <lb facs="#facs_161_r3l54" n="N032"/>habundante en plusieurs bestes <w resp="LGeRM">comme </w></p>
+        <w>
+          <cb facs="#facs_161_r4"/>
           <lb facs="#facs_161_r4l1" n="N001"/>t</w>
-        <cb xml:id="Repair_new130"/>
-        <p xml:id="Repair_new130"> </p>
+        <cb/>
+        <p> </p>
         <cb facs="#facs_161_TextRegion_1554118877098_1165"/>
         <lb facs="#facs_161_r5l2" n="N001"/>dangereux serpens /et diuerses conditions
         <lb facs="#facs_161_r5l3" n="N002"/>de homes selon Pline ou iiie liure/ou il
@@ -16084,9 +16084,9 @@
         <lb facs="#facs_162_r1l42" n="N042"/>pour vne chose merueilleuse.
         <lb facs="#facs_162_r1l43" n="N043"/>De amazonie chapitre lxviije
         <lb facs="#facs_162_r1l44" n="N044"/>amazomie aut autrement
-        <lb facs="#facs_162_r1l45" n="N045"/>est appelle femenie/est vne <w next="#Repair_new131" resp="LGeRM">regi</w>
-        <w xml:id="Repair_new131">
-          <cb facs="#facs_162_TextRegion_1554118929429_1201" next="#Repair_new132"/>
+        <lb facs="#facs_162_r1l45" n="N045"/>est appelle femenie/est vne <w resp="LGeRM">regi</w>
+        <w>
+          <cb facs="#facs_162_TextRegion_1554118929429_1201"/>
           <lb facs="#facs_162_r2l2" n="N001"/>on qui en partie est en asye/et partie en
           <lb facs="#facs_162_r2l3" n="N002"/>europe pres albanie.Et est ainsy nommee
           <lb facs="#facs_162_r2l4" n="N003"/>pour les amazones.qui fur ent fenmes
@@ -16236,13 +16236,13 @@
         <lb facs="#facs_163_r2l45" n="N044"/>ithimia selon yslbre
         <lb facs="#facs_163_r2l46" n="N045"/>est vne region en la petite asye/ situee
         <lb facs="#facs_163_r2l47" n="N046"/>a lentree de la mer vers la partie de souleil
-        <lb facs="#facs_163_r2l48" n="N047"/>leuant/opposite a trace/et qui <w next="#Repair_new133" resp="LGeRM">par </w>
-        <w xml:id="Repair_new133">
+        <lb facs="#facs_163_r2l48" n="N047"/>leuant/opposite a trace/et qui <w resp="LGeRM">par </w>
+        <w>
           <pb facs="#facs_164" n="164"/>
-          <cb facs="#facs_164_r1" next="#Repair_new134"/>
+          <cb facs="#facs_164_r1"/>
           <lb facs="#facs_164_r1l1" n="N001"/>auant</w>
-        <cb xml:id="Repair_new134"/>
-        <p xml:id="Repair_new134"> fust nommee de beaucoup de noms
+        <cb/>
+        <p> fust nommee de beaucoup de noms
           <lb facs="#facs_164_r1l2" n="N002"/>Premierement fust dicte bithicia.et depuis
           <lb facs="#facs_164_r1l3" n="N003"/> bithinia du Roy bithinius . Elle
           <lb facs="#facs_164_r1l4" n="N004"/>est la grande frigie dont la cite metropolitaine
@@ -16478,12 +16478,12 @@
         <lb facs="#facs_166_r1l41" n="N041"/>nomme genesar sera dit cy apres ou traictie
         <lb facs="#facs_166_r1l42" n="N042"/>des estangs et des lacz.
         <lb facs="#facs_166_r1l43" n="N043"/>De inde chapitre iiijes
-        <lb facs="#facs_166_r1l44" n="N044"/>de est region en asye / <w next="#Repair_new135" resp="LGeRM">ain</w>
-        <w xml:id="Repair_new135">
-          <cb facs="#facs_166_TextRegion_1554119120469_1313" next="#Repair_new136"/>
+        <lb facs="#facs_166_r1l44" n="N044"/>de est region en asye / <w resp="LGeRM">ain</w>
+        <w>
+          <cb facs="#facs_166_TextRegion_1554119120469_1313"/>
           <lb facs="#facs_166_r2l2" n="N001"/>sy</w>
-        <cb xml:id="Repair_new136"/>
-        <p xml:id="Repair_new136"> dicte du fleuue Indus /duquel elle
+        <cb/>
+        <p> dicte du fleuue Indus /duquel elle
           <lb facs="#facs_166_r2l3" n="N002"/>est fermee vers occident. Et dure depuis
           <lb facs="#facs_166_r2l4" n="N003"/>la mer de mydy iusques en orient.et du
           <lb facs="#facs_166_r2l5" n="N004"/>coste de septentrion va iusques au mont
@@ -16919,10 +16919,10 @@
         <lb facs="#facs_170_r4l48" n="N047"/>viuans naigent dessus. les choses no
         <lb facs="#facs_170_r4l49" n="N048"/>viuans vont au fons.vne chandelle alumee
         <lb facs="#facs_170_r4l50" n="N049"/>y naige:mais se elle est estaincte
-        <lb facs="#facs_170_r4l51" n="N050"/>et sans lumiere elle descend au fons <w next="#Repair_new137" resp="LGeRM">Se </w>
-        <w xml:id="Repair_new137">
+        <lb facs="#facs_170_r4l51" n="N050"/>et sans lumiere elle descend au fons <w resp="LGeRM">Se </w>
+        <w>
           <pb facs="#facs_171" n="171"/>
-          <cb facs="#facs_171_TextRegion_1554119384041_1469" next="#Repair_new138"/>
+          <cb facs="#facs_171_TextRegion_1554119384041_1469"/>
           <lb facs="#facs_171_r1l2" n="N001"/>lon ysidore ou liure xiiije. Il ya vne autre
           <lb facs="#facs_171_r1l5" n="N002"/> pentapolis en libie ainsy nommee de
           <lb facs="#facs_171_r1l6" n="N003"/>cinq citez bernice/centrie /apollonie / po
@@ -17069,12 +17069,12 @@
         <lb facs="#facs_172_r1l47" n="N045"/>des Roys.⁋ De ce pais est procedee la
         <lb facs="#facs_172_r1l48" n="N046"/>gent samaritaine laquelle venant des
         <lb facs="#facs_172_r1l49" n="N047"/>assiriens y demoura pour la garde du
-        <lb facs="#facs_172_r1l50" n="N048"/>pays pour laquelle cause sust ledit <w next="#Repair_new139" resp="LGeRM">pa</w>
-        <w xml:id="Repair_new139">
-          <cb facs="#facs_172_TextRegion_1554119467811_1502" next="#Repair_new140"/>
+        <lb facs="#facs_172_r1l50" n="N048"/>pays pour laquelle cause sust ledit <w resp="LGeRM">pa</w>
+        <w>
+          <cb facs="#facs_172_TextRegion_1554119467811_1502"/>
           <lb facs="#facs_172_r2l2" n="N001"/>ys</w>
-        <cb xml:id="Repair_new140"/>
-        <p xml:id="Repair_new140"> nomme samarie/cestadire Custode
+        <cb/>
+        <p> nomme samarie/cestadire Custode
           <lb facs="#facs_172_r2l3" n="N002"/>et garde. ⁋ La rayson pourquoy ilz
           <lb facs="#facs_172_r2l4" n="N003"/>eurent la charge dudit pays fust affin
           <lb facs="#facs_172_r2l5" n="N004"/>que le peuple de israel qui la habitoyt et
@@ -17371,7 +17371,7 @@
         <lb facs="#facs_175_r2l88" n="N045"/>montaignes on trouue tous metaulx
         <lb facs="#facs_175_r2l90" n="N046"/>excepte lestain. Aultres regions sont oudit
         <lb facs="#facs_175_r2l92" n="N047"/>pays non pas mains dignes de loenges
-        <lb facs="#facs_175_r2l94" n="N048"/>comme sont austriche / bauieres / <w next="#Repair_new141" resp="LGeRM">pres </w>
+        <lb facs="#facs_175_r2l94" n="N048"/>comme sont austriche / bauieres / <w resp="LGeRM">pres </w>
         <cb facs="#facs_175_TextRegion_1554119680440_1608"/>
         <lb facs="#facs_175_r2l3" n="N001"/>du fleuue d'anubius.sueue /aulsay/pce
         <lb facs="#facs_175_r2l4" n="N002"/>du Rin/et aultres plusieurs. des saxons
@@ -17418,9 +17418,9 @@
         <lb facs="#facs_175_r2l91" n="N043"/>de angela fille du duc de saxonie.
         <lb facs="#facs_175_r2l93" n="N044"/>Laquelle angela possida pacifiquement
         <lb facs="#facs_175_r2l95" n="N045"/>Icelle terre par long temps. Toutesfoys 
-        <w xml:id="Repair_new141">
+        <w>
           <pb facs="#facs_176" n="176"/>
-          <cb facs="#facs_176_r1" next="#Repair_new142"/>
+          <cb facs="#facs_176_r1"/>
           <lb facs="#facs_176_r1l1" n="N001"/>
         </w>
         <cb facs="#facs_176_r3"/>
@@ -17524,11 +17524,11 @@
         <pb facs="#facs_177" n="177"/>
         <cb facs="#facs_177_r1"/>
         <lb facs="#facs_177_r1l1" n="N001"/>
-        <w xml:id="Repair_new145">
-          <cb facs="#facs_177_TextRegion_1554119751247_1660" next="#Repair_new146"/>
+        <w>
+          <cb facs="#facs_177_TextRegion_1554119751247_1660"/>
           <lb facs="#facs_177_r2l3" n="N001"/>La</w>
-        <cb xml:id="Repair_new146"/>
-        <p xml:id="Repair_new146"> principale cite sappelle brandis/laquelle
+        <cb/>
+        <p> principale cite sappelle brandis/laquelle
           <lb facs="#facs_177_r2l5" n="N002"/>edifierent les grecz et lappellerent ainsi
           <lb facs="#facs_177_r2l7" n="N003"/>de ce mot ycy Brunda en grec/ <w resp="LGeRM">qui </w></p>
         <p><w resp="LGeRM">en</w> francois signifie teste de cerf.car elle
@@ -17618,7 +17618,7 @@
         <lb facs="#facs_177_r2l85" n="N042"/>et ya plusieurs fleuues/ Riuieres
         <lb facs="#facs_177_r2l87" n="N043"/>champs /bois/prez/grande quantite de Iu
         <lb facs="#facs_177_r2l89" n="N044"/>mentz/vaches/brebis/et semblables.mais
-        <lb facs="#facs_177_r2l91" n="N045"/>ny a gaires de bestes monstrueuses et <w next="#Repair_new145" resp="LGeRM">ve</w>
+        <lb facs="#facs_177_r2l91" n="N045"/>ny a gaires de bestes monstrueuses et <w resp="LGeRM">ve</w>
         <pb facs="#facs_178" n="178"/>
         <cb facs="#facs_178_TextRegion_1554119787161_1689"/>
         <lb facs="#facs_178_line_1554119787302_1692" n="N001"/>
@@ -17669,12 +17669,12 @@
         <lb facs="#facs_178_r1l44" n="N045"/>sur la mer qui fust conquise des bretons
         <lb facs="#facs_178_r1l45" n="N046"/>fuyant de la dicte grand bretaigne <w resp="LGeRM">par </w>
         <cb facs="#facs_178_TextRegion_1554119787161_1689"/>
-        <w resp="LGeRM">la</w> force des saxons.Et est ce pays <w next="#Repair_new147" resp="LGeRM">ap</w>
-        <w xml:id="Repair_new147">
-          <cb facs="#facs_178_TextRegion_1554119808090_1704" next="#Repair_new148"/>
+        <w resp="LGeRM">la</w> force des saxons.Et est ce pays <w resp="LGeRM">ap</w>
+        <w>
+          <cb facs="#facs_178_TextRegion_1554119808090_1704"/>
           <lb facs="#facs_178_r2l2" n="N001"/>pelle</w>
-        <cb xml:id="Repair_new148"/>
-        <p xml:id="Repair_new148"> bretaigne la petite Et la est la lignee
+        <cb/>
+        <p> bretaigne la petite Et la est la lignee
           <lb facs="#facs_178_r2l3" n="N002"/>de brutus et ont retenu les noms
           <lb facs="#facs_178_r2l4" n="N003"/>des bretons iusques au temps present.
           <lb facs="#facs_178_r2l5" n="N004"/>⁋ De cantebrie chapitre Cxx.
@@ -17768,12 +17768,12 @@
         <lb facs="#facs_179_r1l49" n="N022"/>aux palus meothides/se estend entre le
         <lb facs="#facs_179_r1l50" n="N023"/>fleuue danubius/et la mer septentrionale
         <lb facs="#facs_179_r1l51" n="N024"/>Iusque en germanie selon ysy dore
-        <lb facs="#facs_179_r1l52" n="N025"/>ou xiiiie.Et ceste terre pour la <w next="#Repair_new149" resp="LGeRM">barba</w>
-        <w xml:id="Repair_new149">
-          <cb facs="#facs_179_TextRegion_1554119839352_1731" next="#Repair_new150"/>
+        <lb facs="#facs_179_r1l52" n="N025"/>ou xiiiie.Et ceste terre pour la <w resp="LGeRM">barba</w>
+        <w>
+          <cb facs="#facs_179_TextRegion_1554119839352_1731"/>
           <lb facs="#facs_179_r2l2" n="N001"/>rie</w>
-        <cb xml:id="Repair_new150"/>
-        <p xml:id="Repair_new150"> des ges et estrange maniere est esc-
+        <cb/>
+        <p> des ges et estrange maniere est esc-
           <lb facs="#facs_179_r2l3" n="N002"/>cialement appellee barbarie
           <lb facs="#facs_179_r2l4" n="N003"/>⁋ En europe selon Orose sont luii.
           <lb facs="#facs_179_r2l5" n="N004"/>tions.Entre lesquelles alanie est la de-
@@ -17871,11 +17871,11 @@
         <lb facs="#facs_180_r3l45" n="N045"/>magonce/assise sur le rin ouquel en ce
         <lb facs="#facs_180_r3l46" n="N046"/>lieu entre le fleuue mogus.Et est laterre
         <lb facs="#facs_180_r3l47" n="N047"/>tresbonne/fertile en blez /vins / forestz
-        <lb facs="#facs_180_r3l48" n="N048"/>Bien munie et defensable de <w next="#Repair_new151" resp="LGeRM">cha</w>
-        <w xml:id="Repair_new151">
+        <lb facs="#facs_180_r3l48" n="N048"/>Bien munie et defensable de <w resp="LGeRM">cha</w>
+        <w>
           <lb facs="#facs_180_r4l2" n="N001"/>steaux</w>
-        <cb xml:id="Repair_new152"/>
-        <p xml:id="Repair_new152"> et citez et est le pays fort peuple
+        <cb/>
+        <p> et citez et est le pays fort peuple
           <lb facs="#facs_180_r4l3" n="N002"/>De NCs chapitreCxxvie
           <lb facs="#facs_180_r4l4" n="N003"/>rance Aultrement dicte
           <lb facs="#facs_180_r4l5" n="N004"/>gaule/est region en europe ainsi nommee
@@ -18548,8 +18548,8 @@
         <lb facs="#facs_187_r1l86" n="N044"/>obtient la principaulte. La longueur
         <lb facs="#facs_187_r1l88" n="N045"/>de ceste prouince narboneuse contient
         <lb facs="#facs_187_r1l90" n="N046"/>trois cens et lx Mil.Et la largeur contient
-        <lb facs="#facs_187_r1l92" n="N047"/>trois cens et xliiij. Comme <w next="#Repair_new153" resp="LGeRM">dit </w>
-        <w xml:id="Repair_new153">
+        <lb facs="#facs_187_r1l92" n="N047"/>trois cens et xliiij. Comme <w resp="LGeRM">dit </w>
+        <w>
           <lb facs="#facs_187_r1l2" n="N001"/>vng hystorien nomme agripa.
           <lb facs="#facs_187_r1l7" n="N002"/>De ollande chapitre cent
           <lb facs="#facs_187_r1l9" n="N003"/>xlviije
@@ -18646,12 +18646,12 @@
         <lb facs="#facs_188_r4l45" n="N045"/>est prouince en
         <lb facs="#facs_188_r4l46" n="N046"/>europe dont la terre est haulte et plaine
         <lb facs="#facs_188_r4l47" n="N047"/>de montaignes qui sont estendues entre
-        <lb facs="#facs_188_r4l48" n="N048"/>mydy et occident. diuisans et <w next="#Repair_new155" resp="LGeRM">sepa</w>
-        <w xml:id="Repair_new155">
-          <cb facs="#facs_188_TextRegion_1554120204422_1974" next="#Repair_new156"/>
+        <lb facs="#facs_188_r4l48" n="N048"/>mydy et occident. diuisans et <w resp="LGeRM">sepa</w>
+        <w>
+          <cb facs="#facs_188_TextRegion_1554120204422_1974"/>
           <lb facs="#facs_188_r6l2" n="N001"/>rans</w>
-        <cb xml:id="Repair_new156"/>
-        <p xml:id="Repair_new156"> tresgrandes regions de ensemble
+        <cb/>
+        <p> tresgrandes regions de ensemble
           <lb facs="#facs_188_r6l3" n="N002"/>Car iceulx mons separent espaigne de
           <lb facs="#facs_188_r6l4" n="N003"/>gaule narbonoise et lyonnoise . Vers
           <lb facs="#facs_188_r6l5" n="N004"/>orient ilz ont germanie . Vers mydy
@@ -18747,13 +18747,13 @@
         <lb facs="#facs_189_r1l89" n="N046"/>de bles et de fruis. Arrousee de fleuues
         <lb facs="#facs_189_r1l91" n="N047"/>/riuieres et fontaines / habondant
         <lb facs="#facs_189_r1l93" n="N048"/>en peuple/garnie de nobles Cites/fortresses
-        <lb facs="#facs_189_r1l95" n="N049"/>/et chasteaulx bien renommes.<w next="#Repair_new157" resp="LGeRM">com </w>
-        <w xml:id="Repair_new157">
+        <lb facs="#facs_189_r1l95" n="N049"/>/et chasteaulx bien renommes.<w resp="LGeRM">com </w>
+        <w>
           <pb facs="#facs_190" n="190"/>
-          <cb facs="#facs_190_r1" next="#Repair_new158"/>
+          <cb facs="#facs_190_r1"/>
           <lb facs="#facs_190_r1l1" n="N001"/>De</w>
-        <cb xml:id="Repair_new158"/>
-        <p xml:id="Repair_new158"> rinconie chapitre.cent lvje.
+        <cb/>
+        <p> rinconie chapitre.cent lvje.
           <lb facs="#facs_190_r1l2" n="N002"/>y inconie est vne terre petite
           <lb facs="#facs_190_r1l3" n="N003"/>sus la riue du rin Estendue depuis
           <lb facs="#facs_190_r1l4" n="N004"/>la cite de magunce entre les montai gnes
@@ -18942,8 +18942,8 @@
         <lb facs="#facs_191_r1l84" n="N044"/>comme dit Erodotus.
         <lb facs="#facs_191_r1l89" n="N045"/>De sclauonie cent lxije 
         <pb facs="#facs_192" n="192"/>
-        <cb xml:id="Repair_new160"/>
-        <p xml:id="Repair_new160"> </p>
+        <cb/>
+        <p> </p>
         <cb facs="#facs_192_r3"/>
         <lb facs="#facs_192_r3l1" n="N001"/> Sclauonie est prouine de
         <lb facs="#facs_192_r3l2" n="N002"/>messie/contenant plusieurs
@@ -19041,10 +19041,10 @@
         <lb facs="#facs_192_r4l44" n="N044"/>⁋ Est a scauoir que les gaules de sens
         <lb facs="#facs_192_r4l45" n="N045"/>cestadire les francois estoient anciennement
         <lb facs="#facs_192_r4l46" n="N046"/>nommez zenones:pource quilz Receurent et
-        <lb facs="#facs_192_r4l47" n="N047"/>quilz logerent liber qui est dieu du <w next="#Repair_new161" resp="LGeRM">vin </w>
-        <w xml:id="Repair_new161">
+        <lb facs="#facs_192_r4l47" n="N047"/>quilz logerent liber qui est dieu du <w resp="LGeRM">vin </w>
+        <w>
           <pb facs="#facs_193" n="193"/>
-          <cb facs="#facs_193_r1" next="#Repair_new162"/>
+          <cb facs="#facs_193_r1"/>
           <lb facs="#facs_193_r1l1" n="N001"/>
         </w>
         <cb facs="#facs_193_TextRegion_1554120397828_2087"/>
@@ -19591,12 +19591,12 @@
         <lb facs="#facs_198_r1l48" n="N048"/>fil.dont souuent aduient que les maleureux
         <lb facs="#facs_198_r1l49" n="N049"/>creans a telles illusions par le iuste iugement
         <lb facs="#facs_198_r1l50" n="N050"/>de dieu sont noyez en la
-        <w next="#Repair_new165" resp="LGeRM">mer </w>
-        <w xml:id="Repair_new165">
-          <cb facs="#facs_198_TextRegion_1554120593136_2224" next="#Repair_new166"/>
+        <w resp="LGeRM">mer </w>
+        <w>
+          <cb facs="#facs_198_TextRegion_1554120593136_2224"/>
           <lb facs="#facs_198_r2l2" n="N001"/>De</w>
-        <cb xml:id="Repair_new166"/>
-        <p xml:id="Repair_new166"> yselande chapitre.cent iiiiod et vng
+        <cb/>
+        <p> yselande chapitre.cent iiiiod et vng
           <lb facs="#facs_198_r2l3" n="N002"/>
           <lb facs="#facs_198_r2l4" n="N003"/>ysesande est lz deere
           <lb facs="#facs_198_r2l5" n="N004"/>region de europe du coste de septentrion
@@ -20036,13 +20036,13 @@
         <lb facs="#facs_202_r3l45" n="N044"/>Austruches/et elephans comme dit ysidore
         <lb facs="#facs_202_r3l46" n="N045"/>ou xve.
         <lb facs="#facs_202_r3l47" n="N046"/>De numedie chapitre C.iiiidoxiij.
-        <lb facs="#facs_202_line_1554120733637_2330" n="N047"/>humedie aultrement <w next="#Repair_new167" resp="LGeRM">bar</w>
-        <w xml:id="Repair_new167">
+        <lb facs="#facs_202_line_1554120733637_2330" n="N047"/>humedie aultrement <w resp="LGeRM">bar</w>
+        <w>
           <pb facs="#facs_203" n="203"/>
-          <cb facs="#facs_203_TextRegion_1554120774878_2363" next="#Repair_new168"/>
+          <cb facs="#facs_203_TextRegion_1554120774878_2363"/>
           <lb facs="#facs_203_r1l2" n="N001"/>barie</w>
-        <cb xml:id="Repair_new168"/>
-        <p xml:id="Repair_new168"> est region en affrique contigue a
+        <cb/>
+        <p> est region en affrique contigue a
           <lb facs="#facs_203_r1l5" n="N002"/>cartage.Commence ou fleuue arnifi-
           <lb facs="#facs_203_r1l7" n="N003"/>ga.et se fine es limites et sentiers des
           <lb facs="#facs_203_r1l9" n="N004"/>cogitanes.aiant du coste de orient les petis
@@ -20140,13 +20140,13 @@
         <lb facs="#facs_203_r1l103" n="N037"/>este faite molle pour leaue sest endurcye
         <lb facs="#facs_203_r1l105" n="N038"/>apres son depart et a este faite montaigne
         <lb facs="#facs_203_line_1554120780476_2371" n="N039"/>. Elles sont anlcunesfois
-        <w next="#Repair_new169" resp="LGeRM">spongi</w>
-        <w xml:id="Repair_new169">
+        <w resp="LGeRM">spongi</w>
+        <w>
           <pb facs="#facs_204" n="204"/>
-          <cb facs="#facs_204_r1" next="#Repair_new170"/>
+          <cb facs="#facs_204_r1"/>
           <lb facs="#facs_204_r1l1" n="N001"/>euses</w>
-        <cb xml:id="Repair_new170"/>
-        <p xml:id="Repair_new170">/creuses et cauerneuses.pour laquelle
+        <cb/>
+        <p>/creuses et cauerneuses.pour laquelle
           <lb facs="#facs_204_r1l2" n="N002"/>cause et aussy pour emplir leur
           <lb facs="#facs_204_r1l3" n="N003"/>vacuite ilz sussent et tirent leaue a eulx
           <lb facs="#facs_204_r1l4" n="N004"/>Et quant les concauites et vuidanges sont
@@ -20937,13 +20937,13 @@
         <lb facs="#facs_211_r1l93" n="N045"/>.Ce mont est es fins des moabites
         <pb facs="#facs_212" n="212"/>
         <cb facs="#facs_212_r1"/>
-        <w next="#Repair_new171" resp="LGeRM">
+        <w resp="LGeRM">
           <lb facs="#facs_212_r1l1" n="N001"/>R </w>
-        <w xml:id="Repair_new171">
-          <cb facs="#facs_212_r2" next="#Repair_new172"/>
+        <w>
+          <cb facs="#facs_212_r2"/>
           <lb facs="#facs_212_r2l1" n="N001"/>et</w>
-        <cb xml:id="Repair_new172"/>
-        <p xml:id="Repair_new172"> ammanites / diuisant leurs terres
+        <cb/>
+        <p> ammanites / diuisant leurs terres
           <lb facs="#facs_212_r2l2" n="N002"/>des pais des amorriens.laquelle a este
           <lb facs="#facs_212_r2l3" n="N003"/>apres ce possidee de Ruben et de Gad
           <lb facs="#facs_212_r2l4" n="N004"/>et de la demie lignee de Manasse / comme
@@ -20991,12 +20991,12 @@
           <lb facs="#facs_212_r2l46" n="N046"/>/de moiteur/et de concauite. Parquoy
           <lb facs="#facs_212_r2l47" n="N047"/>les huidites retraictes dedens icelles
           <lb facs="#facs_212_r2l48" n="N048"/>Roches engendrent souuent fontainnes
-          <lb facs="#facs_212_r2l49" n="N049"/>lesquelles saillent aulcunesfois <w next="#Repair_new173" resp="LGeRM">par </w></p>
-        <w xml:id="Repair_new173">
-          <cb facs="#facs_212_TextRegion_1554121231807_2630" next="#Repair_new174"/>
+          <lb facs="#facs_212_r2l49" n="N049"/>lesquelles saillent aulcunesfois <w resp="LGeRM">par </w></p>
+        <w>
+          <cb facs="#facs_212_TextRegion_1554121231807_2630"/>
           <lb facs="#facs_212_r3l2" n="N001"/>la</w>
-        <cb xml:id="Repair_new174"/>
-        <p xml:id="Repair_new174"> sommite des Rochers.Aussy les vens
+        <cb/>
+        <p> sommite des Rochers.Aussy les vens
           <lb facs="#facs_212_r3l3" n="N002"/>et eaues entrans dedens les cauernes
           <lb facs="#facs_212_r3l4" n="N003"/>des rochers sont souuent cause du mouuement
           <lb facs="#facs_212_r3l5" n="N004"/>de terre.par la violence duquelles
@@ -21630,13 +21630,13 @@
         <lb facs="#facs_218_r2l42" n="N041"/>couleuures et de serpens
         <lb facs="#facs_218_r2l43" n="N042"/>De eola chapitre deux cens liiij.
         <lb facs="#facs_218_r2l44" n="N043"/>hinA est isle de cecile ainsi
-        <w next="#Repair_new175" resp="LGeRM">nom</w>
-        <w xml:id="Repair_new175">
+        <w resp="LGeRM">nom</w>
+        <w>
           <pb facs="#facs_219" n="219"/>
-          <cb facs="#facs_219_TextRegion_1554121648347_2843" next="#Repair_new176"/>
+          <cb facs="#facs_219_TextRegion_1554121648347_2843"/>
           <lb facs="#facs_219_r1l3" n="N001"/>mee</w>
-        <cb xml:id="Repair_new176"/>
-        <p xml:id="Repair_new176"> pour Eolus filz de ypotes lequel
+        <cb/>
+        <p> pour Eolus filz de ypotes lequel
           <lb facs="#facs_219_r1l5" n="N002"/>selon les poetes est le dieu des vens. laquelle
           <lb facs="#facs_219_r1l7" n="N003"/>chose est faincte pource quil fut
           <lb facs="#facs_219_r1l9" n="N004"/>gouuerneur de ces isles.Et scauoit predire
@@ -21772,12 +21772,12 @@
         <lb facs="#facs_220_r1l44" n="N044"/>Jamais ne pourrissent.Pareillement
         <lb facs="#facs_220_r1l45" n="N045"/>y a vne petite isle ou les homes ne meurent
         <lb facs="#facs_220_r1l46" n="N046"/>iamais/Et pource quant ilz sont si
-        <lb facs="#facs_220_r1l47" n="N047"/>vieulx que par viellesse ilz cheent en <w next="#Repair_new177" resp="LGeRM">lan</w>
-        <w xml:id="Repair_new177">
-          <cb facs="#facs_220_TextRegion_1554131312856_13" next="#Repair_new178"/>
+        <lb facs="#facs_220_r1l47" n="N047"/>vieulx que par viellesse ilz cheent en <w resp="LGeRM">lan</w>
+        <w>
+          <cb facs="#facs_220_TextRegion_1554131312856_13"/>
           <lb facs="#facs_220_r2l2" n="N001"/>gueur</w>
-        <cb xml:id="Repair_new178"/>
-        <p xml:id="Repair_new178">: on les porte hors dicelle isle. Il
+        <cb/>
+        <p>: on les porte hors dicelle isle. Il
           <lb facs="#facs_220_r2l3" n="N002"/>ny a nulz serpens/nulles reynes ou grenoilles
           <lb facs="#facs_220_r2l4" n="N003"/>/ne nulle araigne enuenimee.
           <lb facs="#facs_220_r2l5" n="N004"/>Car la terre est si contraire a venim que la
@@ -22554,12 +22554,12 @@
         <lb facs="#facs_228_r1l47" n="N047"/>leurs nauires dedens le rin: et engrand
         <lb facs="#facs_228_r1l48" n="N048"/>danger de leurs corps y descendent
         <lb facs="#facs_228_r1l49" n="N049"/>.En apres ilva a selrlringe Rumel/
-        <lb facs="#facs_228_r1l50" n="N050"/>de et basle. Sept lieues apres il entre <w next="#Repair_new179" resp="LGeRM">ar</w>
-        <w xml:id="Repair_new179">
-          <cb facs="#facs_228_TextRegion_1554135953998_215" next="#Repair_new180"/>
+        <lb facs="#facs_228_r1l50" n="N050"/>de et basle. Sept lieues apres il entre <w resp="LGeRM">ar</w>
+        <w>
+          <cb facs="#facs_228_TextRegion_1554135953998_215"/>
           <lb facs="#facs_228_r2l2" n="N001"/>gentine</w>
-        <cb xml:id="Repair_new180"/>
-        <p xml:id="Repair_new180"> aultrement straburch ou est le
+        <cb/>
+        <p> aultrement straburch ou est le
           <lb facs="#facs_228_r2l3" n="N002"/>dernier pont du rin. En lespace de ces
           <lb facs="#facs_228_r2l4" n="N003"/>sept lieues ce fleuue est embely grandement
           <lb facs="#facs_228_r2l5" n="N004"/>des territoires de lenuiron. Car
@@ -22891,7 +22891,7 @@
         <lb facs="#facs_232_r4l57" n="N002"/>. 
         <cb facs="#facs_232_TextRegion_1554136187273_380"/>
         <cb facs="#facs_232_r10"/>
-        <w xml:id="Repair_new183"><pb facs="#facs_233" n="233"/>Ossy enuiron ce temps commenca le
+        <w><pb facs="#facs_233" n="233"/>Ossy enuiron ce temps commenca le
           <lb facs="#facs_233_r7l5" n="N002"/>Royaulme des amazones par femmes
           <lb facs="#facs_233_r7l7" n="N003"/>descendues et venans des scithes.
           <lb facs="#facs_233_r7l9" n="N004"/>comme dit vng historien nomme Iustinus
@@ -23289,11 +23289,11 @@
         <lb facs="#facs_236_r2l50" n="N049"/>raconte Comestor duquel ne parlerons
         <lb facs="#facs_236_r2l51" n="N050"/>point maintenant. 
         <pb facs="#facs_237" n="237"/>
-        <w xml:id="Repair_new185">
-          <cb facs="#facs_237_TextRegion_1554136871442_596" next="#Repair_new186"/>
+        <w>
+          <cb facs="#facs_237_TextRegion_1554136871442_596"/>
           <lb facs="#facs_237_r5l3" n="N001"/>rus</w>
-        <cb xml:id="Repair_new186"/>
-        <p xml:id="Repair_new186"> obtint egipte en ce temps.cestassauoir
+        <cb/>
+        <p> obtint egipte en ce temps.cestassauoir
           <lb facs="#facs_237_line_1554136871599_599" n="N002"/>lan cinquiesme de son empire. </p>
         <cb facs="#facs_237_TextRegion_1554136917330_616"/>
         <lb facs="#facs_237_r5l108" n="N001"/>Le Regne des sicioniores commenca
@@ -23575,12 +23575,12 @@
         <lb facs="#facs_242_r4l103" n="N017"/>deluge qui est le commencement de la seconde
         <lb facs="#facs_242_r4l105" n="N018"/>aage lan iiC.iiiieod.et xiij. De la confusion
         <lb facs="#facs_242_r4l107" n="N019"/>des langues lan cent iiij od et xij De
-        <lb facs="#facs_242_line_1554207005478_112" n="N020"/>Ninus ije Roy des assiriens /caldeens/<w next="#Repair_new191" resp="LGeRM">ba</w>
-        <w xml:id="Repair_new191">
-          <cb facs="#facs_242_TextRegion_1554207081908_208" next="#Repair_new192"/>
+        <lb facs="#facs_242_line_1554207005478_112" n="N020"/>Ninus ije Roy des assiriens /caldeens/<w resp="LGeRM">ba</w>
+        <w>
+          <cb facs="#facs_242_TextRegion_1554207081908_208"/>
           <lb facs="#facs_242_r4l71" n="N001"/>bilonniens</w>
-        <cb xml:id="Repair_new192"/>
-        <p xml:id="Repair_new192"> ou sennaar qui font vng regne
+        <cb/>
+        <p> ou sennaar qui font vng regne
           <lb facs="#facs_242_r4l73" n="N002"/>/ l'an xliije.⁋De europs Roy des syci-
           <lb facs="#facs_242_r4l75" n="N003"/>oniores puis appellez argins ou grecz
           <lb facs="#facs_242_r4l77" n="N004"/>lan xxiie En ce mesme an les theba/
@@ -23599,13 +23599,13 @@
           <lb facs="#facs_242_r4l102" n="N017"/>Mil.et iiC ans. ⁋ Entre les docteurs
           <lb facs="#facs_242_r4l104" n="N018"/>est contrariete grande du lieu de la natiuite
           <lb facs="#facs_242_r4l106" n="N019"/>de Abrahan.car vng docteur nomme
-          <lb facs="#facs_242_r4l108" n="N020"/>Burgensis dit que il nasquest en <w next="#Repair_new193" resp="LGeRM">me</w></p>
-        <w xml:id="Repair_new193">
+          <lb facs="#facs_242_r4l108" n="N020"/>Burgensis dit que il nasquest en <w resp="LGeRM">me</w></p>
+        <w>
           <pb facs="#facs_243" n="243"/>
-          <cb facs="#facs_243_r1" next="#Repair_new194"/>
+          <cb facs="#facs_243_r1"/>
           <lb facs="#facs_243_r1l1" n="N001"/>sopotamie</w>
-        <cb xml:id="Repair_new194"/>
-        <p xml:id="Repair_new194"> qui est partie de sirie. Car en
+        <cb/>
+        <p> qui est partie de sirie. Car en
           <lb facs="#facs_243_r1l2" n="N002"/>iceluy lieu nostreseigneur luy dit apres/
           <lb facs="#facs_243_r1l3" n="N003"/>Egredere de terra etc.cestadire va hors
           <lb facs="#facs_243_r1l4" n="N004"/>de ta terre et du lieu de ta natiuite etc.
@@ -24020,12 +24020,12 @@
         <lb facs="#facs_247_r1l47" n="N047"/>Laquelle chose est pareillement confermee
         <lb facs="#facs_247_r1l48" n="N048"/>ou mirouer historial.Aussi est dit en ce
         <lb facs="#facs_247_r1l49" n="N049"/>lieu mesme ou il parle de phalech que noe
-        <lb facs="#facs_247_r1l50" n="N050"/>voyant ses filz inobediens/et contre sa <w next="#Repair_new195" resp="LGeRM">vo</w>
-        <w xml:id="Repair_new195">
-          <cb facs="#facs_247_TextRegion_1554208605156_564" next="#Repair_new196"/>
+        <lb facs="#facs_247_r1l50" n="N050"/>voyant ses filz inobediens/et contre sa <w resp="LGeRM">vo</w>
+        <w>
+          <cb facs="#facs_247_TextRegion_1554208605156_564"/>
           <lb facs="#facs_247_r2l2" n="N001"/>lente</w>
-        <cb xml:id="Repair_new196"/>
-        <p xml:id="Repair_new196"> edifians la tour babel/ se coursa
+        <cb/>
+        <p> edifians la tour babel/ se coursa
           <lb facs="#facs_247_r2l3" n="N002"/>monlt.dont auec son filz Jointus prist vne
           <lb facs="#facs_247_r2l4" n="N003"/>nauire et vint ou lieu ou maintenant est
           <lb facs="#facs_247_r2l5" n="N004"/>rome edifiee.Et la il fonda vng palai
@@ -24110,8 +24110,8 @@
         <lb facs="#facs_248_r2l94" n="N046"/>ce mot Jubileus qui vault autant que
         <lb facs="#facs_248_r2l96" n="N047"/>Jobileus/cestadire en francois pardonnant
         <lb facs="#facs_248_r2l99" n="N048"/>ou commencant. De cestuy a este ordonne
-        <cb xml:id="Repair_new198"/>
-        <p xml:id="Repair_new198">
+        <cb/>
+        <p>
           <lb/>le iubile de.l. ans en.l.ans. Car come
           <lb facs="#facs_248_r2l5" n="N002"/>dient aulcuns loth estoit adonc aage de .l .ans
           <lb facs="#facs_248_r2l7" n="N003"/>.Les autres dient que cestoit le le an depuis
@@ -24252,11 +24252,11 @@
         <lb facs="#facs_249_r8l50" n="N050"/>non pas seulement la langue diceulx hommes
         <lb facs="#facs_249_line_1554208740686_661" n="N051"/>bons et iustes peres/mais aussi la 
         <pb facs="#facs_250" n="250"/>
-        <w xml:id="Repair_new199">
-          <cb facs="#facs_250_TextRegion_1554208832000_700" next="#Repair_new200"/>
+        <w>
+          <cb facs="#facs_250_TextRegion_1554208832000_700"/>
           <lb facs="#facs_250_r1l2" n="N001"/>vie</w>
-        <cb xml:id="Repair_new200"/>
-        <p xml:id="Repair_new200"> a este prophetique.et que tout le regne
+        <cb/>
+        <p> a este prophetique.et que tout le regne
           <lb facs="#facs_250_r1l4" n="N002"/>de la gent des hebrieux a este grandet
           <lb facs="#facs_250_r1l6" n="N003"/>ennobly pour iceulx prophetes. En
           <lb facs="#facs_250_r1l8" n="N004"/>oultre telx hommes reprehenseurs sont semblables
@@ -24355,7 +24355,7 @@
           <lb facs="#facs_250_r1l94" n="N047"/>⁋ Les causes de circuncision ont este maintes
           <lb facs="#facs_250_r1l96" n="N048"/>come est dit ou .i.liure et chapitre cent
           <lb facs="#facs_250_r1l98" n="N049"/>et vedu mirouer historial. La premiere
-          <lb facs="#facs_250_r1l100" n="N050"/>raison fut affin que par lobeissance du <w next="#Repair_new199" resp="LGeRM">com</w></p>
+          <lb facs="#facs_250_r1l100" n="N050"/>raison fut affin que par lobeissance du <w resp="LGeRM">com</w></p>
         <pb facs="#facs_251" n="251"/>
         <cb facs="#facs_251_r1"/>
         <lb facs="#facs_251_r1l1" n="N001"/>mandement:abrahan pleut a dieu a qui adan
@@ -24614,12 +24614,12 @@
         <lb facs="#facs_253_r2l47" n="N047"/>loth.laquelle chose peult estre entendue
         <lb facs="#facs_253_r2l48" n="N048"/>litteralement:ou mistiquement et
         <lb facs="#facs_253_r2l49" n="N049"/>figurement comme ou xxxv de Jeremie
-        <lb facs="#facs_253_r2l50" n="N050"/>ou est dit que les prophetes <w next="#Repair_new201" resp="LGeRM">prophe</w>
-        <w xml:id="Repair_new201">
-          <cb facs="#facs_253_TextRegion_1554209281288_770" next="#Repair_new202"/>
+        <lb facs="#facs_253_r2l50" n="N050"/>ou est dit que les prophetes <w resp="LGeRM">prophe</w>
+        <w>
+          <cb facs="#facs_253_TextRegion_1554209281288_770"/>
           <lb facs="#facs_253_r3l2" n="N001"/>tisoient</w>
-        <cb xml:id="Repair_new202"/>
-        <p xml:id="Repair_new202"> aulcunesfois par parolles /Et
+        <cb/>
+        <p> aulcunesfois par parolles /Et
           <lb facs="#facs_253_r3l3" n="N002"/>aulcunesfois en fais comme appert en
           <lb facs="#facs_253_r3l4" n="N003"/>son xiij et xxvii.Parquoy nous est demonstree
           <lb facs="#facs_253_r3l5" n="N004"/>vne cautele contre tel cas ou
@@ -24720,7 +24720,7 @@
         <lb facs="#facs_254_r1l94" n="N047"/>ou Code / la ou il parle des reliques.et
         <lb facs="#facs_254_r1l96" n="N048"/>pource dit sainct thomas en la seconde
         <lb facs="#facs_254_r1l98" n="N049"/>de sa seconde /ou tiers article de la Ce
-        <lb facs="#facs_254_r1l100" n="N050"/>question.que il nest point leu ne <w next="#Repair_new203" resp="LGeRM">trou</w>
+        <lb facs="#facs_254_r1l100" n="N050"/>question.que il nest point leu ne <w resp="LGeRM">trou</w>
         <cb facs="#facs_254_TextRegion_1554209331099_809"/>
         <lb facs="#facs_254_r1l3" n="N001"/>ue que le lieu achete par abrahan fust terre
         <lb facs="#facs_254_r1l5" n="N002"/>sacree ne dediee a enseuelir les mors
@@ -24776,13 +24776,13 @@
         <lb facs="#facs_254_r1l97" n="N048"/> adiura son seruiteur eliezer procureur
         <lb facs="#facs_254_r1l99" n="N049"/>de sa maison affin que ysaac prist
         <lb facs="#facs_254_r1l101" n="N050"/>femme de mesopotamie sirie /du lignai 
-        <w xml:id="Repair_new203">
+        <w>
           <pb facs="#facs_255" n="255"/>
-          <cb facs="#facs_255_r1" next="#Repair_new204"/>
+          <cb facs="#facs_255_r1"/>
           <lb facs="#facs_255_r1l1" n="N001"/>
         </w>
-        <cb xml:id="Repair_new204"/>
-        <p xml:id="Repair_new204"> </p>
+        <cb/>
+        <p> </p>
         <cb facs="#facs_255_TextRegion_1554209387539_832"/>
         <lb facs="#facs_255_r2l1" n="N001"/>ge de abraham et nompas des cananees.
         <lb facs="#facs_255_r2l2" n="N002"/>comme apert ou xiiijede genese. Et fut
@@ -25030,12 +25030,12 @@
         <lb facs="#facs_257_r1l47" n="N047"/>et tolerent tristement les blandimentz/
         <lb facs="#facs_257_r1l48" n="N048"/>prosperites/et honneurs de la vie presente
         <lb facs="#facs_257_r1l49" n="N049"/>.car en ce monde plus nuist honneur et
-        <lb facs="#facs_257_r1l50" n="N050"/>ambition que le contemnement et <w next="#Repair_new205" resp="LGeRM">desprise</w>
-        <w xml:id="Repair_new205">
-          <cb facs="#facs_257_TextRegion_1554209593948_944" next="#Repair_new206"/>
+        <lb facs="#facs_257_r1l50" n="N050"/>ambition que le contemnement et <w resp="LGeRM">desprise</w>
+        <w>
+          <cb facs="#facs_257_TextRegion_1554209593948_944"/>
           <lb facs="#facs_257_r2l4" n="N001"/>ment</w>
-        <cb xml:id="Repair_new206"/>
-        <p xml:id="Repair_new206"> diceulx.Et aussy la sublimite et
+        <cb/>
+        <p> diceulx.Et aussy la sublimite et
           <lb facs="#facs_257_r2l5" n="N002"/>haultesse de prosperite greue plus que
           <lb facs="#facs_257_r2l6" n="N003"/>laduersite de constraincte et de necessite
           <lb facs="#facs_257_r2l7" n="N004"/>.pource que par aduersite lomme vient
@@ -25348,12 +25348,12 @@
         <lb facs="#facs_260_r1l118" n="N046"/>fermes en tant quilz ne croyent sy non
         <lb facs="#facs_260_r1l122" n="N047"/>pour aulcune espace de temps Et se
         <lb facs="#facs_260_r1l128" n="N048"/>departent dicelle parolle de dieu en temps
-        <lb facs="#facs_260_r1l133" n="N049"/>de tribulation.dit en outre que nous <w next="#Repair_new207" resp="LGeRM">a</w>
-        <w xml:id="Repair_new207">
-          <cb facs="#facs_260_TextRegion_1554916084273_116" next="#Repair_new208"/>
+        <lb facs="#facs_260_r1l133" n="N049"/>de tribulation.dit en outre que nous <w resp="LGeRM">a</w>
+        <w>
+          <cb facs="#facs_260_TextRegion_1554916084273_116"/>
           <lb facs="#facs_260_r1l2" n="N001"/>uons</w>
-        <cb xml:id="Repair_new208"/>
-        <p xml:id="Repair_new208"> souuent componctions et contritions de
+        <cb/>
+        <p> souuent componctions et contritions de
           <lb facs="#facs_260_r1l4" n="N002"/>noz peches:Mais apres le pleur nous
           <lb facs="#facs_260_r1l6" n="N003"/>y retournerons de rechef comme deuant
           <lb facs="#facs_260_r1l8" n="N004"/>⁋ Semblablement pour venir a nostre propos
@@ -25717,8 +25717,8 @@
         <lb facs="#facs_263_r2l57" n="N005"/>de Ihesucrist / laquelle receut grand grace
         <lb facs="#facs_263_r2l58" n="N006"/>du sainct esprit en attendant paciamment les
         <lb facs="#facs_263_r2l59" n="N007"/>futures promesses qui iamais ne furent
-        <lb facs="#facs_263_line_1554210055199_1127" n="N008"/>veues de <w next="#Repair_new209" resp="LGeRM">o</w>
-        <w xml:id="Repair_new209">
+        <lb facs="#facs_263_line_1554210055199_1127" n="N008"/>veues de <w resp="LGeRM">o</w>
+        <w>
           <pb facs="#facs_264" n="264"/>
         </w>
         <cb facs="#facs_264_TextRegion_1554210118878_1181"/>
@@ -25773,8 +25773,8 @@
         <lb facs="#facs_264_r1l97" n="N048"/>les parties sont absentes. Ad ce peut estre
         <lb facs="#facs_264_r1l99" n="N049"/>respondu que ouy come fist ysaac auec Rebecca
         <lb facs="#facs_264_r1l100" n="N050"/>ainsy que est escript en la ijequestion de
-        <cb xml:id="Repair_new210"/>
-        <p xml:id="Repair_new210">
+        <cb/>
+        <p>
           <lb/>la xxxiiecause.mais le procureur nest
           <lb facs="#facs_264_r1l4" n="N002"/>point ydoine a ce/sil na especial mandement
           <lb facs="#facs_264_r1l6" n="N003"/>et commission.et se dauenture sa puissance
@@ -26392,7 +26392,7 @@
         <lb facs="#facs_270_r1l93" n="N046"/>vers elle.car elle deuoit enfanter
         <lb facs="#facs_270_r1l95" n="N047"/>vng enfant qui seroit home fier et sau
         <lb facs="#facs_270_r1l97" n="N048"/>uaige auquel seroit inpose ce non hismael
-        <lb facs="#facs_270_r1l99" n="N049"/>. Lequel non come dit comestor fut le <w next="#Repair_new211" resp="LGeRM">pre</w>
+        <lb facs="#facs_270_r1l99" n="N049"/>. Lequel non come dit comestor fut le <w resp="LGeRM">pre</w>
         <cb facs="#facs_270_TextRegion_1554370936168_25"/>
         <lb facs="#facs_270_r1l3" n="N001"/>mier nonm impose de dieu/dont soit faite mention
         <lb facs="#facs_270_r1l5" n="N002"/>en la saincte escripture.Car en tout
@@ -26444,7 +26444,7 @@
         <lb facs="#facs_270_r1l96" n="N048"/>moitie de la lignee de manasse. desquelz
         <lb facs="#facs_270_r1l98" n="N049"/>ilz furent seurmontez.car cestoit la bataille
         <lb facs="#facs_270_r1l100" n="N050"/>de nostreseigne:. Ces agarenes
-        <w xml:id="Repair_new211">
+        <w>
           <pb facs="#facs_271" n="271"/>
         </w>
         <cb facs="#facs_271_TextRegion_1554371011877_58"/>
@@ -26487,8 +26487,8 @@
         <lb facs="#facs_271_r10l47" n="N016"/>nomme burgensis soit dopinion contraire.et
         <lb facs="#facs_271_r10l48" n="N017"/>ne afferme point que agar ait este fille
         <lb facs="#facs_271_r10l49" n="N018"/>du roy degipte.ne que de sa volente se soumist
-        <cb xml:id="Repair_new212"/>
-        <p xml:id="Repair_new212">au seruice de sarra. En ce lieu
+        <cb/>
+        <p>au seruice de sarra. En ce lieu
           <lb facs="#facs_271_r11l3" n="N002"/>fault noter que ce qui est dit apres ou texte
           <lb facs="#facs_271_r11l4" n="N003"/>de genese. Cestassauoir Ses mains et
           <lb facs="#facs_271_r11l5" n="N004"/>operations seront contre tous:et aussy
@@ -26908,12 +26908,12 @@
         <lb facs="#facs_277_r1l47" n="N047"/>montaigne est celle ou langle osta son
         <lb facs="#facs_277_r1l48" n="N048"/>glaiue dont est faite mention especia le
         <lb facs="#facs_277_r1l49" n="N049"/>ou dernier du second des Roys.Parquoy
-        <lb facs="#facs_277_r1l50" n="N050"/>en icelle fut edifie le temple <w next="#Repair_new215" resp="LGeRM">com</w>
-        <w xml:id="Repair_new215">
-          <cb facs="#facs_277_TextRegion_1554374207386_293" next="#Repair_new216"/>
+        <lb facs="#facs_277_r1l50" n="N050"/>en icelle fut edifie le temple <w resp="LGeRM">com</w>
+        <w>
+          <cb facs="#facs_277_TextRegion_1554374207386_293"/>
           <lb facs="#facs_277_r2l3" n="N001"/>me</w>
-        <cb xml:id="Repair_new216"/>
-        <p xml:id="Repair_new216"> appert ou vje du tiers des Roys.
+        <cb/>
+        <p> appert ou vje du tiers des Roys.
           <lb facs="#facs_277_r2l4" n="N002"/>⁋
           <lb facs="#facs_277_r2l5" n="N003"/>De ceste montaigne parle ysaye en
           <lb facs="#facs_277_r2l6" n="N004"/>son second disant. Vecy vne montai gne
@@ -27015,13 +27015,13 @@
         <lb facs="#facs_278_r1l94" n="N047"/>filz/ en tant quil nasquist de la vierge
         <lb facs="#facs_278_r1l96" n="N048"/>marie. Il fust mouton en tant que Il
         <lb facs="#facs_278_r1l98" n="N049"/>fust immole. Quoy plns: Quest ce adire
-        <lb facs="#facs_278_r1l100" n="N050"/>que ce mouton par ses cornes se <w next="#Repair_new217" resp="LGeRM">pre
+        <lb facs="#facs_278_r1l100" n="N050"/>que ce mouton par ses cornes se <w resp="LGeRM">pre
         </w>
-        <w xml:id="Repair_new217">
-          <cb facs="#facs_278_TextRegion_1554374237093_328" next="#Repair_new218"/>
+        <w>
+          <cb facs="#facs_278_TextRegion_1554374237093_328"/>
           <lb facs="#facs_278_r1l3" n="N001"/>noit</w>
-        <cb xml:id="Repair_new218"/>
-        <p xml:id="Repair_new218"> et aherdoit aux espines et Ronces
+        <cb/>
+        <p> et aherdoit aux espines et Ronces
           <lb facs="#facs_278_r1l5" n="N002"/>sinon que ihesucrist fut par les iuifz couronne
           <lb facs="#facs_278_r1l7" n="N003"/>despines.et finablement fiche en
           <lb facs="#facs_278_r1l9" n="N004"/>labre de la croix. dont est escript ou iiie
@@ -27193,7 +27193,7 @@
         <lb facs="#facs_280_r1l94" n="N046"/> libidinosite /mignotise / et luxure
         <lb facs="#facs_280_r1l96" n="N047"/>ainsy que est note ou vije de ysaye et
         <lb facs="#facs_280_r1l98" n="N048"/>ou iiijede Osee prophetes. ⁋ Mercurius
-        <lb facs="#facs_280_r1l100" n="N049"/>qui vault autant a dire comme <w next="#Repair_new219" resp="LGeRM">cou</w>
+        <lb facs="#facs_280_r1l100" n="N049"/>qui vault autant a dire comme <w resp="LGeRM">cou</w>
         <cb facs="#facs_280_TextRegion_1554374324322_416"/>
         <lb facs="#facs_280_r1l3" n="N001"/>rant par le milleu signifie le deable qui
         <lb facs="#facs_280_r1l5" n="N002"/>court et enuironne le monde en querant
@@ -27245,9 +27245,9 @@
         <lb facs="#facs_280_r1l95" n="N048"/>. Le peuple des vices est le plusgrand
         <lb facs="#facs_280_r1l97" n="N049"/>et plus ancien car il ya tousiors
         <lb facs="#facs_280_line_1554374327109_423" n="N050"/>plus de mauluais que de bons.et plus 
-        <w xml:id="Repair_new219">
+        <w>
           <pb facs="#facs_281" n="281"/>
-          <cb facs="#facs_281_r1" next="#Repair_new220"/>
+          <cb facs="#facs_281_r1"/>
           <lb facs="#facs_281_r1l1" n="N001"/>
         </w>
         <cb facs="#facs_281_TextRegion_1554374802632_450"/>
@@ -27594,12 +27594,12 @@
         <lb facs="#facs_284_r1l89" n="N046"/>en adorant pluralite de dieux et en cuydant
         <lb facs="#facs_284_r1l91" n="N047"/>quil ny eust point vng seul dieu.
         <lb facs="#facs_284_r1l93" n="N048"/>⁋ En cestuy lieu iacob acheta des filz
-        <lb facs="#facs_284_r1l95" n="N049"/>Emor vng champ ou il fist son <w next="#Repair_new221" resp="LGeRM">taberna</w>
-        <w xml:id="Repair_new221">
-          <cb facs="#facs_284_TextRegion_1554375199178_629" next="#Repair_new222"/>
+        <lb facs="#facs_284_r1l95" n="N049"/>Emor vng champ ou il fist son <w resp="LGeRM">taberna</w>
+        <w>
+          <cb facs="#facs_284_TextRegion_1554375199178_629"/>
           <lb facs="#facs_284_line_1554375194659_611" n="N001"/>cle</w>
-        <cb xml:id="Repair_new222"/>
-        <p xml:id="Repair_new222"> et autel le quel champ apres ce
+        <cb/>
+        <p> et autel le quel champ apres ce
           <lb facs="#facs_284_r1l33" n="N002"/>force de glaiue et de arc il defendist de
           <lb facs="#facs_284_r1l35" n="N003"/>la main et puissance de emor. Car </p>
         <p>selond
@@ -27885,13 +27885,13 @@
         <lb facs="#facs_287_r1l48" n="N048"/>en lomelie de lepiphaine et iour des rois
         <lb facs="#facs_287_r1l49" n="N049"/>en disant ainsy.Les coeurs des christiens
         <lb facs="#facs_287_r1l50" n="N050"/>ne se doibuent point arrester a cela
-        <lb facs="#facs_287_r1l51" n="N051"/>que destinee soit aulcune chose <w next="#Repair_new223" resp="LGeRM">par
+        <lb facs="#facs_287_r1l51" n="N051"/>que destinee soit aulcune chose <w resp="LGeRM">par
         </w>
-        <w xml:id="Repair_new223">
-          <cb facs="#facs_287_TextRegion_1554375411718_776" next="#Repair_new224"/>
+        <w>
+          <cb facs="#facs_287_TextRegion_1554375411718_776"/>
           <lb facs="#facs_287_r2l2" n="N001"/>la-</w>
-        <cb xml:id="Repair_new224"/>
-        <p xml:id="Repair_new224"> quelle la vie des hommes soit administree
+        <cb/>
+        <p> quelle la vie des hommes soit administree
           <lb facs="#facs_287_r2l3" n="N002"/>et gouuernee.car le seul create
           <lb facs="#facs_287_r2l4" n="N003"/>est celluy qui soubz sa main regit et
           <lb facs="#facs_287_r2l5" n="N004"/>gouuerne tout. Ne lomme nest point cree
@@ -27994,7 +27994,7 @@
         <lb facs="#facs_288_r1l94" n="N046"/>et diuersite des meurs.Mais nompas
         <lb facs="#facs_288_r1l96" n="N047"/>necessaire ne souffisant.
         <lb facs="#facs_288_r1l98" n="N048"/>⁋ On pourroit encor faire vne aultre
-        <lb facs="#facs_288_r1l100" n="N049"/>obiection <w resp="LGeRM">par ce</w> que le philosophe ou <w next="#Repair_new225" resp="LGeRM">li</w>
+        <lb facs="#facs_288_r1l100" n="N049"/>obiection <w resp="LGeRM">par ce</w> que le philosophe ou <w resp="LGeRM">li</w>
         <cb facs="#facs_288_TextRegion_1554375434128_795"/>
         <lb facs="#facs_288_r1l3" n="N001"/>ure de la propriete des elementz dit queles
         <lb facs="#facs_288_r1l5" n="N002"/>Royaulmes ont este fais vuides et
@@ -28046,13 +28046,13 @@
         <lb facs="#facs_288_r1l95" n="N048"/>. ⁋ En oultre on peult demander
         <lb facs="#facs_288_r1l97" n="N049"/>en quel royaume doit adueir la fortune
         <lb facs="#facs_288_r1l99" n="N050"/>signifiee par icelle comete /Response.La 
-        <w xml:id="Repair_new225">
+        <w>
           <pb facs="#facs_289" n="289"/>
-          <cb facs="#facs_289_r1" next="#Repair_new226"/>
+          <cb facs="#facs_289_r1"/>
           <lb facs="#facs_289_r1l1" n="N001"/>
         </w>
-        <cb xml:id="Repair_new226"/>
-        <p xml:id="Repair_new226"> </p>
+        <cb/>
+        <p> </p>
         <cb facs="#facs_289_r2"/>
         <lb facs="#facs_289_r2l1" n="N001"/>comete adresse tousiours ses raiz vers
         <lb facs="#facs_289_r2l2" n="N002"/>le pays ou doibt la malediction courir
@@ -28207,7 +28207,7 @@
         <cb facs="#facs_290_TextRegion_1554375651916_845"/>
         <w resp="LGeRM">les</w> peruers sont a lexemple des bons
         <lb facs="#facs_290_r1l100" n="N049"/>Car silz nestoient nulz mauluais hommes
-        <lb facs="#facs_290_r1l102" n="N050"/>:les bons proufiteroyent bien <w next="#Repair_new227" resp="LGeRM">pe</w>
+        <lb facs="#facs_290_r1l102" n="N050"/>:les bons proufiteroyent bien <w resp="LGeRM">pe</w>
         <cb facs="#facs_290_TextRegion_1554375651916_845"/>
         <lb facs="#facs_290_r1l3" n="N001"/>tit veu et considere quilz sont excites et
         <lb facs="#facs_290_r1l5" n="N002"/>esmeux/par lerreur diceulx mauluaix
@@ -28260,12 +28260,12 @@
         <lb facs="#facs_290_r1l97" n="N049"/>son franc arbitrement
         <lb facs="#facs_290_r1l99" n="N050"/>affin que la louenge humaine
         <lb facs="#facs_290_r1l101" n="N051"/>fust plus estendue et amplifiee. Car/. 
-        <w xml:id="Repair_new227">
+        <w>
           <pb facs="#facs_291" n="291"/>
-          <cb facs="#facs_291_r1" next="#Repair_new228"/>
+          <cb facs="#facs_291_r1"/>
           <lb facs="#facs_291_r1l1" n="N001"/>il</w>
-        <cb xml:id="Repair_new228"/>
-        <p xml:id="Repair_new228"> est escrit ou xxxie de ecclesiastique comment
+        <cb/>
+        <p> est escrit ou xxxie de ecclesiastique comment
           <lb facs="#facs_291_r1l2" n="N002"/>lomme a peu transgrede: et passer
           <lb facs="#facs_291_r1l3" n="N003"/>le commandement diuin par son liberal
           <lb facs="#facs_291_r1l4" n="N004"/>arbitre que dieu luy auoit donne.Et
@@ -28506,13 +28506,13 @@
         <lb facs="#facs_293_r1l43" n="N043"/>Chapitre xixede lya.
         <lb facs="#facs_293_r1l44" n="N044"/>ia tille de laban
         <lb facs="#facs_293_r1l45" n="N045"/>premiere femme de iacob por
-        <lb facs="#facs_293_r1l46" n="N046"/>laquelle il seruit vij ans comme <w next="#Repair_new229" resp="LGeRM">apert </w>
-        <w xml:id="Repair_new229">
-          <cb facs="#facs_293_r2" next="#Repair_new230"/>
+        <lb facs="#facs_293_r1l46" n="N046"/>laquelle il seruit vij ans comme <w resp="LGeRM">apert </w>
+        <w>
+          <cb facs="#facs_293_r2"/>
           <lb facs="#facs_293_r2l1" n="N001"/>
         </w>
-        <cb xml:id="Repair_new230"/>
-        <p xml:id="Repair_new230"> </p>
+        <cb/>
+        <p> </p>
         <cb facs="#facs_293_TextRegion_1554375895332_951"/>
         <lb facs="#facs_293_r3l3" n="N001"/>ou xxixede denese Eust six filz et vne
         <lb facs="#facs_293_r3l4" n="N002"/>fille de iacob.cestassauoir Dina.ainsy
@@ -29102,8 +29102,8 @@
         <lb facs="#facs_299_r1l39" n="N023"/>aaronites.Mais les autres descendans
         <lb facs="#facs_299_r1l40" n="N024"/>de caath furent nommez par nom commun
         <lb facs="#facs_299_r1l41" n="N025"/>caathites. Les tiers descendans de gerson 
-        <cb xml:id="Repair_new232"/>
-        <p xml:id="Repair_new232"> </p>
+        <cb/>
+        <p> </p>
         <cb facs="#facs_299_r4"/>
         gens et principalement la generation
         <lb facs="#facs_299_r6l3" n="N002"/>de Israel. Ces parolles finees Symeon
@@ -29496,12 +29496,12 @@
         <lb facs="#facs_303_r1l47" n="N047"/>menera en sa sainctification en demonstrant
         <lb facs="#facs_303_r1l48" n="N048"/>paix. De la lignee de iuda et de
         <lb facs="#facs_303_r1l49" n="N049"/>leui procedera la saluation. Il fera ba taille
-        <lb facs="#facs_303_r1l50" n="N050"/>encontre belial apostat <w next="#Repair_new233" resp="LGeRM">diaboli</w>
-        <w xml:id="Repair_new233">
-          <cb facs="#facs_303_TextRegion_1554376591543_1230" next="#Repair_new234"/>
+        <lb facs="#facs_303_r1l50" n="N050"/>encontre belial apostat <w resp="LGeRM">diaboli</w>
+        <w>
+          <cb facs="#facs_303_TextRegion_1554376591543_1230"/>
           <lb facs="#facs_303_r2l2" n="N001"/>que</w>
-        <cb xml:id="Repair_new234"/>
-        <p xml:id="Repair_new234">. prendra vengance de sa victoire
+        <cb/>
+        <p>. prendra vengance de sa victoire
           <lb facs="#facs_303_r2l3" n="N002"/>quil a eue en vos termes et habitations
           <lb facs="#facs_303_r2l4" n="N003"/>. Le mettera en captiuite.Luy ostera
           <lb facs="#facs_303_r2l5" n="N004"/>les ames des sainctz. Conuertira
@@ -29804,7 +29804,7 @@
         <lb facs="#facs_306_r1l93" n="N045"/>lieues depuis la montaigne thabor iusques
         <lb facs="#facs_306_r1l95" n="N046"/>a la vallee carmaleon. ⁋ zabulon
         <lb facs="#facs_306_r1l97" n="N047"/>figure l'eglise qui habite pres des flocz
-        <lb facs="#facs_306_r1l99" n="N048"/>et temptations de ceste vie.de <w next="#Repair_new235" resp="LGeRM">laquelle </w>
+        <lb facs="#facs_306_r1l99" n="N048"/>et temptations de ceste vie.de <w resp="LGeRM">laquelle </w>
         <cb facs="#facs_306_TextRegion_1554376664830_1321"/>
         <lb facs="#facs_306_r1l3" n="N001"/>toute la progression et chemin nest que
         <lb facs="#facs_306_r1l5" n="N002"/>vng passement sur terre. pour immoler
@@ -29856,9 +29856,9 @@
         <lb facs="#facs_306_r1l94" n="N048"/>Cestadire les delectations/vanites et
         <lb facs="#facs_306_r1l96" n="N049"/>malices des peches /en yssant hors de
         <lb facs="#facs_306_r1l98" n="N050"/>la maison de conscience et de religion/ 
-        <w xml:id="Repair_new235">
+        <w>
           <pb facs="#facs_307" n="307"/>
-          <cb facs="#facs_307_r1" next="#Repair_new236"/>
+          <cb facs="#facs_307_r1"/>
           <lb facs="#facs_307_r1l1" n="N001"/>
         </w>
         <cb facs="#facs_307_r3"/>
@@ -30362,11 +30362,11 @@
         <lb facs="#facs_311_r3l51" n="N049"/>an fust lexorde et commencement de
         <lb facs="#facs_311_line_1554377139287_1491" n="N050"/>la xxvjedinascie laquelle dura par le cours 
         <pb facs="#facs_312" n="312"/>
-        <w xml:id="Repair_new237">
-          <cb facs="#facs_312_TextRegion_1554377197107_1521" next="#Repair_new238"/>
+        <w>
+          <cb facs="#facs_312_TextRegion_1554377197107_1521"/>
           <lb facs="#facs_312_r1l2" n="N001"/>de</w>
-        <cb xml:id="Repair_new238"/>
-        <p xml:id="Repair_new238"> xij rois d'egipte/iusques au xve an
+        <cb/>
+        <p> xij rois d'egipte/iusques au xve an
           <lb facs="#facs_312_r1l4" n="N002"/>de octouian
           <lb facs="#facs_312_r1l6" n="N003"/>⁋ L'an de ioseph xlixe fust le commencement
           <lb facs="#facs_312_r1l8" n="N004"/>du regne de aratus roy xedes sici-
@@ -30466,7 +30466,7 @@
           <lb facs="#facs_312_r1l94" n="N047"/>sil me plaisoit elle feroit mourir son mary
           <lb facs="#facs_312_r1l96" n="N048"/>et puis me prendroit en mariage. A
           <lb facs="#facs_312_r1l98" n="N049"/>laquelle tousiours contredis gracieusement
-          <lb facs="#facs_312_r1l100" n="N050"/>en luy remonstrant sa folie.⁋<w next="#Repair_new237" resp="LGeRM">Ad</w></p>
+          <lb facs="#facs_312_r1l100" n="N050"/>en luy remonstrant sa folie.⁋<w resp="LGeRM">Ad</w></p>
         <pb facs="#facs_313" n="313"/>
         <cb facs="#facs_313_r1"/>
         <lb facs="#facs_313_r1l1" n="N001"/>uint vng iour que elle me enuoya vng
@@ -30568,13 +30568,13 @@
         <lb facs="#facs_313_r2l45" n="N043"/>en esprit que ihesucrist y naistre
         <lb facs="#facs_313_r2l46" n="N044"/>roit/mourroit/et ressusciteroit.
         <lb facs="#facs_313_r2l47" n="N045"/>⁋Chapitre xxxvjedes filz de
-        <lb facs="#facs_313_r2l48" n="N046"/>Judas / de thamar et de <w next="#Repair_new239" resp="LGeRM">Sue </w>
-        <w xml:id="Repair_new239">
-          <cb facs="#facs_313_r3" next="#Repair_new240"/>
+        <lb facs="#facs_313_r2l48" n="N046"/>Judas / de thamar et de <w resp="LGeRM">Sue </w>
+        <w>
+          <cb facs="#facs_313_r3"/>
           <lb facs="#facs_313_r3l1" n="N001"/>
         </w>
-        <cb xml:id="Repair_new240"/>
-        <p xml:id="Repair_new240"> </p>
+        <cb/>
+        <p> </p>
         <pb facs="#facs_314" n="314"/>
         <cb facs="#facs_314_r1"/>
         <lb facs="#facs_314_r1l1" n="N001"/>
@@ -30812,13 +30812,13 @@
         <lb facs="#facs_319_r2l1" n="N001"/>desquelx est faite plaine mention ou
         <lb facs="#facs_319_r2l2" n="N002"/>vi de exode. Amram est interprete
         <lb facs="#facs_319_r2l3" n="N003"/>peuple hault.ou celsitude de peuple.ou
-        <lb facs="#facs_319_line_1554377573673_1780" n="N004"/>peuple exalte.ou exaltation de <w next="#Repair_new243" resp="LGeRM">peuple </w>
-        <w xml:id="Repair_new243">
-          <cb facs="#facs_319_r3" next="#Repair_new244"/>
+        <lb facs="#facs_319_line_1554377573673_1780" n="N004"/>peuple exalte.ou exaltation de <w resp="LGeRM">peuple </w>
+        <w>
+          <cb facs="#facs_319_r3"/>
           <lb facs="#facs_319_r3l1" n="N001"/>
         </w>
-        <cb xml:id="Repair_new244"/>
-        <p xml:id="Repair_new244">
+        <cb/>
+        <p>
           <lb facs="#facs_319_r3l2" n="N002"/>
         </p>
         <cb facs="#facs_319_TextRegion_1554377586537_1791"/>
@@ -31037,12 +31037,12 @@
         <lb facs="#facs_321_r1l47" n="N047"/>la premiere cause. ⁋ Aaron auoit vne
         <lb facs="#facs_321_r1l48" n="N048"/>verge qui deuora toutes celles des enchanteurs
         <lb facs="#facs_321_r1l49" n="N049"/>et deuins come apert ou vij de
-        <lb facs="#facs_321_r1l50" n="N050"/>exode.et en la v.question de la xxvi <w next="#Repair_new245" resp="LGeRM">cau</w>
-        <w xml:id="Repair_new245">
-          <cb facs="#facs_321_TextRegion_1554383379164_1912" next="#Repair_new246"/>
+        <lb facs="#facs_321_r1l50" n="N050"/>exode.et en la v.question de la xxvi <w resp="LGeRM">cau</w>
+        <w>
+          <cb facs="#facs_321_TextRegion_1554383379164_1912"/>
           <lb facs="#facs_321_r2l2" n="N001"/>se</w>
-        <cb xml:id="Repair_new246"/>
-        <p xml:id="Repair_new246">. Laquelle verge florist ainsy que est
+        <cb/>
+        <p>. Laquelle verge florist ainsy que est
           <lb facs="#facs_321_r2l3" n="N002"/>dit ou xvii du nombre. ⁋ Aaron aage <w resp="LGeRM">de </w></p>
         <p><w resp="LGeRM">cent</w> xxiii ans/ cestassauoir xl ans apres
           <lb facs="#facs_321_r2l5" n="N004"/>lissue de egipte/et apres ce que Moyse
@@ -31137,7 +31137,7 @@
         <lb facs="#facs_322_r1l89" n="N042"/>du nombre et en la premiere question
         <lb facs="#facs_322_r1l91" n="N043"/>de la vije cause. Et lors commanda no
         <lb facs="#facs_322_r1l93" n="N044"/>streseigneur que tous ceulx qui nestoy-
-        <lb facs="#facs_322_r1l95" n="N045"/>ent point consentans ne adherentz <w next="#Repair_new247" resp="LGeRM">a </w>
+        <lb facs="#facs_322_r1l95" n="N045"/>ent point consentans ne adherentz <w resp="LGeRM">a </w>
         <cb facs="#facs_322_TextRegion_1554383447607_1936"/>
         <lb facs="#facs_322_r1l2" n="N001"/>leur oultrecuidance fussent deulx separez
         <lb facs="#facs_322_r1l4" n="N002"/>/de paour que auec iceulx ne fussent
@@ -31191,12 +31191,12 @@
         <cb facs="#facs_322_TextRegion_1554383447607_1936"/>
         <w resp="LGeRM">estre</w> tant en peche mortel que veniel.
         <lb facs="#facs_322_r1l96" n="N050"/>Le tiers est contre dieu principalement 
-        <w xml:id="Repair_new247">
+        <w>
           <pb facs="#facs_323" n="323"/>
-          <cb facs="#facs_323_r1" next="#Repair_new248"/>
+          <cb facs="#facs_323_r1"/>
           <lb facs="#facs_323_r1l1" n="N001"/>et</w>
-        <cb xml:id="Repair_new248"/>
-        <p xml:id="Repair_new248"> contre son prelat. Et tel contemnement
+        <cb/>
+        <p> contre son prelat. Et tel contemnement
           <lb facs="#facs_323_r1l2" n="N002"/>puis quil est fait de propos delibere ne
           <lb facs="#facs_323_r1l3" n="N003"/>peult estre sans peche mortel. Tou tes
           <lb facs="#facs_323_r1l4" n="N004"/>fois fault cy considerer quil ya grande
@@ -32250,8 +32250,8 @@
         <lb facs="#facs_333_r4l50" n="N048"/>lors vne cite ou commencement de la solitude
         <lb facs="#facs_333_r4l51" n="N049"/>de egipte laquelle par iosephus
         <lb facs="#facs_333_r4l52" n="N050"/>ou second liure et chapitre vii.des antiquites
-        <lb facs="#facs_333_r4l53" n="N051"/>est appellee lucus.En ce lieu <w next="#Repair_new249" resp="LGeRM">par </w>
-        <w xml:id="Repair_new249">
+        <lb facs="#facs_333_r4l53" n="N051"/>est appellee lucus.En ce lieu <w resp="LGeRM">par </w>
+        <w>
           <pb facs="#facs_334" n="334"/>
         </w>
         <cb facs="#facs_334_TextRegion_1554388314785_2547"/>
@@ -32284,7 +32284,7 @@
           <lb facs="#facs_334_r8l81" n="N010"/>la cite magdalon et la mer rouge a lope/
           <lb facs="#facs_334_line_1554388246762_2466" n="N011"/>posite de beelsephon ou quel lieu israhel
           <lb facs="#facs_334_line_1554388246769_2470" n="N012"/>le chose Josephus ou vii.chapitre du se
-          <cb facs="#facs_334_TextRegion_1554388283366_2509" next="#Repair_new250"/>
+          <cb facs="#facs_334_TextRegion_1554388283366_2509"/>
           a lentour duquel fleuue sont situees
           <lb facs="#facs_334_r8l4" n="N002"/>ces citez. cestassauoir babilone. Cayr.
           <lb facs="#facs_334_r8l6" n="N003"/>Alexandrie/ou souffrist passion Saincte
@@ -32302,8 +32302,8 @@
           <lb facs="#facs_334_r8l30" n="N015"/>colonne et pillier qui estoit en semblance defeu
           <lb facs="#facs_334_r8l32" n="N016"/>come est escript ou xiii.de exode.
           <lb facs="#facs_334_r8l59" n="N001"/>estoit</p>
-        <cb xml:id="Repair_new250"/>
-        <p xml:id="Repair_new250"> la montaigne tres aspre.et de l'autre
+        <cb/>
+        <p> la montaigne tres aspre.et de l'autre
           <lb facs="#facs_334_r8l61" n="N002"/>estoit la mer.Ceste asprete de lieu
           <lb facs="#facs_334_r8l64" n="N003"/>consideree Les explorateurs et espies enuoyes
           <lb facs="#facs_334_r8l66" n="N004"/>des egiptiens cuidoient iceluy peuple
@@ -32376,12 +32376,12 @@
         <lb facs="#facs_335_r2l46" n="N046"/>monstrer nobles en coeur/en bouche / et
         <lb facs="#facs_335_r2l47" n="N047"/>en operation
         <lb facs="#facs_335_r2l48" n="N048"/>⁋ Chapitre lijede la v.mansion.
-        <lb facs="#facs_335_r2l49" n="N049"/>uis le partirent les <w next="#Repair_new251" resp="LGeRM">hebr</w>
-        <w xml:id="Repair_new251">
-          <cb facs="#facs_335_TextRegion_1554388605364_2563" next="#Repair_new252"/>
+        <lb facs="#facs_335_r2l49" n="N049"/>uis le partirent les <w resp="LGeRM">hebr</w>
+        <w>
+          <cb facs="#facs_335_TextRegion_1554388605364_2563"/>
           <lb facs="#facs_335_r3l3" n="N001"/>eux</w>
-        <cb xml:id="Repair_new252"/>
-        <p xml:id="Repair_new252"> de phyayroth / passerent par le milleu
+        <cb/>
+        <p> de phyayroth / passerent par le milleu
           <lb facs="#facs_335_r3l4" n="N002"/>de la mer ou desert. cheminerent trois
           <lb facs="#facs_335_r3l5" n="N003"/>iours en la solitude de ethan et se logerent
           <lb facs="#facs_335_r3l6" n="N004"/>en morath qui est interprete amaritude
@@ -32483,7 +32483,7 @@
         <lb facs="#facs_336_r1l98" n="N048"/>estre la vije.Et pource est a noter que
         <lb facs="#facs_336_r1l100" n="N049"/>tout hermitaige iusques a la montaigne
         <lb facs="#facs_336_r1l102" n="N050"/>de synay est appelle Syn/ Et aussy
-        <lb facs="#facs_336_r1l104" n="N051"/>que le lieu dune mansion a pris et <w next="#Repair_new253" resp="LGeRM">sor </w>
+        <lb facs="#facs_336_r1l104" n="N051"/>que le lieu dune mansion a pris et <w resp="LGeRM">sor </w>
         <cb facs="#facs_336_TextRegion_1554388683341_2589"/>
         <lb facs="#facs_336_r1l2" n="N001"/>ti aulcunesfois son nom et denomination
         <lb facs="#facs_336_r1l4" n="N002"/>de toute la prouince comme moab est lenon
@@ -32537,13 +32537,13 @@
         <lb facs="#facs_336_r1l101" n="N051"/>pource que amalech y fust dissipe et destruict
         <lb facs="#facs_336_r1l103" n="N052"/>.ou pource que israel par les intercessions
         <lb facs="#facs_336_r1l105" n="N053"/>de moyse y fut sane et gary 
-        <w xml:id="Repair_new253">
+        <w>
           <pb facs="#facs_337" n="337"/>
-          <cb facs="#facs_337_r2" next="#Repair_new254"/>
+          <cb facs="#facs_337_r2"/>
           <lb facs="#facs_337_r2l1" n="N001"/>
         </w>
-        <cb xml:id="Repair_new254"/>
-        <p xml:id="Repair_new254"> </p>
+        <cb/>
+        <p> </p>
         <cb facs="#facs_337_TextRegion_1554388951497_2627"/>
         <lb facs="#facs_337_line_1554388951656_2630" n="N001"/>Apres ce que amalech fust seurmonte
         <lb facs="#facs_337_r10l2" n="N002"/>vint Jetro prestre de madian cousin et
@@ -32890,7 +32890,7 @@
         <lb facs="#facs_340_r1l89" n="N044"/>Car il est escript ou xlviije de Jeremie
         <lb facs="#facs_340_r1l91" n="N045"/>que lomme est mauldit qui exerce et execute
         <lb facs="#facs_340_r1l93" n="N046"/> negliganment le seruice et oeuuvre
-        <lb facs="#facs_340_r1l95" n="N047"/>de dieu Et qui destourne son glaiue <w next="#Repair_new255" resp="LGeRM">de </w>
+        <lb facs="#facs_340_r1l95" n="N047"/>de dieu Et qui destourne son glaiue <w resp="LGeRM">de </w>
         <cb facs="#facs_340_TextRegion_1554450329205_88"/>
         <lb facs="#facs_340_r1l2" n="N001"/>loccision diceulx iniques precepteurs et
         <lb facs="#facs_340_r1l4" n="N002"/>maistres. ⁋ Aultremet gadgad est interprete
@@ -32941,9 +32941,9 @@
         <lb facs="#facs_340_r1l92" n="N046"/>ne sont point traictees en lordre des autres
         <lb facs="#facs_340_r1l94" n="N047"/>par forme de histoire declaratiue
         <lb facs="#facs_340_r1l96" n="N048"/>des choses au long mays sont seulement 
-        <w xml:id="Repair_new255">
+        <w>
           <pb facs="#facs_341" n="341"/>
-          <cb facs="#facs_341_r1" next="#Repair_new256"/>
+          <cb facs="#facs_341_r1"/>
           <lb facs="#facs_341_r1l1" n="N001"/>
         </w>
         <cb facs="#facs_341_TextRegion_1554450858595_135"/>
@@ -34156,13 +34156,13 @@
         <lb facs="#facs_355_r1l47" n="N047"/>il fut fait iuge il vsurpa la dignite episcopale
         <lb facs="#facs_355_r1l48" n="N048"/>/come dit vincent ou chapitre lxviij
         <lb facs="#facs_355_r1l49" n="N049"/>du tiers liure du mirouer historial. de
-        <lb facs="#facs_355_r1l50" n="N050"/>cestuy hely sera faite mention plus <w next="#Repair_new261" resp="LGeRM">am</w>
-        <w xml:id="Repair_new261">
-          <cb facs="#facs_355_TextRegion_1554453013807_841" next="#Repair_new262"/>
+        <lb facs="#facs_355_r1l50" n="N050"/>cestuy hely sera faite mention plus <w resp="LGeRM">am</w>
+        <w>
+          <cb facs="#facs_355_TextRegion_1554453013807_841"/>
           <lb facs="#facs_355_line_1554452999045_834" n="N001"/>
           <lb facs="#facs_355_r2l2" n="N002"/>ple</w>
-        <cb xml:id="Repair_new262"/>
-        <p xml:id="Repair_new262"> en la ligne des iuges.et semblablement
+        <cb/>
+        <p> en la ligne des iuges.et semblablement
           <lb facs="#facs_355_r2l3" n="N003"/>des ans es quelx il regna. Mais
           <lb facs="#facs_355_r2l4" n="N004"/>de ses enfans fault parler Car il eust ij
           <lb facs="#facs_355_r2l5" n="N005"/>filz Ofni et finees. Desquelx le premier
@@ -35234,12 +35234,12 @@
         <lb facs="#facs_367_r7l21" n="N021"/>les mourust.Et selond les fables fust
         <lb facs="#facs_367_r7l22" n="N022"/>translate ou ciel et appelle le signe du
         <lb facs="#facs_367_r7l23" n="N023"/>sagittaire. 
-        <w xml:id="Repair_new263">
-          <cb facs="#facs_367_r10" next="#Repair_new264"/>
+        <w>
+          <cb facs="#facs_367_r10"/>
           <lb facs="#facs_367_r10l1" n="N001"/>
         </w>
-        <cb xml:id="Repair_new264"/>
-        <p xml:id="Repair_new264"> </p>
+        <cb/>
+        <p> </p>
         <cb facs="#facs_367_TextRegion_1554454060289_1471"/>
         <lb facs="#facs_367_r7l53" n="N001"/>⁋Chapitre cent xiii.de abessan xii.
         <lb facs="#facs_367_r7l54" n="N002"/>bes san ou esebon de beh-
@@ -35248,12 +35248,12 @@
         <lb facs="#facs_367_r7l57" n="N005"/>l'an du monde iiM vii cens iiiiodet iiu.
         <lb facs="#facs_367_r7l58" n="N006"/>De la tierce aage l'an viii cens xxvi.
         <lb facs="#facs_367_r7l59" n="N007"/>De lissue d'egipte trois cens xxi. Il iu
-        <lb facs="#facs_367_r7l60" n="N008"/>ga vii ans/eust xxx filz et autant de <w next="#Repair_new265" resp="LGeRM">fil</w>
-        <w xml:id="Repair_new265">
-          <cb facs="#facs_367_TextRegion_1554454032918_1442" next="#Repair_new266"/>
+        <lb facs="#facs_367_r7l60" n="N008"/>ga vii ans/eust xxx filz et autant de <w resp="LGeRM">fil</w>
+        <w>
+          <cb facs="#facs_367_TextRegion_1554454032918_1442"/>
           <lb facs="#facs_367_r8l3" n="N001"/>les</w>
-        <cb xml:id="Repair_new266"/>
-        <p xml:id="Repair_new266"> /tesmoing le xii.des iuges. ⁋ Lan premier
+        <cb/>
+        <p> /tesmoing le xii.des iuges. ⁋ Lan premier
           <lb facs="#facs_367_r8l4" n="N002"/>de abessan trespassa hercules aage
           <lb facs="#facs_367_r8l5" n="N003"/>de lxxi ans ou come dient aultres lii. Lequel
           <lb facs="#facs_367_r8l6" n="N004"/>hercules mist colunnes et bornes
@@ -35378,12 +35378,12 @@
         <lb facs="#facs_369_r4l23" n="N014"/>descendue la famille des iulles
         <cb facs="#facs_369_TextRegion_1554454615712_1673"/>
         <lb facs="#facs_369_r4l48" n="N001"/>⁋ L'an viii. de abdon selond iustinus
-        <lb facs="#facs_369_r4l49" n="N002"/>trespassaEuander pere de pallas. <w next="#Repair_new267" resp="LGeRM">Le</w>
-        <w xml:id="Repair_new267">
-          <cb facs="#facs_369_TextRegion_1554454305790_1656" next="#Repair_new268"/>
+        <lb facs="#facs_369_r4l49" n="N002"/>trespassaEuander pere de pallas. <w resp="LGeRM">Le</w>
+        <w>
+          <cb facs="#facs_369_TextRegion_1554454305790_1656"/>
           <lb facs="#facs_369_r6l3" n="N001"/>quel</w>
-        <cb xml:id="Repair_new268"/>
-        <p xml:id="Repair_new268"> euander auoit occis son pere par lamonnestement
+        <cb/>
+        <p> euander auoit occis son pere par lamonnestement
           <lb facs="#facs_369_r6l4" n="N002"/>de sa mere Nicostrata
           <lb facs="#facs_369_r6l5" n="N003"/>laquelle estoit aultrement nommee
           <lb facs="#facs_369_r6l6" n="N004"/>carmentis.Pour ceste cause fust constrainct
@@ -35748,12 +35748,12 @@
         <lb facs="#facs_376_r1l32" n="N010"/>partie estoyt
         <lb facs="#facs_376_r1l34" n="N011"/>nommee le royaulme
         <lb facs="#facs_376_r1l38" n="N012"/>de
-        <w next="#Repair_new271" resp="LGeRM">Ju</w>
-        <w xml:id="Repair_new271">
-          <cb facs="#facs_376_TextRegion_1554455758233_2067" next="#Repair_new272"/>
+        <w resp="LGeRM">Ju</w>
+        <w>
+          <cb facs="#facs_376_TextRegion_1554455758233_2067"/>
           <lb facs="#facs_376_r1l41" n="N001"/>dee</w>
-        <cb xml:id="Repair_new272"/>
-        <p xml:id="Repair_new272"> contenant deux lignees seulement
+        <cb/>
+        <p> contenant deux lignees seulement
           <lb facs="#facs_376_r1l43" n="N002"/>cestassauoir iudas et Beniamin.mais
           <lb facs="#facs_376_r1l45" n="N003"/>pour l'autre partie estoit dicte le royaume
           <lb facs="#facs_376_r1l47" n="N004"/>de Samarie. Lequel royaulme de
@@ -35898,12 +35898,12 @@
         <lb facs="#facs_377_r1l47" n="N047"/>iusques aux desertz de cades barne et
         <lb facs="#facs_377_r1l48" n="N048"/>asyongaber et aux eaues de contradiction
         <lb facs="#facs_377_r1l49" n="N049"/>vers la mer rouge par solitudes et
-        <lb facs="#facs_377_r1l50" n="N050"/>desers tres larges iusques au fleuue <w next="#Repair_new273" resp="LGeRM">Eu</w>
-        <w xml:id="Repair_new273">
-          <cb facs="#facs_377_TextRegion_1554455796742_2091" next="#Repair_new274"/>
+        <lb facs="#facs_377_r1l50" n="N050"/>desers tres larges iusques au fleuue <w resp="LGeRM">Eu</w>
+        <w>
+          <cb facs="#facs_377_TextRegion_1554455796742_2091"/>
           <lb facs="#facs_377_r2l3" n="N001"/>frates</w>
-        <cb xml:id="Repair_new274"/>
-        <p xml:id="Repair_new274">.Ceste cy est la grande arabie
+        <cb/>
+        <p>.Ceste cy est la grande arabie
           <lb facs="#facs_377_r2l4" n="N002"/>en laquelle est le mesche cite de la sepulture
           <lb facs="#facs_377_r2l5" n="N003"/>detestable de mahommet.
           <lb facs="#facs_377_r2l6" n="N004"/>⁋ Iusques cy ay parle de la situation
@@ -36003,7 +36003,7 @@
         <cb facs="#facs_378_TextRegion_1554455822519_2115"/>
         <w resp="LGeRM">ces</w> puis est leaue receue assemblee et esleuee
         <lb facs="#facs_378_r1l98" n="N049"/>en telle maniere que de tous costez
-        <lb facs="#facs_378_r1l100" n="N050"/>elle coule oultre et par dessus <w next="#Repair_new275" resp="LGeRM">les </w>
+        <lb facs="#facs_378_r1l100" n="N050"/>elle coule oultre et par dessus <w resp="LGeRM">les </w>
         <p>
           <lb facs="#facs_378_r1l2" n="N001"/>murs. Neantmoins ya aulcuns conduitz
           <lb facs="#facs_378_r1l4" n="N002"/>faitz par Ruisseaulx qui sont detelle
@@ -36054,12 +36054,12 @@
           <lb facs="#facs_378_r1l96" n="N047"/>que acre ou acon.a forme ronde.est asche
           <lb facs="#facs_378_r1l99" n="N048"/>.enuironnee dicelle mer de tous costez
           <lb facs="#facs_378_r1l101" n="N049"/>sinon au deuant et entree de la ci/ </p>
-        <w xml:id="Repair_new275">
+        <w>
           <pb facs="#facs_379" n="379"/>
-          <cb facs="#facs_379_r1" next="#Repair_new276"/>
+          <cb facs="#facs_379_r1"/>
           <lb facs="#facs_379_r1l1" n="N001"/>te</w>
-        <cb xml:id="Repair_new276"/>
-        <p xml:id="Repair_new276"> vers orient.ou Nabugodonosor et apres
+        <cb/>
+        <p> vers orient.ou Nabugodonosor et apres
           <lb facs="#facs_379_r1l2" n="N002"/>luy Alixandre la firent contigue
           <lb facs="#facs_379_r1l3" n="N003"/>et ioignant a terre. Les murs sont fors
           <lb facs="#facs_379_r1l4" n="N004"/>haulx et espes de vingt et cinq piez Et
@@ -36467,13 +36467,13 @@
         <lb facs="#facs_382_r2l44" n="N044"/>de Josue. ⁋ A propos de cecy est souuent
         <lb facs="#facs_382_r2l45" n="N045"/>parle que le peuple disrahel estoit
         <lb facs="#facs_382_r2l46" n="N046"/>assemble depuis dan iusques en bersabee
-        <lb facs="#facs_382_r2l47" n="N047"/>. Car ceste cite lesen dan vers <w next="#Repair_new277" resp="LGeRM">septen</w>
-        <w xml:id="Repair_new277">
+        <lb facs="#facs_382_r2l47" n="N047"/>. Car ceste cite lesen dan vers <w resp="LGeRM">septen</w>
+        <w>
           <pb facs="#facs_383" n="383"/>
-          <cb facs="#facs_383_r1" next="#Repair_new278"/>
+          <cb facs="#facs_383_r1"/>
           <lb facs="#facs_383_r1l1" n="N001"/>trion</w>
-        <cb xml:id="Repair_new278"/>
-        <p xml:id="Repair_new278"> estoit le terme et fin de la terre sainte
+        <cb/>
+        <p> estoit le terme et fin de la terre sainte
           <lb facs="#facs_383_r1l2" n="N002"/>.Et bersabee du coste de mydy comme
           <lb facs="#facs_383_r1l3" n="N003"/>appert par le quatriesme des Rois
           <lb facs="#facs_383_r1l4" n="N004"/>⁋ Philipe tetrarche de yturee et traco-
@@ -36526,12 +36526,12 @@
           <lb facs="#facs_383_r1l50" n="N050"/>entre dedens vng estang lequel est
           <lb facs="#facs_383_r1l51" n="N051"/>fait et cause des neges du mont libanus.
           <lb facs="#facs_383_r1l52" n="N052"/>Et se appelle auiourduy adaquas
-          <w next="#Repair_new279" resp="LGeRM">ma</w></p>
-        <w xml:id="Repair_new279">
-          <cb facs="#facs_383_TextRegion_1554456086605_2217" next="#Repair_new280"/>
+          <w resp="LGeRM">ma</w></p>
+        <w>
+          <cb facs="#facs_383_TextRegion_1554456086605_2217"/>
           <lb facs="#facs_383_r2l2" n="N001"/>ron</w>
-        <cb xml:id="Repair_new280"/>
-        <p xml:id="Repair_new280">. En ce dit lieu Josue auec Jabin
+        <cb/>
+        <p>. En ce dit lieu Josue auec Jabin
           <lb facs="#facs_383_r2l3" n="N002"/>roy de asor et les au ltres xxiiij roys bataillerent
           <lb facs="#facs_383_r2l4" n="N003"/>ensemble.sur lesquelx iosue
           <lb facs="#facs_383_r2l5" n="N004"/>fust victorieulx en les persecutant iusques
@@ -37106,9 +37106,9 @@
         <lb facs="#facs_388_r1l96" n="N047"/> carmeleon iusques a sephoron. ⁋ A
         <lb facs="#facs_388_r1l98" n="N048"/>deux lieues de chana galilee contre midy
         <lb facs="#facs_388_r1l100" n="N049"/>ou chemin qui maine de sephoron
-        <w next="#Repair_new281" resp="LGeRM">a </w>
-        <w xml:id="Repair_new281">
-          <cb facs="#facs_388_TextRegion_1554456269047_2345" next="#Repair_new282"/>
+        <w resp="LGeRM">a </w>
+        <w>
+          <cb facs="#facs_388_TextRegion_1554456269047_2345"/>
         </w>
         <pb facs="#facs_389" n="389"/>
         <cb facs="#facs_389_r1"/>
@@ -37890,8 +37890,8 @@
         <lb facs="#facs_396_r1l47" n="N046"/>phet contre Auster en declinant ung
         <lb facs="#facs_396_r1l48" n="N047"/>petit vers orient est galgala qui est le lieu
         <lb facs="#facs_396_r1l49" n="N048"/>ou les enfans de israhel colloquerent
-        <lb facs="#facs_396_r1l50" n="N049"/>et mirent long temps leurs ostz et <w next="#Repair_new283" resp="LGeRM">ten</w>
-        <w xml:id="Repair_new283"> toires apres ce qu'ilz eurent passe le fleuue
+        <lb facs="#facs_396_r1l50" n="N049"/>et mirent long temps leurs ostz et <w resp="LGeRM">ten</w>
+        <w> toires apres ce qu'ilz eurent passe le fleuue
           <lb facs="#facs_396_r2l2" n="N002"/>Jourdain.En ce mesme lieu aulcuns
           <lb facs="#facs_396_r2l3" n="N003"/>de eulx furent circoncis  comme
           <lb facs="#facs_396_r2l4" n="N004"/>appert ou cinquiesme de Josue. ⁋ A
@@ -37940,7 +37940,7 @@
           <lb facs="#facs_396_r2l47" n="N047"/>et y habitent religieux grecz. ⁋ Ceste
           <lb facs="#facs_396_r2l48" n="N048"/>mer morte qui est aultrement nommee
           <lb facs="#facs_396_r2l49" n="N049"/>la mer du sel ou le lac de asphalti<pb facs="#facs_397" n="397"/>
-          <cb facs="#facs_397_r1" next="#Repair_new284"/>
+          <cb facs="#facs_397_r1"/>
           <lb facs="#facs_397_r1l1" n="N001"/>et de cyment separe Arabie et iudee
           <lb facs="#facs_397_r1l2" n="N002"/>Et a ou Riuage oriental la terre de
           <lb facs="#facs_397_r1l3" n="N003"/>moab de Amon et la montaigne de
@@ -37990,9 +37990,9 @@
           <lb facs="#facs_397_r1l47" n="N047"/>comme les sarrazins me ont dit.esquelles
           <lb facs="#facs_397_r1l48" n="N048"/>iournees icelle mer est en sa superficie
           <lb facs="#facs_397_r1l49" n="N049"/>et dessus noire et tenebreuse
-          <lb facs="#facs_397_r1l50" n="N050"/>comme la cheminee denfer. ⁋ Et <w next="#Repair_new285" resp="LGeRM">com</w></w>
-        <w xml:id="Repair_new285">
-          <cb facs="#facs_397_TextRegion_1554456677096_2551" next="#Repair_new286"/>
+          <lb facs="#facs_397_r1l50" n="N050"/>comme la cheminee denfer. ⁋ Et <w resp="LGeRM">com</w></w>
+        <w>
+          <cb facs="#facs_397_TextRegion_1554456677096_2551"/>
           bien que par diuers aucteurs soyent
           <lb facs="#facs_397_r2l4" n="N002"/>choses diuerses escriptes de ceste mer
           <lb facs="#facs_397_r2l5" n="N003"/>toutesfoys ie les lesse en certifiant vne
@@ -38403,9 +38403,9 @@
         <lb facs="#facs_401_r1l47" n="N047"/>apparences sont encor veues. ⁋ De ceste
         <lb facs="#facs_401_r1l48" n="N048"/>tour et chasteau est veue toute arabie
         <lb facs="#facs_401_r1l49" n="N049"/>/ Jourdain/la mer morte/et plusiers
-        <lb facs="#facs_401_r1l50" n="N050"/>aultres lieux combien que aulcuns <w next="#Repair_new287" resp="LGeRM">ay</w>
-        <w xml:id="Repair_new287">
-          <cb facs="#facs_401_TextRegion_1554456824697_2630" next="#Repair_new288"/>
+        <lb facs="#facs_401_r1l50" n="N050"/>aultres lieux combien que aulcuns <w resp="LGeRM">ay</w>
+        <w>
+          <cb facs="#facs_401_TextRegion_1554456824697_2630"/>
           <lb facs="#facs_401_r3l3" n="N001"/>ent voulu dire que la tour nebuleuse
           <lb facs="#facs_401_r3l4" n="N002"/>fust prez du temple mais a ce ne se accorde
           <lb facs="#facs_401_r3l5" n="N003"/>point loportunite du lieu. En la
@@ -38666,11 +38666,11 @@
         <lb facs="#facs_403_r2l48" n="N047"/>ou quel est le sepulture des pelerins
         <lb facs="#facs_403_r2l49" n="N048"/>et estrangers et plusieurs precieux
         <lb facs="#facs_403_r2l50" n="N049"/>monumentz et fust achete de xxx deniers
-        <lb facs="#facs_403_line_1554456916457_2674" n="N050"/>pour lesquelx le traitre Judas <w next="#Repair_new289" resp="LGeRM">ven
+        <lb facs="#facs_403_line_1554456916457_2674" n="N050"/>pour lesquelx le traitre Judas <w resp="LGeRM">ven
         </w>
-        <w xml:id="Repair_new289">
+        <w>
           <pb facs="#facs_404" n="404"/>
-          <cb facs="#facs_404_TextRegion_1554456944796_2695" next="#Repair_new290"/>
+          <cb facs="#facs_404_TextRegion_1554456944796_2695"/>
           <lb facs="#facs_404_r1l2" n="N001"/>dist ihesucrist saulueur du monde.
           <lb facs="#facs_404_r1l3" n="N002"/>⁋ Dessoubz ces piscines et le champ acheldemach
           <lb facs="#facs_404_r1l4" n="N003"/>contre orient descent le torrent
@@ -38720,9 +38720,9 @@
           <lb/>dedens est vne roche ainsy comme estoit
           <lb facs="#facs_404_r1l49" n="N048"/>ou temps de la sepulture.On entre en ceste
           <lb facs="#facs_404_r1l50" n="N049"/>fosse du coste d'orient par vng huys
-          <lb facs="#facs_404_r1l51" n="N050"/>bas et petit. ⁋ La tumde du sainct <w next="#Repair_new291" resp="LGeRM">sepul</w></w>
-        <w xml:id="Repair_new291">
-          <cb facs="#facs_404_r2" next="#Repair_new292"/>
+          <lb facs="#facs_404_r1l51" n="N050"/>bas et petit. ⁋ La tumde du sainct <w resp="LGeRM">sepul</w></w>
+        <w>
+          <cb facs="#facs_404_r2"/>
           <lb facs="#facs_404_r2l1" n="N001"/>chre est a la main dextre de ceulx qui entrent
           <lb facs="#facs_404_r2l2" n="N002"/>dedens l'esglise prez du mur et du
           <lb facs="#facs_404_r2l3" n="N003"/>coste de feptentrion. Elle est de mar bre
@@ -38879,13 +38879,13 @@
         <lb facs="#facs_405_r2l49" n="N047"/>piez qui valent lx pas.Ainsy apert que le touret
         <lb facs="#facs_405_r2l50" n="N048"/> enuironnement de la cite contenoit cina
         <lb facs="#facs_405_r2l51" n="N049"/>milliaires /iij stades et xxv pas ou temps
-        <lb facs="#facs_405_line_1554456972017_2714" n="N050"/>que elle fust destruicte par les romains <w next="#Repair_new293" resp="LGeRM">com</w>
-        <w xml:id="Repair_new293">
+        <lb facs="#facs_405_line_1554456972017_2714" n="N050"/>que elle fust destruicte par les romains <w resp="LGeRM">com</w>
+        <w>
           <pb facs="#facs_406" n="406"/>
-          <cb facs="#facs_406_TextRegion_1554457008254_2733" next="#Repair_new294"/>
+          <cb facs="#facs_406_TextRegion_1554457008254_2733"/>
           <lb facs="#facs_406_r1l2" n="N001"/>me</w>
-        <cb xml:id="Repair_new294"/>
-        <p xml:id="Repair_new294"> dit Josephus qui a leuersion et ruine
+        <cb/>
+        <p> dit Josephus qui a leuersion et ruine
           <lb facs="#facs_406_r1l3" n="N002"/>dicelle cite fust present. mais apres ce
           <lb facs="#facs_406_r1l4" n="N003"/>fut hierusalem reedifiee et ampliee <w resp="LGeRM">par
           </w></p>
@@ -39199,10 +39199,10 @@
         <lb facs="#facs_408_r2l47" n="N047"/>de la terre saincte entre boreas et occident.
         <lb facs="#facs_408_r2l48" n="N048"/>etournons aur descriptions
         <lb facs="#facs_408_r2l49" n="N049"/>des parties de
-        <w next="#Repair_new295" resp="LGeRM">la </w>
-        <w xml:id="Repair_new295">
+        <w resp="LGeRM">la </w>
+        <w>
           <pb facs="#facs_409" n="409"/>
-          <cb facs="#facs_409_r1" next="#Repair_new296"/>
+          <cb facs="#facs_409_r1"/>
           <lb facs="#facs_409_r1l1" n="N001"/>terre qui reste et demeure a descripre. et
           <lb facs="#facs_409_r1l2" n="N002"/>premierement A deux lieues de hierusalem
           <lb facs="#facs_409_r1l3" n="N003"/>en procedant contre langlet ou cornet qui
@@ -39252,12 +39252,12 @@
           <lb facs="#facs_409_r1l47" n="N047"/>que selond la verite elle fust en la lignee
           <lb facs="#facs_409_r1l48" n="N048"/>de dan estant a lentour de la possession
           <lb facs="#facs_409_r1l49" n="N049"/>de iuda et asses prez de la mer. ⁋ Ou
-          <lb facs="#facs_409_r1l50" n="N050"/>champ et planice de ceste ville deux <w next="#Repair_new297" resp="LGeRM">va</w></w>
-        <w xml:id="Repair_new297">
-          <cb facs="#facs_409_TextRegion_1554457196766_2804" next="#Repair_new298"/>
+          <lb facs="#facs_409_r1l50" n="N050"/>champ et planice de ceste ville deux <w resp="LGeRM">va</w></w>
+        <w>
+          <cb facs="#facs_409_TextRegion_1554457196766_2804"/>
           <lb facs="#facs_409_r2l3" n="N001"/>ches</w>
-        <cb xml:id="Repair_new298"/>
-        <p xml:id="Repair_new298"> Ramenerent de la cite accoron lar che
+        <cb/>
+        <p> Ramenerent de la cite accoron lar che
           <lb facs="#facs_409_r2l4" n="N002"/>de nostreseigneur quant les bethsa-/
           <lb facs="#facs_409_r2l5" n="N003"/>mites coupoyent le ble en la vallee/desquelx
           <lb facs="#facs_409_r2l6" n="N004"/>moururent lxxM pource quilz auoyent
@@ -39411,10 +39411,10 @@
         <lb facs="#facs_410_r2l47" n="N047"/>se reuoqua de son propos.Le
         <lb facs="#facs_410_r2l48" n="N048"/>serpent sen ala dont il estoit venu soudainement
         <lb facs="#facs_410_r2l49" n="N049"/>.et l'eglise demoura en son entier
-        <lb facs="#facs_410_r2l50" n="N050"/>iusques a maintenant. <w next="#Repair_new299" resp="LGeRM">Toutes</w>
-        <w xml:id="Repair_new299">
+        <lb facs="#facs_410_r2l50" n="N050"/>iusques a maintenant. <w resp="LGeRM">Toutes</w>
+        <w>
           <pb facs="#facs_411" n="411"/>
-          <cb facs="#facs_411_r1" next="#Repair_new300"/>
+          <cb facs="#facs_411_r1"/>
           <lb facs="#facs_411_r1l1" n="N001"/>fois les vestiges et traces du corps du
           <lb facs="#facs_411_r1l2" n="N002"/>serpent se monstrent en chascune destables
           <lb facs="#facs_411_r1l3" n="N003"/>comme vne combustion ou brulement
@@ -39672,9 +39672,9 @@
         <lb facs="#facs_413_r1l45" n="N045"/>.et est situe ou coeur de la mer. ⁋ A
         <lb facs="#facs_413_r1l46" n="N046"/>vne lieue de caypha a la main senestre
         <lb facs="#facs_413_r1l47" n="N047"/>qui maine ou chasteau des pelerins sur
-        <lb facs="#facs_413_r1l48" n="N048"/>la montaigne du carme est la fosse de <w next="#Repair_new301" resp="LGeRM">he</w>
-        <w xml:id="Repair_new301">
-          <cb facs="#facs_413_TextRegion_1554626696757_97" next="#Repair_new302"/>
+        <lb facs="#facs_413_r1l48" n="N048"/>la montaigne du carme est la fosse de <w resp="LGeRM">he</w>
+        <w>
+          <cb facs="#facs_413_TextRegion_1554626696757_97"/>
           <lb facs="#facs_413_r2l3" n="N001"/>lie et la demourance de heliseus et le mon
           <lb facs="#facs_413_r2l4" n="N002"/>du carme.ou habitoyent les filz des prophetes
           <lb facs="#facs_413_r2l5" n="N003"/>ouquel demeurent auiourduy religieux
@@ -39932,8 +39932,8 @@
         <lb facs="#facs_415_r2l49" n="N047"/>/ cestassauoir de la cite de Dan
         <lb facs="#facs_415_r2l50" n="N048"/>maintenant appellee Belenas ou ce/
         <lb facs="#facs_415_r2l51" n="N049"/>saree de philippe iusques a Bersabee qui
-        <lb facs="#facs_415_r2l52" n="N050"/>maintenant est dicte giblin/ contient iiije <w next="#Repair_new303" resp="LGeRM">d </w>
-        <w xml:id="Repair_new303">
+        <lb facs="#facs_415_r2l52" n="N050"/>maintenant est dicte giblin/ contient iiije <w resp="LGeRM">d </w>
+        <w>
           <pb facs="#facs_416" n="416"/>
           <lb facs="#facs_416_r1l3" n="N001"/>et dix lieues.Par les choses dessusdictes
           <lb facs="#facs_416_r1l5" n="N002"/>appert en longueur  largeur  et
@@ -40086,12 +40086,12 @@
         <lb facs="#facs_417_r1l48" n="N048"/>ym dont est faite mention ou xxiijedu ije.
         <lb facs="#facs_417_r1l49" n="N049"/>des roys.Et semblablement iusques en
         <lb facs="#facs_417_r1l50" n="N050"/>neescol duquel lieu deux hommes
-        <w next="#Repair_new305" resp="LGeRM">rapor</w>
-        <w xml:id="Repair_new305">
-          <cb facs="#facs_417_TextRegion_1554626829828_184" next="#Repair_new306"/>
+        <w resp="LGeRM">rapor</w>
+        <w>
+          <cb facs="#facs_417_TextRegion_1554626829828_184"/>
           <lb facs="#facs_417_r2l2" n="N001"/>terent</w>
-        <cb xml:id="Repair_new306"/>
-        <p xml:id="Repair_new306"> en vne nuit le bourgon de vigne
+        <cb/>
+        <p> en vne nuit le bourgon de vigne
           <lb facs="#facs_417_r2l3" n="N002"/>tesmoing le xiijedu liure des nombres
           <lb facs="#facs_417_r2l4" n="N003"/>⁋ Alentour de sydone .et consequamment
           <lb facs="#facs_417_r2l5" n="N004"/>en toute la longueur du mont Libanus
@@ -40507,12 +40507,12 @@
         <lb facs="#facs_421_r1l48" n="N048"/>. Ilz consacrent de pain sans leuain
         <lb facs="#facs_421_r1l49" n="N049"/>en obseruant les parolles que nous disons
         <lb facs="#facs_421_r1l50" n="N050"/>. Ilz ont epistres euangilles/prefaces
-        <lb facs="#facs_421_r1l51" n="N051"/>/Pater noster / Sanctus /Agnus <w next="#Repair_new307" resp="LGeRM">dei </w>
-        <w xml:id="Repair_new307">
-          <cb facs="#facs_421_TextRegion_1554627376489_284" next="#Repair_new308"/>
+        <lb facs="#facs_421_r1l51" n="N051"/>/Pater noster / Sanctus /Agnus <w resp="LGeRM">dei </w>
+        <w>
+          <cb facs="#facs_421_TextRegion_1554627376489_284"/>
           <lb facs="#facs_421_r2l2" n="N001"/>en</w>
-        <cb xml:id="Repair_new308"/>
-        <p xml:id="Repair_new308"> la messe et le chantent ainsy comme
+        <cb/>
+        <p> la messe et le chantent ainsy comme
           <lb facs="#facs_421_r2l3" n="N002"/>nous.mais en leur langaige et escripture
           <lb facs="#facs_421_r2l4" n="N003"/>.car ilz ont lettres/langue et pnu-/
           <lb facs="#facs_421_r2l5" n="N004"/>ciation a eulx especiale et differente a
@@ -40751,12 +40751,12 @@
         <lb facs="#facs_426_r3l72" n="N001"/>braique l'an du monde ij MviiijClix . 
         <cb facs="#facs_426_TextRegion_1554627712878_438"/>
         Et est interprete fort de main.ou desirable a
-        <w next="#Repair_new309" resp="LGeRM">regar</w>
-        <w xml:id="Repair_new309">
-          <cb facs="#facs_426_TextRegion_1554627733473_453" next="#Repair_new310"/>
+        <w resp="LGeRM">regar</w>
+        <w>
+          <cb facs="#facs_426_TextRegion_1554627733473_453"/>
           <lb facs="#facs_426_r3l74" n="N001"/>der</w>
-        <cb xml:id="Repair_new310"/>
-        <p xml:id="Repair_new310">/tesmoing Saint ierome et Rabain
+        <cb/>
+        <p>/tesmoing Saint ierome et Rabain
           <lb facs="#facs_426_r3l75" n="N002"/>ou premier chapitre du iiie liure de vni-
           <lb facs="#facs_426_r3l77" n="N003"/>uerso. De la premiere interpretation est
           <lb facs="#facs_426_r3l80" n="N004"/>manifeste /car dauid fust tresfort et tresvaillant
@@ -40958,12 +40958,12 @@
         <lb facs="#facs_428_r1l48" n="N047"/>des temps.parquoy fut necessaire den
         <lb facs="#facs_428_r1l49" n="N048"/>oster ceulx qui plus conuenablement pouoyent
         <lb facs="#facs_428_r1l50" n="N049"/>estre ostez. ⁋ Touchant les ans
-        <lb facs="#facs_428_r1l51" n="N050"/>de ceste iiijeaage ne debuons point <w next="#Repair_new311" resp="LGeRM">igno</w>
-        <w xml:id="Repair_new311">
-          <cb facs="#facs_428_TextRegion_1554628074826_601" next="#Repair_new312"/>
+        <lb facs="#facs_428_r1l51" n="N050"/>de ceste iiijeaage ne debuons point <w resp="LGeRM">igno</w>
+        <w>
+          <cb facs="#facs_428_TextRegion_1554628074826_601"/>
           <lb facs="#facs_428_r3l1" n="N001"/>rer</w>
-        <cb xml:id="Repair_new312"/>
-        <p xml:id="Repair_new312"> que Eusebius /Vincent listorial /Hery
+        <cb/>
+        <p> que Eusebius /Vincent listorial /Hery
           <lb facs="#facs_428_r3l2" n="N002"/>de heruodia et plusieurs autres adioustent
           <lb facs="#facs_428_r3l3" n="N003"/>.x.ans auec les ans dessusdit
           <lb facs="#facs_428_r3l4" n="N004"/>de la iiiie aage selond la verite hebraique
@@ -41240,10 +41240,10 @@
         <lb facs="#facs_431_r1l49" n="N049"/>prelas dauoir bons costez/ cestadire da
         <lb facs="#facs_431_r1l50" n="N050"/>uoir hommes prudens fors et sages a len
         <lb facs="#facs_431_r1l51" n="N051"/>tour de soy Et pource sainct bernard 
-        <w xml:id="Repair_new313"><cb facs="#facs_431_TextRegion_1554628362632_691" next="#Repair_new314"/>
+        <w><cb facs="#facs_431_TextRegion_1554628362632_691"/>
           <lb facs="#facs_431_r3l2" n="N001"/>ou</w>
-        <cb xml:id="Repair_new314"/>
-        <p xml:id="Repair_new314"> liure de la consideration escript au
+        <cb/>
+        <p> liure de la consideration escript au
           <lb facs="#facs_431_r3l3" n="N002"/>pape eugene quil ne se doit point reputez
           <lb facs="#facs_431_r3l4" n="N003"/>sain ne haitie sil a mal aux costez/cest
           <lb facs="#facs_431_r3l5" n="N004"/>adire sil na gens de bien auec soy.⁋De
@@ -41834,9 +41834,9 @@
         <lb facs="#facs_437_r1l48" n="N048"/>hommes.et fraperay sur dauid et sur les
         <lb facs="#facs_437_r1l49" n="N049"/>siens en les prenant a despourueu. dont
         <lb facs="#facs_437_r1l50" n="N050"/>il aduiendra que tout israel ira apres
-        <lb facs="#facs_437_r1l51" n="N051"/>toy et te ensuiura.auquel absalon <w next="#Repair_new315" resp="LGeRM">respon</w>
-        <w xml:id="Repair_new315">
-          <cb facs="#facs_437_TextRegion_1554629336686_928" next="#Repair_new316"/>
+        <lb facs="#facs_437_r1l51" n="N051"/>toy et te ensuiura.auquel absalon <w resp="LGeRM">respon</w>
+        <w>
+          <cb facs="#facs_437_TextRegion_1554629336686_928"/>
           <lb facs="#facs_437_line_1554629327670_922" n="N001"/>
           <lb facs="#facs_437_r2l2" n="N002"/>dist Demandons conseil a chusy/lequel
           <lb facs="#facs_437_r2l3" n="N003"/>chusy delibera en ceste maniere. Le comseil
@@ -41971,9 +41971,9 @@
         <lb facs="#facs_438_r1l83" n="N030"/>lignee de besebeel lequel estoit paintre
         <lb facs="#facs_438_r1l85" n="N031"/>et faisoit polimites qui sont de filz de diuerses
         <lb facs="#facs_438_r1l87" n="N032"/>couleurs.ou pource quil amplya 
-        <w xml:id="Repair_new317">
+        <w>
           <pb facs="#facs_439" n="439"/>
-          <cb facs="#facs_439_r1" next="#Repair_new318"/>
+          <cb facs="#facs_439_r1"/>
           <lb facs="#facs_439_r1l1" n="N001"/>en maintes manieres lonneur et seruice
           <lb facs="#facs_439_r1l2" n="N002"/>de dieu. Quartement fut dit bethleeme
           <lb facs="#facs_439_r1l3" n="N003"/>te pource quil estoit de bethleem
@@ -42057,13 +42057,13 @@
         <lb facs="#facs_439_r2l49" n="N009"/>en latin selond les lxx interpretes. Et
         <lb facs="#facs_439_r2l50" n="N010"/>appelle le psaultier romain pource que le
         <lb facs="#facs_439_r2l51" n="N011"/>glise de sainct pierre en vsoit sur tous
-        <lb facs="#facs_439_r2l52" n="N012"/>parquoy en tous lieux estoit chante <w next="#Repair_new319" resp="LGeRM">com</w>
-        <w xml:id="Repair_new319">
+        <lb facs="#facs_439_r2l52" n="N012"/>parquoy en tous lieux estoit chante <w resp="LGeRM">com</w>
+        <w>
           <pb facs="#facs_440" n="440"/>
-          <cb facs="#facs_440_TextRegion_1554629604940_1067" next="#Repair_new320"/>
+          <cb facs="#facs_440_TextRegion_1554629604940_1067"/>
           <lb facs="#facs_440_r1l3" n="N001"/>me</w>
-        <cb xml:id="Repair_new320"/>
-        <p xml:id="Repair_new320"> recite guillermus ou liure nomme le
+        <cb/>
+        <p> recite guillermus ou liure nomme le
           <lb facs="#facs_440_r1l5" n="N002"/>rationel des offices diuines en la vie
           <lb facs="#facs_440_r1l7" n="N003"/>partie et fin du premier chapitre. De
           <lb facs="#facs_440_r1l9" n="N004"/>ceste translation ou correction des lxx
@@ -42113,8 +42113,8 @@
           <lb facs="#facs_440_r1l96" n="N047"/>nonia et de plusieurs aultres.
           <lb facs="#facs_440_r1l98" n="N048"/>⁋ L'an xxxvjedu regne de dauid / il fist
           <lb facs="#facs_440_r1l100" n="N049"/>nombrer son peuple de israhel/ tesmoing
-          <lb facs="#facs_440_r1l102" n="N050"/>le xxiiijeet dernier du ije des roys et <w next="#Repair_new321" resp="LGeRM">le </w></p>
-        <w xml:id="Repair_new321"> </w>
+          <lb facs="#facs_440_r1l102" n="N050"/>le xxiiijeet dernier du ije des roys et <w resp="LGeRM">le </w></p>
+        <w> </w>
         <cb facs="#facs_440_TextRegion_1554629644231_1113"/>
         <lb facs="#facs_440_r1l71" n="N001"/>
         <cb facs="#facs_440_TextRegion_1554629640338_1109"/>
@@ -42830,8 +42830,8 @@
         <lb facs="#facs_447_r2l45" n="N044"/>toy ne ara apres toy qui soit semblable a toy
         <lb facs="#facs_447_r2l46" n="N045"/>Car il seurmontoit les .iiii. filz de ma
         <lb facs="#facs_447_r2l47" n="N046"/>ol qui en sagesse estoient tresrenommez
-        <lb facs="#facs_447_r2l48" n="N047"/>cestassauoir.eman/ethan/calcal/et <w next="#Repair_new323" resp="LGeRM">dor </w>
-        <w xml:id="Repair_new323">
+        <lb facs="#facs_447_r2l48" n="N047"/>cestassauoir.eman/ethan/calcal/et <w resp="LGeRM">dor </w>
+        <w>
           <pb facs="#facs_448" n="448"/>
         </w>
         <cb facs="#facs_448_TextRegion_1554630521850_1398"/>
@@ -42887,8 +42887,8 @@
         <lb facs="#facs_448_r1l49" n="N048"/>feu.A couurir chascun diceulx boucliers
         <lb facs="#facs_448_r1l50" n="N049"/>estoyent iij CMliures dor ou comme dient
         <lb facs="#facs_448_r1l51" n="N050"/>aultres iijCdragmes.lesquelles choses mist
-        <cb xml:id="Repair_new324"/>
-        <p xml:id="Repair_new324"> salomon en la maison du sault de
+        <cb/>
+        <p> salomon en la maison du sault de
           <lb facs="#facs_448_r2l2" n="N002"/>libanus.En oultre il fist vng throne
           <lb facs="#facs_448_r2l3" n="N003"/>de y vvire quil vestist totallement d'or
           <lb facs="#facs_448_r2l4" n="N004"/>Toute sa vesselle et tous les vtensiles
@@ -42989,12 +42989,12 @@
         <lb facs="#facs_449_r1l47" n="N047"/>mortel.Pour ceste cause lescripture
         <lb facs="#facs_449_r1l48" n="N048"/>des hebrieux la nomme sainct affin quene
         <lb facs="#facs_449_r1l49" n="N049"/>ayons nulle dubitation de sa penitence
-        <lb facs="#facs_449_r1l50" n="N050"/>. ⁋ Item dient les hebreux que <w next="#Repair_new325" resp="LGeRM">sa</w>
-        <w xml:id="Repair_new325">
-          <cb facs="#facs_449_TextRegion_1554630559835_1413" next="#Repair_new326"/>
+        <lb facs="#facs_449_r1l50" n="N050"/>. ⁋ Item dient les hebreux que <w resp="LGeRM">sa</w>
+        <w>
+          <cb facs="#facs_449_TextRegion_1554630559835_1413"/>
           <lb facs="#facs_449_r2l2" n="N001"/>lomon</w>
-        <cb xml:id="Repair_new326"/>
-        <p xml:id="Repair_new326"> vint au temple quil auoit edifie
+        <cb/>
+        <p> vint au temple quil auoit edifie
           <lb facs="#facs_449_r2l3" n="N002"/>et aporta cinq verges.desquelles en
           <lb facs="#facs_449_r2l4" n="N003"/>bailla quatre aux quatre docteurs de
           <lb facs="#facs_449_r2l5" n="N004"/>la loy affin quilz le en batissent / lequel
@@ -43437,13 +43437,13 @@
         <lb facs="#facs_453_r2l51" n="N050"/>sen vint degipte pour infester et trauailler
         <lb facs="#facs_453_r2l52" n="N051"/>israel qui tousiours auoit este pacifi-
         <lb facs="#facs_453_r2l53" n="N052"/>que iusques a luy.Et aussi Razon
-        <w next="#Repair_new327" resp="LGeRM">prin</w>
-        <w xml:id="Repair_new327">
+        <w resp="LGeRM">prin</w>
+        <w>
           <pb facs="#facs_454" n="454"/>
-          <cb facs="#facs_454_TextRegion_1554631563741_1601" next="#Repair_new328"/>
+          <cb facs="#facs_454_TextRegion_1554631563741_1601"/>
           <lb facs="#facs_454_r1l2" n="N001"/>ce</w>
-        <cb xml:id="Repair_new328"/>
-        <p xml:id="Repair_new328"> des larrons qui sus la cite de damas
+        <cb/>
+        <p> des larrons qui sus la cite de damas
           <lb facs="#facs_454_r1l3" n="N002"/>auoit este constitue roy fust fait aduersaire
           <lb facs="#facs_454_r1l4" n="N003"/>de salomon/tesmoing le chapitre xjedu iij
           <lb facs="#facs_454_r1l5" n="N004"/>⁋ L'an xxxixequi est du monde lan ijM ixC
@@ -43670,11 +43670,11 @@
         <cb facs="#facs_457_r8"/>
         <lb facs="#facs_457_r8l1" n="N001"/>. 
         <pb facs="#facs_458" n="458"/>
-        <w xml:id="Repair_new331">
-          <cb facs="#facs_458_TextRegion_1554631906335_1869" next="#Repair_new332"/>
+        <w>
+          <cb facs="#facs_458_TextRegion_1554631906335_1869"/>
           <lb facs="#facs_458_r1l2" n="N001"/>le</w>
-        <cb xml:id="Repair_new332"/>
-        <p xml:id="Repair_new332"> xiiechapitre du iiie. liure des rois.
+        <cb/>
+        <p> xiiechapitre du iiie. liure des rois.
           <lb facs="#facs_458_r1l3" n="N002"/>⁋ Lan veegippus ou selond les autres
           <lb facs="#facs_458_r1l4" n="N003"/>egiptus/ou comme ditQuide ou xiiije
           <lb facs="#facs_458_r1l5" n="N004"/>liure de methamorphose Epitus silur-
@@ -43776,7 +43776,7 @@
           <lb facs="#facs_458_r2l47" n="N046"/>en tant quilz violerent les lois de dieu
           <lb facs="#facs_458_r2l48" n="N047"/>comme apert ou xv. de sainct mathieu
           <lb facs="#facs_458_r2l49" n="N048"/>⁋ Apres ce que la cite bethel fust prise
-          <lb facs="#facs_458_r2l50" n="N049"/>Abias reserua toutes les ydoles de <w next="#Repair_new331" resp="LGeRM">is</w></p>
+          <lb facs="#facs_458_r2l50" n="N049"/>Abias reserua toutes les ydoles de <w resp="LGeRM">is</w></p>
         <pb facs="#facs_459" n="459"/>
         <cb facs="#facs_459_r1"/>
         <lb facs="#facs_459_r1l1" n="N001"/>⁋ riel en son scandale et gref detriment.
@@ -44001,12 +44001,12 @@
         <lb facs="#facs_461_r1l47" n="N047"/>dicelluy fust israel en dissipation et destruction
         <lb facs="#facs_461_r1l48" n="N048"/>/tesmoing le xiie xiiie et xiiii
         <lb facs="#facs_461_r1l49" n="N049"/>chapitres du tiers liure des roys. finablement
-        <lb facs="#facs_461_r1l50" n="N050"/>quant son filz Abias fust <w next="#Repair_new333" resp="LGeRM">ma</w>
-        <w xml:id="Repair_new333">
-          <cb facs="#facs_461_TextRegion_1554632160834_2041" next="#Repair_new334"/>
+        <lb facs="#facs_461_r1l50" n="N050"/>quant son filz Abias fust <w resp="LGeRM">ma</w>
+        <w>
+          <cb facs="#facs_461_TextRegion_1554632160834_2041"/>
           <lb facs="#facs_461_r2l2" n="N001"/>lade</w>
-        <cb xml:id="Repair_new334"/>
-        <p xml:id="Repair_new334"> et quil eust enuoye sa femme en habit
+        <cb/>
+        <p> et quil eust enuoye sa femme en habit
           <lb facs="#facs_461_r2l3" n="N002"/>dissimule vers le prophete ahias si-/
           <lb facs="#facs_461_r2l4" n="N003"/>lonites dont il eust triste et desplaisante
           <lb facs="#facs_461_r2l5" n="N004"/>responce. Il trespassa apres ce que il
@@ -44103,12 +44103,12 @@
         <lb facs="#facs_462_r1l90" n="N045"/>aulcunesfois partie de lan est es liures
         <lb facs="#facs_462_r1l91" n="N046"/>des rois et aultres appellee vng an acompli
         <lb facs="#facs_462_r1l92" n="N047"/>par sinodoche / cestadire par telle
-        <lb facs="#facs_462_r1l93" n="N048"/>maniere de parler . Ainsy comme <w next="#Repair_new335" resp="LGeRM">len </w>
-        <w xml:id="Repair_new335">
-          <cb facs="#facs_462_TextRegion_1554632212245_2081" next="#Repair_new336"/>
+        <lb facs="#facs_462_r1l93" n="N048"/>maniere de parler . Ainsy comme <w resp="LGeRM">len </w>
+        <w>
+          <cb facs="#facs_462_TextRegion_1554632212245_2081"/>
           <lb facs="#facs_462_r1l2" n="N001"/>dit</w>
-        <cb xml:id="Repair_new336"/>
-        <p xml:id="Repair_new336"> de hiesucrist quil prescha trois ans
+        <cb/>
+        <p> de hiesucrist quil prescha trois ans
           <lb facs="#facs_462_r1l4" n="N002"/>et demy et toutesfois pour le demi an
           <lb facs="#facs_462_r1l6" n="N003"/>nest conte sinon le temps qui est de puis
           <lb facs="#facs_462_r1l8" n="N004"/>Noe iusques a pasque. Semblablement
@@ -44203,12 +44203,12 @@
         <lb facs="#facs_463_r3l46" n="N045"/>abiram premier filz dicelluy ahiel
         <lb facs="#facs_463_r3l47" n="N046"/>en faisant les fondementz dicelle ville/
         <lb facs="#facs_463_r3l48" n="N047"/>Et consequamment Segub son dernier
-        <lb facs="#facs_463_r3l49" n="N048"/>filz en faisant la fortification des <w next="#Repair_new337" resp="LGeRM">por</w>
-        <w xml:id="Repair_new337">
-          <cb facs="#facs_463_TextRegion_1554632236920_2094" next="#Repair_new338"/>
+        <lb facs="#facs_463_r3l49" n="N048"/>filz en faisant la fortification des <w resp="LGeRM">por</w>
+        <w>
+          <cb facs="#facs_463_TextRegion_1554632236920_2094"/>
           <lb facs="#facs_463_r4l2" n="N001"/>tes</w>
-        <cb xml:id="Repair_new338"/>
-        <p xml:id="Repair_new338">/ainsy comme iosue auoit prie de aduenir
+        <cb/>
+        <p>/ainsy comme iosue auoit prie de aduenir
           <lb facs="#facs_463_r4l3" n="N002"/>a celluy qui telle cite reedifiroyt
           <lb facs="#facs_463_r4l4" n="N003"/>comme apert ou vi.chapitre de iosue
           <lb facs="#facs_463_r4l5" n="N004"/>Pour ce cy confermer dit Nicolas delira
@@ -45144,10 +45144,10 @@
         <lb facs="#facs_475_r4l44" n="N031"/>du iiiie liure des rois. Aussi pour les
         <lb facs="#facs_475_r4l45" n="N032"/>pechez de Jehuroy de israel Il fust enuoie
         <lb facs="#facs_475_r4l46" n="N033"/>de dieu en toute la terre de galaad 
-        <w xml:id="Repair_new341"><cb facs="#facs_475_TextRegion_1554655337938_218" next="#Repair_new342"/>
+        <w><cb facs="#facs_475_TextRegion_1554655337938_218"/>
           <lb facs="#facs_475_r6l2" n="N001"/>de</w>
-        <cb xml:id="Repair_new342"/>
-        <p xml:id="Repair_new342"> gad/de ruben/ et de manasse ou il fist
+        <cb/>
+        <p> gad/de ruben/ et de manasse ou il fist
           <lb facs="#facs_475_r6l3" n="N002"/>vne grand playe et trauailla fort Joa/
           <lb facs="#facs_475_r6l4" n="N003"/>chaz roy de israel tout le temps de <w resp="LGeRM">sa vie</w>
           <lb facs="#facs_475_r6l5" n="N004"/>⁋ Benadab filz de azael roy de sirie regna
@@ -45199,13 +45199,13 @@
           <lb facs="#facs_475_r6l50" n="N049"/>roy des albains. </p>
         <pb facs="#facs_476" n="476"/>
         <pb facs="#facs_477" n="477"/>
-        <w xml:id="Repair_new343"><pb facs="#facs_478" n="478"/>
-          <cb facs="#facs_478_r1" next="#Repair_new344"/>
+        <w><pb facs="#facs_478" n="478"/>
+          <cb facs="#facs_478_r1"/>
         </w>
         <cb facs="#facs_478_TextRegion_1554655486857_362"/>
         <lb facs="#facs_478_r5l2" n="N001"/>⁋Chapite xxvede osia roy de iuda xe. 
-        <cb xml:id="Repair_new344"/>
-        <p xml:id="Repair_new344"> </p>
+        <cb/>
+        <p> </p>
         <p>san b/qui aultrement est appelle
           <lb facs="#facs_478_r5l38" n="N002"/>azarias fust filz de amasias
           <lb facs="#facs_478_r5l39" n="N003"/>et roy xede iuda. Il eust possession et
@@ -45819,14 +45819,14 @@
         <lb facs="#facs_485_r3l56" n="N027"/>estoyent aborigenes rustiques
         <lb facs="#facs_485_r3l58" n="N028"/>et estrangers parquoy ne pouoyent auoir
         <lb facs="#facs_485_r3l60" n="N029"/>fames ilz firent tant par leurs cautelles
-        <lb facs="#facs_485_line_1554657605853_1020" n="N030"/>quilz rauirent et prindrent <w next="#Repair_new347" resp="LGeRM">vio</w>
-        <w xml:id="Repair_new347">
+        <lb facs="#facs_485_line_1554657605853_1020" n="N030"/>quilz rauirent et prindrent <w resp="LGeRM">vio</w>
+        <w>
           <cb facs="#facs_485_r8"/>
           <lb facs="#facs_485_r8l1" n="N001"/>
-          <cb facs="#facs_485_TextRegion_1554657583710_992" next="#Repair_new348"/>
+          <cb facs="#facs_485_TextRegion_1554657583710_992"/>
           <lb facs="#facs_485_r6l2" n="N001"/>lentement</w>
-        <cb xml:id="Repair_new348"/>
-        <p xml:id="Repair_new348"> les vierges et femmes des cites
+        <cb/>
+        <p> les vierges et femmes des cites
           <lb facs="#facs_485_r6l3" n="N002"/>voisines. ⁋ Achab en lan viije de son
           <lb facs="#facs_485_r6l4" n="N003"/>regne/ tesmoing affricanus transporta
           <lb facs="#facs_485_r6l5" n="N004"/>vers aquilon lautel darain qui parauant
@@ -45984,12 +45984,12 @@
         <lb facs="#facs_487_r1l48" n="N048"/>in
         <lb facs="#facs_487_r1l49" n="N049"/>eroboam filz de Joas
         <lb facs="#facs_487_r1l50" n="N050"/>dont est faite mention ou xiijecha
-        <lb facs="#facs_487_r1l51" n="N051"/>pitre du iiiieliure des rois commenca <w next="#Repair_new349" resp="LGeRM">re</w>
-        <w xml:id="Repair_new349">
-          <cb facs="#facs_487_TextRegion_1554657864295_1269" next="#Repair_new350"/>
+        <lb facs="#facs_487_r1l51" n="N051"/>pitre du iiiieliure des rois commenca <w resp="LGeRM">re</w>
+        <w>
+          <cb facs="#facs_487_TextRegion_1554657864295_1269"/>
           <lb facs="#facs_487_r2l29" n="N001"/>gner</w>
-        <cb xml:id="Repair_new350"/>
-        <p xml:id="Repair_new350"> xiijeroy lan xve du regne de amasias
+        <cb/>
+        <p> xiijeroy lan xve du regne de amasias
           <lb facs="#facs_487_r2l30" n="N002"/>roy de iuda et regna sur israhel xlj
           <lb facs="#facs_487_r2l31" n="N003"/>ans acomplis. Il reconquesta les termes et
           <lb facs="#facs_487_r2l32" n="N004"/>possessions de israel qui sont depuis anthioche
@@ -46942,9 +46942,9 @@
         <lb facs="#facs_500_r4l83" n="N002"/>siracuse et cumes citez de cicile fondees
         <lb facs="#facs_500_r4l85" n="N003"/>⁋ L'an xixefust le commencement du
         <lb facs="#facs_500_r4l87" n="N004"/>regne de cardiaces iiijeroy des medes lequel
-        <lb facs="#facs_500_r4l89" n="N005"/>regna xij ans. ⁋ En cest an <w next="#Repair_new351" resp="LGeRM">Me</w>
-        <cb xml:id="Repair_new352"/>
-        <p xml:id="Repair_new352"> </p>
+        <lb facs="#facs_500_r4l89" n="N005"/>regna xij ans. ⁋ En cest an <w resp="LGeRM">Me</w>
+        <cb/>
+        <p> </p>
         <cb facs="#facs_500_TextRegion_1554663060201_2169"/>
         <lb facs="#facs_500_r4l2" n="N001"/>
         <pb facs="#facs_501" n="501"/>
@@ -47535,12 +47535,12 @@
         <lb facs="#facs_507_r1l48" n="N048"/>fondation du temple .Et ministra
         <lb facs="#facs_507_r1l49" n="N049"/>en tel office quatorre ans. En cest an
         <lb facs="#facs_507_r1l50" n="N050"/>commenca Calentus ou zalentus
-        <w next="#Repair_new353" resp="LGeRM">le</w>
-        <w xml:id="Repair_new353">
-          <cb facs="#facs_507_TextRegion_1554664362748_2640" next="#Repair_new354"/>
+        <w resp="LGeRM">le</w>
+        <w>
+          <cb facs="#facs_507_TextRegion_1554664362748_2640"/>
           <lb facs="#facs_507_r2l2" n="N001"/>gislateur</w>
-        <cb xml:id="Repair_new354"/>
-        <p xml:id="Repair_new354"> estre renomme enuers les
+        <cb/>
+        <p> estre renomme enuers les
           <lb facs="#facs_507_r2l3" n="N002"/>lotres. ⁋ De icelluy raconte Valere
           <lb facs="#facs_507_r2l4" n="N003"/>que luy ayant vng filz condamne parses
           <lb facs="#facs_507_r2l5" n="N004"/>lois de perdre les deux yeux a cause
@@ -48467,12 +48467,12 @@
         <lb facs="#facs_517_r4l44" n="N016"/>.parquoy il est manifeste que les
         <lb facs="#facs_517_r4l45" n="N017"/>aultres ont greuement offense dieu.
         <lb facs="#facs_517_r4l46" n="N018"/>⁋ ydolatrie est commise en plusieurs manieres
-        <lb facs="#facs_517_r4l47" n="N019"/>/premierement par rebelle <w next="#Repair_new355" resp="LGeRM">ino </w>
-        <w xml:id="Repair_new355">
-          <cb facs="#facs_517_TextRegion_1554670952013_282" next="#Repair_new356"/>
+        <lb facs="#facs_517_r4l47" n="N019"/>/premierement par rebelle <w resp="LGeRM">ino </w>
+        <w>
+          <cb facs="#facs_517_TextRegion_1554670952013_282"/>
           <lb facs="#facs_517_r5l2" n="N001"/>bedience</w>
-        <cb xml:id="Repair_new356"/>
-        <p xml:id="Repair_new356"> quant on na point vraye foyes
+        <cb/>
+        <p> quant on na point vraye foyes
           <lb facs="#facs_517_r5l3" n="N002"/>choses que len doit croire. Secondement
           <lb facs="#facs_517_r5l4" n="N003"/>par obseruer et faire sorceries et
           <lb facs="#facs_517_r5l5" n="N004"/>diuinations comme apert en la seconde
@@ -48521,10 +48521,10 @@
           <lb facs="#facs_517_r5l48" n="N047"/>de rapine ne possederont point le royaume
           <lb facs="#facs_517_r5l49" n="N048"/>de dieu/car telx ne peuent iamais
           <lb facs="#facs_517_r5l50" n="N049"/>faire penitence salutaire en retenant
-          <lb facs="#facs_517_line_1554670952130_285" n="N050"/>les biens daultruy quant ilz ont <w next="#Repair_new357" resp="LGeRM">facul</w></p>
-        <w xml:id="Repair_new357">
+          <lb facs="#facs_517_line_1554670952130_285" n="N050"/>les biens daultruy quant ilz ont <w resp="LGeRM">facul</w></p>
+        <w>
           <pb facs="#facs_518" n="518"/>
-          <cb facs="#facs_518_TextRegion_1554670986459_320" next="#Repair_new358"/>
+          <cb facs="#facs_518_TextRegion_1554670986459_320"/>
           <lb facs="#facs_518_r1l2" n="N001"/>te et puissance de satisfaire et ne font
           <lb facs="#facs_518_r1l3" n="N002"/>point de satisfaction comme apert en
           <lb facs="#facs_518_r1l4" n="N003"/>la viequestion de la xiiiiecause. Et qui
@@ -48921,10 +48921,10 @@
         <lb facs="#facs_521_r2l47" n="N046"/>.pour laquelle cause les prestres diceulx
         <lb facs="#facs_521_r2l48" n="N047"/>egyptiens mirent en ung lieu secret
         <lb facs="#facs_521_r2l49" n="N048"/>du temple lymage de la vierge et
-        <lb facs="#facs_521_r2l50" n="N049"/>de son enfant lequel ilz adoroyent. <w next="#Repair_new361" resp="LGeRM">les </w>
-        <w xml:id="Repair_new361">
+        <lb facs="#facs_521_r2l50" n="N049"/>de son enfant lequel ilz adoroyent. <w resp="LGeRM">les </w>
+        <w>
           <pb facs="#facs_522" n="522"/>
-          <cb facs="#facs_522_TextRegion_1554671132322_436" next="#Repair_new362"/>
+          <cb facs="#facs_522_TextRegion_1554671132322_436"/>
           <lb facs="#facs_522_r1l3" n="N001"/>quelx prestres interroguez par le roy
           <lb facs="#facs_522_r1l5" n="N002"/>ptholomeus pour quelle raison ilz feissent
           <lb facs="#facs_522_r1l7" n="N003"/>telle chose / Respondirent quilz tenoyent
@@ -49010,10 +49010,10 @@
         <lb facs="#facs_522_r1l118" n="N021"/>te mention lan premier de sedechias est interprete
         <lb facs="#facs_522_r1l120" n="N022"/>seigneur dominant.dicelluy es
         <lb facs="#facs_522_r1l122" n="N023"/>escript ou dernier chapitre du iiije des
-        <lb facs="#facs_522_r1l124" n="N024"/>rois comment il fust occis par <w next="#Repair_new363" resp="LGeRM">nabugodo</w>
-        <w xml:id="Repair_new363">
+        <lb facs="#facs_522_r1l124" n="N024"/>rois comment il fust occis par <w resp="LGeRM">nabugodo</w>
+        <w>
           <pb facs="#facs_523" n="523"/>
-          <cb facs="#facs_523_r2" next="#Repair_new364"/>
+          <cb facs="#facs_523_r2"/>
           <lb facs="#facs_523_r2l1" n="N001"/>nosor roy de babilone. Ainsy apert selon
           <lb facs="#facs_523_r2l2" n="N002"/>comestor en listoire du quart des roys
           <lb facs="#facs_523_r2l3" n="N003"/>que depuis le premier sadoch de la ligne
@@ -49272,9 +49272,9 @@
         <lb facs="#facs_525_r1l47" n="N047"/>en captiuite dist quilz demourroyent
         <lb facs="#facs_525_r1l48" n="N048"/>en paix et en leur franc arbitre sans
         <lb facs="#facs_525_r1l49" n="N049"/>seruitude.Et affin quil se congnust auoir
-        <lb facs="#facs_525_r1l50" n="N050"/>auctorite /dieu luy demonstra <w next="#Repair_new365" resp="LGeRM">aul</w>
-        <w xml:id="Repair_new365">
-          <cb facs="#facs_525_TextRegion_1554671320030_571" next="#Repair_new366"/>
+        <lb facs="#facs_525_r1l50" n="N050"/>auctorite /dieu luy demonstra <w resp="LGeRM">aul</w>
+        <w>
+          <cb facs="#facs_525_TextRegion_1554671320030_571"/>
           <lb facs="#facs_525_r2l2" n="N001"/>cunes visions cestassauoir la similitude
           <lb facs="#facs_525_r2l3" n="N002"/>dung homme /dung leon / de vng
           <lb facs="#facs_525_r2l4" n="N003"/>veau/et de vng aygle. non pas seulement
@@ -49574,9 +49574,9 @@
         <lb facs="#facs_528_r1l50" n="N049"/>et conferens de aulcune matiere/Il esleua
         <lb facs="#facs_528_r1l51" n="N050"/>sa teste qui par auant estoit enclinee
         <lb facs="#facs_528_r1l52" n="N051"/>e tabessee.dont fut diceulx interogue
-        <w next="#Repair_new367" resp="LGeRM">por </w>
-        <w xml:id="Repair_new367">
-          <cb facs="#facs_528_TextRegion_1554671411529_699" next="#Repair_new368"/>
+        <w resp="LGeRM">por </w>
+        <w>
+          <cb facs="#facs_528_TextRegion_1554671411529_699"/>
           <lb facs="#facs_528_r2l1" n="N001"/>quoy il faisoit telle chose / respondist affin
           <lb facs="#facs_528_r2l2" n="N002"/>que ie meure legerement quant ie aray
           <lb facs="#facs_528_r2l3" n="N003"/>congnu la matiere de quoy vous disputez
@@ -49649,12 +49649,12 @@
         <lb facs="#facs_529_r8l39" n="N030"/>fort de le persecuter avant ce quil obtint
         <lb facs="#facs_529_r8l40" n="N031"/>la seignourie et preminence sur les mitile
         <lb facs="#facs_529_r8l41" n="N032"/>menses.Quant iceluy pitache paruint a telle
-        <lb facs="#facs_529_r8l42" n="N033"/> principaulte /il fist venir a soy le dit <w next="#Repair_new369" resp="LGeRM">a </w>
-        <w xml:id="Repair_new369">
-          <cb facs="#facs_529_TextRegion_1554671535487_805" next="#Repair_new370"/>
+        <lb facs="#facs_529_r8l42" n="N033"/> principaulte /il fist venir a soy le dit <w resp="LGeRM">a </w>
+        <w>
+          <cb facs="#facs_529_TextRegion_1554671535487_805"/>
           <lb facs="#facs_529_r9l3" n="N001"/>che</w>
-        <cb xml:id="Repair_new370"/>
-        <p xml:id="Repair_new370"> tremblant et fort espouente et luy dist.
+        <cb/>
+        <p> tremblant et fort espouente et luy dist.
           <lb facs="#facs_529_r9l4" n="N002"/>En tant que maintenant nas nulle espance
           <lb facs="#facs_529_r9l5" n="N003"/>de aide ne de fuite/tu peux congnoistre queil
           <lb facs="#facs_529_r9l6" n="N004"/>est en moy de te bailler la remune-
@@ -49858,12 +49858,12 @@
         <lb facs="#facs_531_r1l47" n="N047"/>portoit tout car il portoit sa science qui
         <lb facs="#facs_531_r1l48" n="N048"/>estoit lougee ou domicile de lentendement
         <lb facs="#facs_531_r1l49" n="N049"/>.et ne pouoit pas estre veue ne comgnue
-        <lb facs="#facs_531_r1l50" n="N050"/>des yeux corporelx ne par <w next="#Repair_new371" resp="LGeRM">conse </w>
-        <w xml:id="Repair_new371">
-          <cb facs="#facs_531_TextRegion_1554671590180_841" next="#Repair_new372"/>
+        <lb facs="#facs_531_r1l50" n="N050"/>des yeux corporelx ne par <w resp="LGeRM">conse </w>
+        <w>
+          <cb facs="#facs_531_TextRegion_1554671590180_841"/>
           <lb facs="#facs_531_r3l3" n="N001"/>quent</w>
-        <cb xml:id="Repair_new372"/>
-        <p xml:id="Repair_new372"> desrobee de nul larron ou murdrier
+        <cb/>
+        <p> desrobee de nul larron ou murdrier
           <lb facs="#facs_531_r3l4" n="N002"/>. ⁋ Comme dit laercius ou liure
           <lb facs="#facs_531_r3l5" n="N003"/>de la vie des philosophes Telles sont
           <lb facs="#facs_531_r3l6" n="N004"/>ses sentences et dis moraulx . Efforce
